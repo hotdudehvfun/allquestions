@@ -715,7 +715,7 @@
     "section": "General Awarness"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 76 to 78, some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken corresponding to 'No error' in the Answer Sheet.</b></span><br /><br />We have (A)/ to vacate (B)/ the five first single rooms. (C)/ No error (D)",
+    "qtext": "<span><b>Direction :</b></span><span><b> Some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken corresponding to 'No error' in the Answer Sheet.</b></span><br /><br />We have (A)/ to vacate (B)/ the five first single rooms. (C)/ No error (D)",
     "a": "(A)A",
     "b": "(B)B",
     "c": "(C)C",
@@ -726,7 +726,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 76 to 78, some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken the oval corresponding to 'No error' in the Answer Sheet.</b></span><br /><br />Buxar is (A)/ further from (B)/ Kolkata than Patna is. (C)/ No error (D)",
+    "qtext": "<span><b>Direction :</b></span><span><b>Some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken the oval corresponding to 'No error' in the Answer Sheet.</b></span><br /><br />Buxar is (A)/ further from (B)/ Kolkata than Patna is. (C)/ No error (D)",
     "a": "(A)A",
     "b": "(B)B",
     "c": "(C)C",
@@ -737,7 +737,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 76 to 78, some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken the oval corresponding to 'No error' in t</b></span><span><b>he Answer Sheet.</b></span><br /><br />The student (A)/ rose a problem (B)/ in the class. (C)/ No error (D)",
+    "qtext": "<span><b>Direction :</b></span><span><b> Some part of the sentences have errors and some are correct. Find out which part of a sentence has an error and blacken corresponding to the appropriate letter (A), (B), (C) and (D). If a sentence is free from error, blacken the oval corresponding to 'No error' in t</b></span><span><b>he Answer Sheet.</b></span><br /><br />The student (A)/ rose a problem (B)/ in the class. (C)/ No error (D)",
     "a": "(A)A",
     "b": "(B)B",
     "c": "(C)C",
@@ -781,7 +781,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction: In Question nos. 82 to 84, a sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet.</b></span><br /><br />Teachers and parents alike should realise that to&nbsp;<span><u>say a particular child is better than the other is doing a great injustice to both the children.</u></span>",
+    "qtext": "<span><b>Direction: A sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet.</b></span><br /><br />Teachers and parents alike should realise that to&nbsp;<span><u>say a particular child is better than the other is doing a great injustice to both the children.</u></span>",
     "a": "(A)say a particular child is better than the other is doing a great injustice to the former",
     "b": "(B)say a particular child is better than the other is doing a great injustice to both of them",
     "c": "(C)say a particular child is better than the other is to do a great injustice to both the children&nbsp",
@@ -792,7 +792,7 @@
     "section": "English"
   },
   {
-    "qtext": "</span><span><b>Direction: In Question nos. 82 to 84, a sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the</b></span><span><b>&nbsp;</b></span>Answer Sheet.<br /><br />He sailed for New York on Monday,&nbsp;<span><u>arriving there on Saturday for the much-awaited inauguration of the new hospital.</u></span>",
+    "qtext": "</span><span><b>Direction: A sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the</b></span><span><b>&nbsp;</b></span>Answer Sheet.<br /><br />He sailed for New York on Monday,&nbsp;<span><u>arriving there on Saturday for the much-awaited inauguration of the new hospital.</u></span>",
     "a": "(A)and arrived there on Saturday for the much-awaited inauguration of the new hospital",
     "b": "(B)arriving there on Saturday for the inauguration of the much-awaited new hospital",
     "c": "(C)arriving there for the inauguration of the much-awaited new hospital on Saturday.",
@@ -803,7 +803,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction: In Question nos. 82 to 84, a sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet.</b></span><br />After trying to convince him for a long time, I realised that&nbsp;<span><u>he was one of those people who never listens to reason</u></span>.",
+    "qtext": "<span><b>Direction: A sentence/ a part of the sentence is underlined. Below are given alternatives to the underlined part at (A), (B), (C) which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (D). Mark your answer in the Answer Sheet.</b></span><br />After trying to convince him for a long time, I realised that&nbsp;<span><u>he was one of those people who never listens to reason</u></span>.",
     "a": "(A)he was one of those people who never listen to reason",
     "b": "(B)he was one of those people who never listen to reasoning",
     "c": "(C)he is one of those people who never listen to reason",
@@ -814,7 +814,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In Question nos. 85 to 86 out of the four alternatives, choose the one which best expresses the meaning of the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Hauteur",
+    "qtext": "<span><b> :</b></span><span><b> In Question out of the four alternatives, choose the one which best expresses the meaning of the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Hauteur",
     "a": "(A)Arrogance",
     "b": "(B)Fashion",
     "c": "(C)Hatred",
@@ -825,7 +825,7 @@
     "section": "English"
   },
   {
-    "qtext": "<strong> :</strong><strong> In Question nos. 85 to 86 out of the four alternatives, choose the one which best expresses the meaning of the given word and mark it in the Answer Sheet.</strong> <br /> <br />Discursive",
+    "qtext": "<strong> :</strong><strong> In Question out of the four alternatives, choose the one which best expresses the meaning of the given word and mark it in the Answer Sheet.</strong> <br /> <br />Discursive",
     "a": "(A)Rambling",
     "b": "(B)Impolite",
     "c": "(C)Neglectful",
@@ -836,7 +836,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In question nos. 87 to 88, choose the option opposite in meaning to the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Dour&nbsp",
+    "qtext": "<span><b> :</b></span><span><b> In question choose the option opposite in meaning to the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Dour&nbsp",
     "a": "(A)active",
     "b": "(B)young",
     "c": "(C)radical",
@@ -847,7 +847,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In question nos. 87 to 88, choose the option opposite in meaning to the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Wrath",
+    "qtext": "<span><b> :</b></span><span><b> In question choose the option opposite in meaning to the given word and mark it in the Answer Sheet.</b></span> <br /> <br />Wrath",
     "a": "(A)delight",
     "b": "(B)solace",
     "c": "(C)cheerful",
@@ -858,7 +858,7 @@
     "section": "English"
   },
   {
-    "qtext": "<strong> :</strong><strong> In question no. 89, four words are given, out of which only one word is correctly spelt. Find the correctly spelt word and mark your answer in the Answer Sheet.",
+    "qtext": "<strong> :</strong><strong> In question four words are given, out of which only one word is correctly spelt. Find the correctly spelt word and mark your answer in the Answer Sheet.",
     "a": "(A)Millionaire",
     "b": "(B)Millunare",
     "c": "(C)Millionere",
@@ -869,7 +869,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 90 to 92, four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />Whenever I meet him he&nbsp;<span><b>pulls a long face.</b></span><span><b>&nbsp;</b></span",
+    "qtext": "<span><b>Direction :</b></span><span><b> In Question four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />Whenever I meet him he&nbsp;<span><b>pulls a long face.</b></span><span><b>&nbsp;</b></span",
     "a": "(A)looks cheerful",
     "b": "(B)looks angry",
     "c": "(C)looks indifferent",
@@ -880,7 +880,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 90 to 92, four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />People usually take promises made on the eve of&nbsp;<span><b>elections with a grain of salt.</b></span><span><b>&nbsp;</b></span",
+    "qtext": "<span><b>Direction :</b></span><span><b> In Question four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />People usually take promises made on the eve of&nbsp;<span><b>elections with a grain of salt.</b></span><span><b>&nbsp;</b></span",
     "a": "(A)with total disbelief",
     "b": "(B)wholeheartedly",
     "c": "(C)with some reservation",
@@ -891,7 +891,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 90 to 92, four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />Let's listen to him, he seems to be having&nbsp;<span><b>something up his sleeve.</b></span><span><b>&nbsp;</b></span",
+    "qtext": "<span><b>Direction :</b></span><span><b> In Question four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the Idiom/Phrase and mark it in the Answer Sheet.</b></span><br /><br />Let's listen to him, he seems to be having&nbsp;<span><b>something up his sleeve.</b></span><span><b>&nbsp;</b></span",
     "a": "(A)a secret plan",
     "b": "(B)a grand idea",
     "c": "(C)something&nbsp;important",
@@ -902,7 +902,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In Question nos. 93 to 95, out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate&nbsp;</b></span><span><b>in the Answer Sheet.&nbsp;</b></span><br /><br />A group of three powerful people –",
+    "qtext": "<span><b> :</b></span><span><b> In Question out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate&nbsp;</b></span><span><b>in the Answer Sheet.&nbsp;</b></span><br /><br />A group of three powerful people –",
     "a": "(A)Trio",
     "b": "(B)Tritium",
     "c": "(C)Trivet",
@@ -913,7 +913,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In Question nos. 93 to 95, out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate in the Answer Sheet.&nbsp;</b></span><br /><br />To write under a different name –",
+    "qtext": "<span><b> :</b></span><span><b> In Question out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate in the Answer Sheet.&nbsp;</b></span><br /><br />To write under a different name –",
     "a": "(A)Anonymous",
     "b": "(B)Biography",
     "c": "(C)Pseudonym",
@@ -924,7 +924,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b> :</b></span><span><b> In Question nos. 93 to 95, out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate in the Answer Sheet.&nbsp;</b></span><br /><br />Constant effort to achieve something –",
+    "qtext": "<span><b> :</b></span><span><b> In Question out of the four alternatives, choose the one which can be substituted for the given words/sentences and indicate it by blackening the appropriate in the Answer Sheet.&nbsp;</b></span><br /><br />Constant effort to achieve something –",
     "a": "(A)Perseverance",
     "b": "(B)Vigour",
     "c": "(C)Attempt&nbsp",
@@ -935,7 +935,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 96 to 100, you have a brief passage with 5 questions each.  Read the passages carefully and choose the best answer to each question out of the four alternatives and mark it by blackening the appropriate in the Answer Sheet.</b></span><br /><span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily&nbsp;growing.<br /><br />The author argues that—",
+    "qtext": "<span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily&nbsp;growing.<br /><br />The author argues that—",
     "a": "(A)formal education can be traced to industrial society",
     "b": "(B)industrial society is responsible for expansion of education at the mass level",
     "c": "(C)industrial society gave rise to vocational education",
@@ -946,7 +946,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 96 to 100, you have a brief passage with 5 questions each.  Read the passages carefully and choose the best answer to each question out of the four alternatives and mark it by blackening the appropriate in the Answer Sheet.</b></span><br /><span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />The Sociologists referred to in the passage say that the relationship between industry and<br />elementary education was one—",
+    "qtext": "<span><b>PASSAGE-1</b></span><br/>&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />The Sociologists referred to in the passage say that the relationship between industry and<br />elementary education was one—",
     "a": "(A)based on mutual need",
     "b": "(B)based entirely on the need of the industry",
     "c": "(C)based entirely on economic need",
@@ -957,7 +957,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 96 to 100, you have a brief passage with 5 questions each.  Read the passages carefully and choose the best answer to each question out of the four alternatives and mark it by blackening the appropriate in the Answer Sheet.</b></span><br /><span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />By ‘functional relationship’ is meant—",
+    "qtext": "<span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />By ‘functional relationship’ is meant—",
     "a": "(A)a short-term relationship",
     "b": "(B)practical and utilitarian relationship&nbsp",
     "c": "(C)temporary arrangement&nbsp",
@@ -968,7 +968,7 @@
     "section": "English"
   },
   {
-    "qtext": "<span><b>Direction :</b></span><span><b> In Question nos. 96 to 100, you have a brief passage with 5 questions each.  Read the passages carefully and choose the best answer to each question out of the four alternatives and mark it by blackening the appropriate in the Answer Sheet.</b></span><br /><span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />The industry needs a literate work-force because—",
+    "qtext": "<span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing.<br /><br />The industry needs a literate work-force because—",
     "a": "(A)its expansion needs sound learning",
     "b": "(B)it relies heavily on expertise",
     "c": "(C)it promotes a competitive spirit",
@@ -979,7 +979,7 @@
     "section": "English"
   },
   {
-    "qtext": "<strong>Direction :</strong><strong> In Question nos. 96 to 100, you have a brief passage with 5 questions each. Read the passages carefully and choose the best answer to each question out of the four alternatives and mark it by blackening the appropriate in the Answer Sheet.</strong> <br /><strong>PASSAGE-1</strong> <br /> Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing. <br /> <br />The observations of the Sociologists are based on a study of—",
+    "qtext": "<span><b>PASSAGE-1</b></span><br />&nbsp;&nbsp;&nbsp;&nbsp;Many Sociologists have argued that there is a functional relationship between education and economic system. They point to the fact that mass formal education began in industrial society and is an established part of all industrial societies. They note that the expansion of the economies of industrial societies is accompanied by a corresponding expansion of their educational systems. They explain this correspondence in terms of the needs of industry for skilled and trained manpower, needs which are met by the educational system, thus, the provision of mass elementary education in Britain in 1870 can be seen as a response to the needs of industry for a literate and numerate work-force at a time when industrial processes were becoming more, complex and the demand for technical skills was steadily growing. <br /> <br />The observations of the Sociologists are based on a study of—",
     "a": "(A)the statistical data available in a historical context",
     "b": "(B)economic system of the 19th century",
     "c": "(C)the correlation between industry and education in a historical context",
