@@ -1081,10 +1081,11 @@
         "section": "(General Intelligence & Reasoning)"
     },
     {
-        "qtext": "(A) Astrology",
-        "a": "(B) Geology",
-        "b": "(C) Astronomy",
-        "c": "(D) Palaeontology",
+        "qtext": "Disease : Pathology :: Planet : ?",
+        "a": "(A) Astrology",
+        "b": "(B) Geology",
+        "c": "(C) Astronomy",
+        "d": "(D) Palaeontology",
         "correct": "C",
         "img": "",
         "topic": "Analogy Words",
@@ -2997,10 +2998,11 @@
         "section": "(General Intelligence & Reasoning)"
     },
     {
-        "qtext": "(A)Insinuate ",
-        "a": "(B)Reject ",
-        "b": "(C)Convince ",
-        "c": "(D)Deny",
+        "qtext": " Affirm : Hint :: Charge : ? ",
+        "a" : "(A)Insinuate ",
+        "b":  "(B)Reject ",
+        "c":  "(C)Convince ",
+        "d":  "(D)Deny",
         "correct": "A",
         "img": "",
         "topic": "Analogy Words",
