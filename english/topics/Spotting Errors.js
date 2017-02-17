@@ -2421,7 +2421,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "1.Ram was / senior to / Sam in college.",
+        "qtext": "Ram was / senior to / Sam in college.",
         "a": "(A)Ram was",
         "b": "(B)senior to",
         "c": "(C)Sam in college",
@@ -2432,7 +2432,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "2.It was him / who came / running / into the classroom.",
+        "qtext": "It was him / who came / running / into the classroom.",
         "a": "(A)It was him",
         "b": "(B)who came",
         "c": "(C)running",
@@ -2443,7 +2443,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "3.The capital of Yemen / is situating / 2190 meters above / the sea level.",
+        "qtext": "The capital of Yemen / is situating / 2190 meters above / the sea level.",
         "a": "(A)The capital of Yemen",
         "b": "(B)is situating",
         "c": "(C)2190 meters above",
@@ -2454,7 +2454,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "4.The captain along with his team / are practicing very hard / for the / forth coming matches.",
+        "qtext": "The captain along with his team / are practicing very hard / for the / forth coming matches.",
         "a": "(A)The captain along with his team",
         "b": "(B)are practicing very hard",
         "c": "(C)for the",
@@ -2465,7 +2465,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "5.Supposing if / it rains / what shall / we do?",
+        "qtext": "Supposing if / it rains / what shall / we do?",
         "a": "(A)Supposing if",
         "b": "(B)it rains",
         "c": "(C)what shall",
@@ -2476,7 +2476,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "6.Either Nemmu or Mennu / are in the wrong; / both can / certainly never be.",
+        "qtext": "Either Nemmu or Mennu / are in the wrong; / both can / certainly never be.",
         "a": "(A)Either Nemmu or Mennu",
         "b": "(B)are in the wrong;",
         "c": "(C)both can",
@@ -2487,7 +2487,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "7.None of two girls / who were present / appeared to be inclined / to listen to sane advice.",
+        "qtext": "None of two girls / who were present / appeared to be inclined / to listen to sane advice.",
         "a": "(A)None of two girls",
         "b": "(B)who were present",
         "c": "(C)appeared to be inclined",
@@ -2498,7 +2498,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "8.Everyone knows / that the leopards is / faster / of all animals.",
+        "qtext": "Everyone knows / that the leopards is / faster / of all animals.",
         "a": "(A)Everyone knows",
         "b": "(B)that the leopards is",
         "c": "(C)faster",
@@ -2509,7 +2509,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "9.I and my colleague / have carefully considered the important issues raised by / the report which you sent me and / we have decided to take the following action.",
+        "qtext": "I and my colleague / have carefully considered the important issues raised by / the report which you sent me and / we have decided to take the following action.",
         "a": "(A)I and my colleague",
         "b": "(B)have carefully considered the important issues rai",
         "c": "(C)the report which you sent me and",
@@ -2520,7 +2520,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "10.Even if / the teacher has completed the / course the students cannot pass / unless they study themself.",
+        "qtext": "Even if / the teacher has completed the / course the students cannot pass / unless they study themself.",
         "a": "(A)Even if",
         "b": "(B)the teacher has completed the",
         "c": "(C)course the students cannot pass",
@@ -2531,7 +2531,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "11.Ramu is the elected leader / and also a person / who we all can confide in.",
+        "qtext": "Ramu is the elected leader / and also a person / who we all can confide in.",
         "a": "(A)Ramu is the elected leader",
         "b": "(B)and also a person",
         "c": "(C)who we all can confide in",
@@ -2542,7 +2542,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "12.The gambling stall / was a grand success / because almost everyone / tried their luck.",
+        "qtext": "The gambling stall / was a grand success / because almost everyone / tried their luck.",
         "a": "(A)The gambling stall",
         "b": "(B)was a grand success",
         "c": "(C)because almost everyone",
@@ -2553,7 +2553,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "13.Little water / that was left / in the bottle was not enough to quench the thirst of two persons.",
+        "qtext": "Little water / that was left / in the bottle was not enough to quench the thirst of two persons.",
         "a": "(A)Little water",
         "b": "(B)that was left",
         "c": "(C)in the bottle was not enough to quench the thirst of two persons",
@@ -2564,7 +2564,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "14.The father / as well as the sons were / mysteriously missing / from the house.",
+        "qtext": "The father / as well as the sons were / mysteriously missing / from the house.",
         "a": "(A)The father",
         "b": "(B)as well as the sons were",
         "c": "(C)mysteriously missing",
@@ -2575,7 +2575,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "15.Every man, woman and child / is now aware / of the terrible consequences of / habit of smoking.",
+        "qtext": "Every man, woman and child / is now aware / of the terrible consequences of / habit of smoking.",
         "a": "(A)Every man, woman and child",
         "b": "(B)is now aware",
         "c": "(C)of the terrible consequences of",
@@ -2586,7 +2586,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "16.If you saw / the amount of Samosas / he consumed at breakfast this morning,/ you would understand why he is so over-weight.",
+        "qtext": "If you saw / the amount of Samosas / he consumed at breakfast this morning,/ you would understand why he is so over-weight.",
         "a": "(A)If you saw",
         "b": "(B)the amount of Samosas",
         "c": "(C)he consumed at breakfast this morning,",
@@ -2597,7 +2597,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "17.As our room was / upstairs, so we/ didn't hear him.",
+        "qtext": "As our room was / upstairs, so we/ didn't hear him.",
         "a": "(A)As our room was",
         "b": "(B)upstairs, so we",
         "c": "(C)didn't hear him",
@@ -2608,7 +2608,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "18.There are / no conducted tours / for tourist to visit all the / important places.",
+        "qtext": "There are / no conducted tours / for tourist to visit all the / important places.",
         "a": "(A)There are",
         "b": "(B)no conducted tours",
         "c": "(C)for tourist to visit all the",
@@ -2619,7 +2619,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "19.On Friday evening / Mamta and me / took a coach / for Patna and arrived at Amit's house.",
+        "qtext": "On Friday evening / Mamta and me / took a coach / for Patna and arrived at Amit's house.",
         "a": "(A)On Friday evening",
         "b": "(B)Mamta and me",
         "c": "(C)took a coach",
@@ -2630,7 +2630,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "20.This girl / wrote an essay / so well that / her teacher was exceedingly pleased with her.",
+        "qtext": "This girl / wrote an essay / so well that / her teacher was exceedingly pleased with her.",
         "a": "(A)This girl",
         "b": "(B)wrote an essay",
         "c": "(C)so well that",
@@ -2641,7 +2641,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "21.Everyone of the students / has bought / his / identity card.",
+        "qtext": "Everyone of the students / has bought / his / identity card.",
         "a": "(A)Everyone of the students",
         "b": "(B)has bought",
         "c": "(C)his",
@@ -2652,7 +2652,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "22.The doctor said / that patient / should not have wasted / before coming for help.",
+        "qtext": "The doctor said / that patient / should not have wasted / before coming for help.",
         "a": "(A)The doctor said",
         "b": "(B)that patient",
         "c": "(C)should not have wasted",
@@ -2663,7 +2663,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "23.In my youth / I used to / visit / Sharma's and Chawla's company.",
+        "qtext": "In my youth / I used to / visit / Sharma's and Chawla's company.",
         "a": "(A)In my youth",
         "b": "(B)I used to",
         "c": "(C)visit",
@@ -2674,7 +2674,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "24.As he stood / below the shower / the sharp jets of / ice cold water revived his spirit.",
+        "qtext": "As he stood / below the shower / the sharp jets of / ice cold water revived his spirit.",
         "a": "(A)As he stood",
         "b": "(B)below the shower",
         "c": "(C)the sharp jets of",
@@ -2685,7 +2685,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "25.Many a person / have lost / their life / and all property in the riots.",
+        "qtext": "Many a person / have lost / their life / and all property in the riots.",
         "a": "(A)Many a person",
         "b": "(B)have lost",
         "c": "(C)their life",
@@ -2696,7 +2696,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "26.I have / two sister-in-laws / whose husbands / are all well settled.",
+        "qtext": "I have / two sister-in-laws / whose husbands / are all well settled.",
         "a": "(A)I have",
         "b": "(B)two sister-in-laws",
         "c": "(C)whose husbands",
@@ -2707,7 +2707,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "27.I told him / the story / in details / to make him understand it fully.",
+        "qtext": "I told him / the story / in details / to make him understand it fully.",
         "a": "(A)I told him",
         "b": "(B)the story",
         "c": "(C)in details",
@@ -2718,7 +2718,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "28.Cattles / were grazing / in the meadows / near our farm.",
+        "qtext": "Cattles / were grazing / in the meadows / near our farm.",
         "a": "(A)Cattles",
         "b": "(B)were grazing",
         "c": "(C)in the meadows",
@@ -2729,7 +2729,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "29.Many a man / have / been working / under me.",
+        "qtext": "Many a man / have / been working / under me.",
         "a": "(A)Many a man",
         "b": "(B)have",
         "c": "(C)been working",
@@ -2740,7 +2740,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "30.The cricket\t/ is a / game of change.",
+        "qtext": "The cricket\t/ is a / game of change.",
         "a": "(A)The cricket",
         "b": "(B)is a",
         "c": "(C)game of change",
@@ -2751,7 +2751,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "31.Mr Alexgander / has purchased / new furnitures from Metro-Mall.",
+        "qtext": "Mr Alexgander / has purchased / new furnitures from Metro-Mall.",
         "a": "(A)Mr Alexgander",
         "b": "(B)has purchased",
         "c": "(C)new furnitures from Metro-Mall",
@@ -2762,7 +2762,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "32.Last year / many people / died from cholera epidemic.",
+        "qtext": "Last year / many people / died from cholera epidemic.",
         "a": "(A)Last year",
         "b": "(B)many people",
         "c": "(C)died from cholera epidemic",
@@ -2773,7 +2773,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "33.Both the / girls helped / one another.",
+        "qtext": "Both the / girls helped / one another.",
         "a": "(A)Both the",
         "b": "(B)girls helped",
         "c": "(C)one another",
@@ -2784,7 +2784,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "34.Vijay is / very much / sorry about her misconduct.",
+        "qtext": "Vijay is / very much / sorry about her misconduct.",
         "a": "(A)Vijay is",
         "b": "(B)very much",
         "c": "(C)sorry about her misconduct",
@@ -2795,7 +2795,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "35.She treated/ me as though / an old friend.",
+        "qtext": "She treated/ me as though / an old friend.",
         "a": "(A)She treated",
         "b": "(B)me as though",
         "c": "(C)an old friend",
@@ -2806,7 +2806,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "36.I'll go with you / as long as/ I won't have to sing.",
+        "qtext": "I'll go with you / as long as/ I won't have to sing.",
         "a": "(A)I'll go with you",
         "b": "(B)as long as",
         "c": "(C)I won't have to sing",
@@ -2817,7 +2817,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "37.She'll pay you / as soon as she / receive the parcel.",
+        "qtext": "She'll pay you / as soon as she / receive the parcel.",
         "a": "(A)She'll pay you",
         "b": "(B)as soon as she",
         "c": "(C)receive the parcel",
@@ -2828,7 +2828,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "38.I don't have a car / and I don't want / one as well.",
+        "qtext": "I don't have a car / and I don't want / one as well.",
         "a": "(A)I don't have a car",
         "b": "(B)and I don't want",
         "c": "(C)one as well",
@@ -2839,7 +2839,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "39.Indian scientists are no way / inferior than / any other scientists in the world.",
+        "qtext": "Indian scientists are no way / inferior than / any other scientists in the world.",
         "a": "(A)Indian scientists are no way",
         "b": "(B)inferior than",
         "c": "(C)any other scientists in the world",
@@ -2850,7 +2850,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "40.Belgium chocolate is considered / by many to be finger / than any others in the world.",
+        "qtext": "Belgium chocolate is considered / by many to be finger / than any others in the world.",
         "a": "(A)Belgium chocolate is considered",
         "b": "(B)by many to be finger",
         "c": "(C)than any others in the world",
@@ -2861,7 +2861,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "41.My grandfather owns / fifty acre / of wet land.",
+        "qtext": "My grandfather owns / fifty acre / of wet land.",
         "a": "(A)My grandfather owns",
         "b": "(B)fifty acre",
         "c": "(C)of wet land",
@@ -2872,7 +2872,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "42.Our history can be seen / as a long evolutionary dialectical development / in which there have been / a painstaking forgiving of rational and moral self.",
+        "qtext": "Our history can be seen / as a long evolutionary dialectical development / in which there have been / a painstaking forgiving of rational and moral self.",
         "a": "(A)Our history can be seen",
         "b": "(B)as a long evolutionary dialectical development",
         "c": "(C)in which there have been",
@@ -2883,7 +2883,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "43.Our knowledge of history does not come to / Our help and some times we / even fail to remember who invented America.",
+        "qtext": "Our knowledge of history does not come to / Our help and some times we / even fail to remember who invented America.",
         "a": "(A)Our knowledge of history does not come to",
         "b": "(B)Our help and some times we",
         "c": "(C)even fail to remember who invented America",
@@ -2894,7 +2894,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "44.The Committee has made / significant changes in / the rules which / will help to banks.",
+        "qtext": "The Committee has made / significant changes in / the rules which / will help to banks.",
         "a": "(A)The Committee has made",
         "b": "(B)significant change in",
         "c": "(C)the rules which",
@@ -2905,7 +2905,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "45.This Project which is funded / by the united nations / has helped over four / lakh Indians overcome poverty.",
+        "qtext": "This Project which is funded / by the united nations / has helped over four / lakh Indians overcome poverty.",
         "a": "(A)This Project which is funded",
         "b": "(B)by the united nations",
         "c": "(C)has helped over four lakh Indians overcome poverty",
@@ -2916,7 +2916,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "46.The number of tourists / is expected to rise / from seven to ten percent / in the next ten years.",
+        "qtext": "The number of tourists / is expected to rise / from seven to ten percent / in the next ten years.",
         "a": "(A)The number of tourists",
         "b": "(B)is expected to rise",
         "c": "(C)from seven to ten percent",
@@ -2927,7 +2927,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "47.I enquired / of him / whether he would accompany me to Dharmsala.",
+        "qtext": "I enquired / of him / whether he would accompany me to Dharmsala.",
         "a": "(A)I enquired",
         "b": "(B)of him",
         "c": "(C)whether he would accompany me to Dharmsala",
@@ -2938,7 +2938,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "48.Being that my car is getting / its annual check up. / I will not be / able to pick you up tomorrow morning.",
+        "qtext": "Being that my car is getting / its annual check up. / I will not be / able to pick you up tomorrow morning.",
         "a": "(A)Being that my car is getting",
         "b": "(B)its annual check up.",
         "c": "(C)I will not be",
@@ -2949,7 +2949,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "49.We can't hardly believe that the / situation is so serious as / to justify such precautions / as you have taken.",
+        "qtext": "We can't hardly believe that the / situation is so serious as / to justify such precautions / as you have taken.",
         "a": "(A)We can't hardly believe that the",
         "b": "(B)situation is so serious as",
         "c": "(C)to justify such precautions",
@@ -2960,7 +2960,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "50.The third season of / the popular television show will ends / on a grand note with / celebrities dancing and having fun.",
+        "qtext": "The third season of / the popular television show will ends / on a grand note with / celebrities dancing and having fun.",
         "a": "(A)The third season of",
         "b": "(B)the popular television show will ends",
         "c": "(C)on a grand note with",
@@ -2971,7 +2971,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "51.The website, which does not / accept advertisement and is funded / entirely by donations, describes itself / as the fifth most popular website on the planet.",
+        "qtext": "The website, which does not / accept advertisement and is funded / entirely by donations, describes itself / as the fifth most popular website on the planet.",
         "a": "(A)The website, which does not",
         "b": "(B)accept advertisement and is funded",
         "c": "(C)entirely by donations, describe itself",
@@ -2982,7 +2982,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "52.As sharing crime statistics for / the year 2011, the Commissioner admitted that / there had been an undue delay in the setting up of an anti-narcotics cell.",
+        "qtext": "As sharing crime statistics for / the year 2011, the Commissioner admitted that / there had been an undue delay in the setting up of an anti-narcotics cell.",
         "a": "(A)As sharing crime statistics for",
         "b": "(B)the year 2011, the Commissioner admitted that",
         "c": "(C)there had been an undue delay in the setting up of an anti-narcotics cell",
@@ -2993,7 +2993,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "53.The Moon may be the best place / to look for aliens as their / footprints on their surface would / last far longer than radio signals.",
+        "qtext": "The Moon may be the best place / to look for aliens as their / footprints on their surface would / last far longer than radio signals.",
         "a": "(A)The Moon may be the best place",
         "b": "(B)to look for aliens as their",
         "c": "(C)footprints on their surface would",
@@ -3004,7 +3004,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "54.The judge advised the Government to / have metered auto-rickshaw across the state while / recounting his personal experience where an auto-rickshaw driver / made him to wait and also demanded Rs. 100.",
+        "qtext": "The judge advised the Government to / have metered auto-rickshaw across the state while / recounting his personal experience where an auto-rickshaw driver / made him to wait and also demanded Rs. 100.",
         "a": "(A)The judge advised the Government to",
         "b": "(B)have metered auto-rickshaw across the state while",
         "c": "(C)recounting his personal experience where an auto-r",
@@ -3015,7 +3015,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "55.The company aims / to nearly double / its revenues on the back / of a strongest product pipeline.",
+        "qtext": "The company aims / to nearly double / its revenues on the back / of a strongest product pipeline.",
         "a": "(A)The company aims",
         "b": "(B)to nearly double",
         "c": "(C)its revenues on the back",
@@ -3026,7 +3026,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "56.The woman that had / kidnapped a child has now / been apprehended and is being / held in the city's jail.",
+        "qtext": "The woman that had / kidnapped a child has now / been apprehended and is being / held in the city's jail.",
         "a": "(A)The woman that had",
         "b": "(B)kidnapped a child has now",
         "c": "(C)been apprehended and is being",
@@ -3037,7 +3037,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "57.Rose growers in / the city are waking up / to the benefits / of collective action.",
+        "qtext": "Rose growers in / the city are waking up / to the benefits / of collective action.",
         "a": "(A)Rose growers in",
         "b": "(B)the city are waking up",
         "c": "(C)to the benefits",
@@ -3048,7 +3048,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "58.The Minister will have / a tough task on his hand / where three different recommendations / for this year's rate reach his desk.",
+        "qtext": "The Minister will have / a tough task on his hand / where three different recommendations / for this year's rate reach his desk.",
         "a": "(A)The Minister will have",
         "b": "(B)a tough task on his hand",
         "c": "(C)where three different recommendations",
@@ -3059,7 +3059,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "59.The current economic scenario / could possibly undo / the growth that followed the economic liberalization of 1991.",
+        "qtext": "The current economic scenario / could possibly undo / the growth that followed the economic liberalization of 1991.",
         "a": "(A)The current economic scenario",
         "b": "(B)could possibly undo / the growth that followed",
         "c": "(C)the growth that followed the economic liberalization of 1991",
@@ -3070,7 +3070,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "60.In a first of its kind study, / a team of scientist have tried to / 'grow' new stem cells in / the ear that get damage with age.",
+        "qtext": "In a first of its kind study, / a team of scientist have tried to / 'grow' new stem cells in / the ear that get damage with age.",
         "a": "(A)In a first of its kind study,",
         "b": "(B)a team of scientist have tried to",
         "c": "(C)'grow' new stem cells in",
@@ -3081,7 +3081,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "61.If successful, the research could / pave the way towards / the prevention in untimely deaths / due to fatal illnesses.",
+        "qtext": "If successful, the research could / pave the way towards / the prevention in untimely deaths / due to fatal illnesses.",
         "a": "(A)If successful, the research could",
         "b": "(B)pave the way towards",
         "c": "(C)the prevention in untimely deaths",
@@ -3092,7 +3092,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "62.The Ministry has directed banks / to do away with their / separate promotion policies, a move / strongly opposed by the officers' unions.",
+        "qtext": "The Ministry has directed banks / to do away with their / separate promotion policies, a move / strongly opposed by the officers' unions.",
         "a": "(A)The Ministry has directed banks",
         "b": "(B)to do away with their",
         "c": "(C)separate promotion policies, a move",
@@ -3103,7 +3103,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "63.After a complaint was filed, / police teams was given the photograph / of the accused from the CCTV footage / recorded at the hotel.",
+        "qtext": "After a complaint was filed, / police teams was given the photograph / of the accused from the CCTV footage / recorded at the hotel.",
         "a": "(A)After a complaint was filed,",
         "b": "(B)police teams was given the photograph",
         "c": "(C)of the accused from the CCTV footage",
@@ -3114,7 +3114,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "64.Activists opposing the rail project said / that the eleven new flyovers to be built / would practically ring the death knell for the city.",
+        "qtext": "Activists opposing the rail project said / that the eleven new flyovers to be built / would practically ring the death knell for the city.",
         "a": "(A)Activists opposing the rail project said",
         "b": "(B)that the eleven new flyovers to be built",
         "c": "(C)would practically ring the death knell for the city",
@@ -3125,7 +3125,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "65.It is common / knowledge that each / of us / loves our home.",
+        "qtext": "It is common / knowledge that each / of us / loves our home.",
         "a": "(A)It is common",
         "b": "(B)knowledge that each",
         "c": "(C)of us",
@@ -3136,7 +3136,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "66.The teacher repeatedly warned / the students not to make / noise but students / did not obey.",
+        "qtext": "The teacher repeatedly warned / the students not to make / noise but students / did not obey.",
         "a": "(A)The teacher repeatedly warned",
         "b": "(B)the students not to make",
         "c": "(C)noise but students",
@@ -3147,7 +3147,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "67.The education Council / is consisted of ten members / all of whom / are experienced men.",
+        "qtext": "The education Council / is consisted of ten members / all of whom / are experienced men.",
         "a": "(A)The education Council",
         "b": "(B)is consisted of ten members",
         "c": "(C)all of whom",
@@ -3158,7 +3158,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "68.The woman who / has been perpetually hesitating / which of the two books / she will read first will probably read none and will suffer.",
+        "qtext": "The woman who / has been perpetually hesitating / which of the two books / she will read first will probably read none and will suffer.",
         "a": "(A)The woman who",
         "b": "(B)has been perpetually hesitating",
         "c": "(C)which of the two books",
@@ -3169,7 +3169,7 @@
         "section": "(English)"
     },
     {
-        "qtext": "69.Summons were / issued yesterday / by Sessions judge / against the suspected thief.",
+        "qtext": "Summons were / issued yesterday / by Sessions judge / against the suspected thief.",
         "a": "(A)Summons were",
         "b": "(B)issued yesterday",
         "c": "(C)by Sessions judge",
@@ -3180,11 +3180,913 @@
         "section": "(English)"
     },
     {
-        "qtext": "70.Teaching in this school / would certainly improve / if it had less boys / in all the high classes.",
+        "qtext": "Teaching in this school / would certainly improve / if it had less boys / in all the high classes.",
         "a": "(A)Teaching in this school",
         "b": "(B)would certainly improve",
         "c": "(C)if it had less boys",
         "d": "(D)in all the high classes.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Rahul is Often coming ",
+        "b": "(B)to me ",
+        "c": "(C)on Sundays",
+        "d": "(D)No Error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Sheela just completed",
+        "b": "(B)the letter",
+        "c": "(C)then",
+        "d": "(D)No error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)It came to ",
+        "b": "(B)my notice",
+        "c": "(C)lately",
+        "d": "(D)No Error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)If you had seen",
+        "b": "(B)yesterday's cricket I am sure you ",
+        "c": "(C)would have enjoyed seeing our team bat",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I enquired of him",
+        "b": "(B)why he is so negligent",
+        "c": "(C)in his studies",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)As the meeting",
+        "b": "(B)was about to end",
+        "c": "(C)he insisted to ask",
+        "d": "(D)several questions",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The ship",
+        "b": "(B)was ",
+        "c": "(C)loaded",
+        "d": "(D)with cotton",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)When Hanish will come",
+        "b": "(B)I will ",
+        "c": "(C)make sure",
+        "d": "(D)I meet him",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The traveller being weary",
+        "b": "(B)he sat by",
+        "c": "(C)wood-side to rest",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)It is high time",
+        "b": "(B)that ",
+        "c": "(C)we leave",
+        "d": "(D)this place",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I am disappointed in ",
+        "b": "(B)not having saw any place ",
+        "c": "(C)while I was in",
+        "d": "(D)Delhi on vacation",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Now-a-days he",
+        "b": "(B)along with his friends go",
+        "c": "(C)for a ride ",
+        "d": "(D)every evening",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Shikha treated",
+        "b": "(B)Akshay not even",
+        "c": "(C)to cocktails",
+        "d": "(D)but also to dinner",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Him not agreeing ",
+        "b": "(B)to accept the ",
+        "c": "(C)proposals outlined",
+        "d": "(D)by the committee in baffling",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)An Indian ship",
+        "b": "(B)laden with merchandise",
+        "c": "(C)got drowned ",
+        "d": "(D)in the Pacific Ocean",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The students were",
+        "b": "(B)awaiting for",
+        "c": "(C)the arrival",
+        "d": "(D)of the chief guest",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The minister's speech",
+        "b": "(B)has been reported",
+        "c": "(C)to the newspaper",
+        "d": "(D)No error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The gentleman",
+        "b": "(B)together with his wife ",
+        "c": "(C)and children were",
+        "d": "(D)there.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Hardly had",
+        "b": "(B)I left the house",
+        "c": "(C)than it began",
+        "d": "(D)to rain.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Entering the crowded store",
+        "b": "(B)I saw",
+        "c": "(C)two vaguely familiar faces.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)More widely popular",
+        "b": "(B)than the hunting of deer or fox",
+        "c": "(C)were the pursuit of the hare.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Had the function ",
+        "b": "(B)not been postponed",
+        "c": "(C)because of the strike",
+        "d": "(D)she may have been able to participate.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The reason why",
+        "b": "(B)he was late was ",
+        "c": "(C)because he had been",
+        "d": "(D)caught in rain.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I did not practise",
+        "b": "(B)music since",
+        "c": "(C)I was twenty four",
+        "d": "(D)No error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The number of students",
+        "b": "(B)appearing at the written examination",
+        "c": "(C)increases every year.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Being a destitute",
+        "b": "(B)I admitted him",
+        "c": "(C)to an old",
+        "d": "(D)people's home.",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He was reading ",
+        "b": "(B)very hard for",
+        "c": "(C)six months",
+        "d": "(D)still he failed.",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Imagine a place",
+        "b": "(B)which lacks not only phased growth",
+        "c": "(C)but is burdened with ",
+        "d": "(D)loots and crimes",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)We always complain that prices",
+        "b": "(B)are too high and that we were ",
+        "c": "(C)not getting our money's worth.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Even after requesting Ramesh",
+        "b": "(B)he did not tell us",
+        "c": "(C)that how he ",
+        "d": "(D)solved the problem.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The reason for the bus being late",
+        "b": "(B)was because the bus",
+        "c": "(C)was involved ",
+        "d": "(D)in an accident.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)In order to save petrol",
+        "b": "(B)motorists must have to",
+        "c": "(C)be very cautious",
+        "d": "(D)while driving along the highways.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Despite of",
+        "b": "(B)his repeated requests",
+        "c": "(C)the teacher",
+        "d": "(D)beat him for his mistake.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Consider his young age",
+        "b": "(B)the achievement of the player",
+        "c": "(C)is really admirable.",
+        "d": "(D)No Error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Neither of the plans",
+        "b": "(B)suits him and therefore",
+        "c": "(C)he decided not to",
+        "d": "(D)go out yesterday.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Neetu deserves to be",
+        "b": "(B)rewarded by her successful",
+        "c": "(C)completion of the entire work",
+        "d": "(D)in such a short time.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The recent survey has",
+        "b": "(B)indicated that there is",
+        "c": "(C)perceptible change in",
+        "d": "(D)climate due to global warming.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Seema did not like",
+        "b": "(B)leaving her brother alone in the house",
+        "c": "(C)but she had no alternative",
+        "d": "(D)as she has to go out to work.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The apparently obvious solutions",
+        "b": "(B)to most of her problems",
+        "c": "(C)were overlook by",
+        "d": "(D)many of her friends.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Developmental activities of",
+        "b": "(B)the government come",
+        "c": "(C)to a standstill due",
+        "d": "(D)to paucity of funds.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I was surprised at not having",
+        "b": "(B)seen her even though",
+        "c": "(C)she was standing in front of me.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)If I fail in",
+        "b": "(B)this examination",
+        "c": "(C)I shall give ",
+        "d": "(D)the next examination.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)It is undeniably true",
+        "b": "(B)that many amongst us",
+        "c": "(C)felt that",
+        "d": "(D)whole building is vibrating.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)More than sixty years",
+        "b": "(B)have passed",
+        "c": "(C)since India became free.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Not one of the hundreds",
+        "b": "(B)of striking workers",
+        "c": "(C)were allowed to go ",
+        "d": "(D)near the factory.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)There is no objection to",
+        "b": "(B)him joining",
+        "c": "(C)the feast.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Another change that I notice",
+        "b": "(B)in him now-a-days is that",
+        "c": "(C)he avoids to speak to me.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Hardly the inspector had",
+        "b": "(B)arrived there to ",
+        "c": "(C)investigate the crime",
+        "d": "(D)when the house was set ablaze.",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)In our village",
+        "b": "(B)ponds just dry down",
+        "c": "(C)in the scorching heat of the summer.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Since his arrival at the native village",
+        "b": "(B)he is trying to the best of his power",
+        "c": "(C)to spread awareness against dowry system.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Many students",
+        "b": "(B)has failed in the Science",
+        "c": "(C)but Dilip has scored 100 percent",
+        "d": "(D)without any tution.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)One of the important benefits",
+        "b": "(B)of machine age",
+        "c": "(C)is that we are doing many",
+        "d": "(D)works with the help of machines.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He is expert in",
+        "b": "(B)welding two pieces",
+        "c": "(C)of metal together.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)We know where this chapter is ",
+        "b": "(B)beginning",
+        "c": "(C)but we do not know that ",
+        "d": "(D)where it is ending.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)All the furnitures have been",
+        "b": "(B)sold out at the auction",
+        "c": "(C)after court order.",
+        "d": "(D)No Error",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Our science teacher",
+        "b": "(B)told us how Earth",
+        "c": "(C)moves around the sun.",
+        "d": "(D)No Error.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)After the death of their father",
+        "b": "(B)all property was divided equally",
+        "c": "(C)between the two brothers.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)When the marriage party",
+        "b": "(B)was over he was ",
+        "c": "(C)very tired",
+        "d": "(D)so that he went to home.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He use to apply",
+        "b": "(B)scientific attitude",
+        "c": "(C)for all his affairs.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)After feeling disturbance while",
+        "b": "(B)giving speech, he requested",
+        "c": "(C)to audience to have patience.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I came to know",
+        "b": "(B)that Ritesh has been",
+        "c": "(C)suffering with fever",
+        "d": "(D)since ten days. ",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Life is good ",
+        "b": "(B)if one be happy",
+        "c": "(C)and has good friends.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He have ",
+        "b": "(B)and still doing",
+        "c": "(C)excellent work",
+        "d": "(D)for his company.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Rather than",
+        "b": "(B)going with Hanish,",
+        "c": "(C)he decided to stay at home.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Rahul cannot be trusted",
+        "b": "(B)with secret informations",
+        "c": "(C)as he can reveal all ",
+        "d": "(D)for money.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He want to become",
+        "b": "(B)the most supreme leader",
+        "c": "(C)of the country.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)It is a ",
+        "b": "(B)quarter of five",
+        "c": "(C)by my watch.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)The whole block of flats",
+        "b": "(B)were on sale",
+        "c": "(C)last month.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He handled",
+        "b": "(B)the situation ",
+        "c": "(C)in very skilfully manner.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I think it ",
+        "b": "(B)will be a great fun",
+        "c": "(C)because you and I",
+        "d": "(D)will be together after so long.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He instructed me",
+        "b": "(B)to come on time for interview",
+        "c": "(C)otherwise they may not permit ",
+        "d": "(D)me to give interview when I come late.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I like playing",
+        "b": "(B)football more than",
+        "c": "(C)to play cricket.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I am sure she ",
+        "b": "(B)will be disappointed",
+        "c": "(C)as she will hear",
+        "d": "(D)this news.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)It is arrogant for ",
+        "b": "(B)you to assume ",
+        "c": "(C)that you will",
+        "d": "(D)win every time.",
+        "correct": "A",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)She was taller",
+        "b": "(B)than either of",
+        "c": "(C)her two brothers.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)He always use to say",
+        "b": "(B)that no student ",
+        "c": "(C)is as intelligent",
+        "d": "(D)as his son.",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Population of my village",
+        "b": "(B)is less than in any",
+        "c": "(C)other village of my state.",
+        "d": "(D)No Error",
+        "correct": "B",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)When he was tired",
+        "b": "(B)by working in the field",
+        "c": "(C)he took the rest",
+        "d": "(D)under the shade of tree.",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)We had a lot ",
+        "b": "(B)of difficulty",
+        "c": "(C)to find the ",
+        "d": "(D)address told by him.",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)I must compliment",
+        "b": "(B)you on your",
+        "c": "(C)good manners.",
+        "d": "(D)No Error",
+        "correct": "D",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)Author of the other book",
+        "b": "(B)was asked to write",
+        "c": "(C)a forward to the book.",
+        "d": "(D)No Error",
+        "correct": "C",
+        "img": "",
+        "topic": "Spotting Errors",
+        "section": "(English)"
+    },
+    {
+        "qtext": "Find out whether there is any grammatical error in part of the sentence, if ANY.",
+        "a": "(A)As she had taken ",
+        "b": "(B)only a few sips",
+        "c": "(C)there was still little milk left in the glass.",
+        "d": "(D)no error",
         "correct": "C",
         "img": "",
         "topic": "Spotting Errors",
