@@ -1,1650 +1,5995 @@
 {
-  "data": [
-    {
-      "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.",
-      "options": [
-        {
-          "a": "(A)different",
-          "b": "(B)separated",
-          "c": "(C)classify",
-          "d": "(D)sorted",
-          "e": "(E)categorised",
-          "correct": "E"
-        },
-        {
-          "a": "(A)reasoning",
-          "b": "(B)believes",
-          "c": "(C)acknowledgment",
-          "d": "(D)agreement",
-          "e": "(E)resolution",
-          "correct": "C"
-        },
-        {
-          "a": "(A) unending",
-          "b": "(B)uplifting",
-          "c": "(C)rising",
-          "d": "(D)grave",
-          "e": "(E)continuity",
-          "correct": "A"
-        },
-        {
-          "a": "(A)superficial",
-          "b": "(B)profound",
-          "c": "(C)facile",
-          "d": "(D)awakening",
-          "e": "(E)trivial",
-          "correct": "B"
-        },
-        {
-          "a": "(A) initiation",
-          "b": "(B)formation",
-          "c": "(C)debut",
-          "d": "(D)end",
-          "e": "(E)termination",
-          "correct": "C"
-        },
-        {
-          "a": "(A)heighten",
-          "b": "(B)edges",
-          "c": "(C)victory",
-          "d": "(D)levels",
-          "e": "(E)debacles",
-          "correct": "D"
-        },
-        {
-          "a": "(A) muscles",
-          "b": "(B)horrific",
-          "c": "(C)friendship",
-          "d": "(D)bonding",
-          "e": "(E)gore",
-          "correct": "E"
-        },
-        {
-          "a": "(A) profane",
-          "b": "(B)hallowed",
-          "c": "(C)simple",
-          "d": "(D)demoralising",
-          "e": "(E)misleading",
-          "correct": "A"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .",
-      "options": [
-        {
-          "a": "(A) patriotism",
-          "b": "(B) freedom",
-          "c": "(C) liberation",
-          "d": "(D) revolution",
-          "e": "(E) leadership",
-          "correct": "D"
-        },
-        {
-          "a": "(A) attacked",
-          "b": "(B) inspired",
-          "c": "(C) enfeebled",
-          "d": "(D) threatened",
-          "e": "(E) impressed",
-          "correct": "C"
-        },
-        {
-          "a": "(A) established",
-          "b": "(B) diffused",
-          "c": "(C) gauged",
-          "d": "(D) determined",
-          "e": "(E) invigorated",
-          "correct": "A"
-        },
-        {
-          "a": "(A) trivial",
-          "b": "(B) serious",
-          "c": "(C) auspicious",
-          "d": "(D) praiseworthy",
-          "e": "(E) magnificent",
-          "correct": "E"
-        },
-        {
-          "a": "(A) elicited",
-          "b": "(B) excluded",
-          "c": "(C) abstained",
-          "d": "(D) concealed",
-          "e": "(E) prevented",
-          "correct": "D"
-        },
-        {
-          "a": "(A) transfer",
-          "b": "(B) seizure",
-          "c": "(C) grabbing",
-          "d": "(D) retainment",
-          "e": "(E) enhancement",
-          "correct": "A"
-        },
-        {
-          "a": "(A) fantasy",
-          "b": "(B) tactics",
-          "c": "(C) occurrence",
-          "d": "(D) inevitability",
-          "e": "(E) disillusionment",
-          "correct": "D"
-        },
-        {
-          "a": "(A) anarchy",
-          "b": "(B) violence",
-          "c": "(C) taboos",
-          "d": "(D) exigencies",
-          "e": "(E) vengeance",
-          "correct": "D"
-        },
-        {
-          "a": "(A) anxious",
-          "b": "(B) realize",
-          "c": "(C) imagine",
-          "d": "(D) pretend",
-          "e": "(E) apprehend",
-          "correct": "B"
-        },
-        {
-          "a": "(A) exile",
-          "b": "(B) power",
-          "c": "(C) bondage",
-          "d": "(D) suspense",
-          "e": "(E) abeyance",
-          "correct": "C"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.",
-      "options": [
-        {
-          "a": "(1) shoes",
-          "b": "(2) hat",
-          "c": "(3) jacket",
-          "d": "(4) gloves",
-          "e": "(5) make-up",
-          "correct": "5"
-        },
-        {
-          "a": "(1) increased",
-          "b": "(2) decreased",
-          "c": "(3) lessened",
-          "d": "(4) remained steady",
-          "e": "(5) indifferent",
-          "correct": "1"
-        },
-        {
-          "a": "(1) brought",
-          "b": "(2) bought",
-          "c": "(3) sold",
-          "d": "(4) boarded",
-          "e": "(5) borrowed",
-          "correct": "2"
-        },
-        {
-          "a": "(1) accountant",
-          "b": "(2) administrator",
-          "c": "(3) accomplice",
-          "d": "(4) acrobat",
-          "e": "(5) admirer",
-          "correct": "5"
-        },
-        {
-          "a": "(1) non-descript",
-          "b": "(2) average",
-          "c": "(3) self-effacing",
-          "d": "(4) glamorous",
-          "e": "(5) unknown",
-          "correct": "4"
-        },
-        {
-          "a": "(1) Elizabeth Taylor",
-          "b": "(2) Sophia Loren",
-          "c": "(3) Marlyn Monroe",
-          "d": "(4) Ava Gardner",
-          "e": "(5) Ingrid Bergman",
-          "correct": "5"
-        },
-        {
-          "a": "(1) freedom",
-          "b": "(2) kingdom",
-          "c": "(3) famous",
-          "d": "(4) stardom",
-          "e": "(5) dukedom",
-          "correct": "4"
-        },
-        {
-          "a": "(1) monotonous",
-          "b": "(2) humdrum",
-          "c": "(3) boring",
-          "d": "(4) challenging",
-          "e": "(5) similar",
-          "correct": "4"
-        },
-        {
-          "a": "(1) nose",
-          "b": "(2) cheeks",
-          "c": "(3) ears",
-          "d": "(4) teeth",
-          "e": "(5) elbows",
-          "correct": "4"
-        },
-        {
-          "a": "(1) unnatural",
-          "b": "(2) artificial",
-          "c": "(3) natural",
-          "d": "(4) make-up",
-          "e": "(5) dramatic",
-          "correct": "5"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.",
-      "options": [
-        {
-          "a": "(1) major problem",
-          "b": "(2) major problems",
-          "c": "(3) main problem",
-          "d": "(4) serious problem",
-          "e": "(5) only problem",
-          "correct": "2"
-        },
-        {
-          "a": "(1) ignore",
-          "b": "(2) avoid",
-          "c": "(3) overlook",
-          "d": "(4) neglect",
-          "e": "(5) shun",
-          "correct": "1"
-        },
-        {
-          "a": "(1) into",
-          "b": "(2) after",
-          "c": "(3) at",
-          "d": "(4) on",
-          "e": "(5) above",
-          "correct": "3"
-        },
-        {
-          "a": "(1) by",
-          "b": "(2) through",
-          "c": "(3) for",
-          "d": "(4) from",
-          "e": "(5) beyond",
-          "correct": "2"
-        },
-        {
-          "a": "(1) in",
-          "b": "(2) off",
-          "c": "(3) about",
-          "d": "(4) with",
-          "e": "(5) over",
-          "correct": "4"
-        },
-        {
-          "a": "(1) technological progress",
-          "b": "(2) technical progress",
-          "c": "(3) technological temper",
-          "d": "(4) technical temper",
-          "e": "(5) technical bend",
-          "correct": "1"
-        },
-        {
-          "a": "(1) complete",
-          "b": "(2) total",
-          "c": "(3) full",
-          "d": "(4) ultimate",
-          "e": "(5) final",
-          "correct": "3"
-        },
-        {
-          "a": "(1) due to",
-          "b": "(2) owing to",
-          "c": "(3) because of",
-          "d": "(4) on account of",
-          "e": "(5) in relation to",
-          "correct": "1"
-        },
-        {
-          "a": "(1) treat",
-          "b": "(2) remedy",
-          "c": "(3) remove",
-          "d": "(4) eradicate",
-          "e": "(5) estimate",
-          "correct": "2"
-        },
-        {
-          "a": "(1) but",
-          "b": "(2) but also",
-          "c": "(3) but even",
-          "d": "(4) and also",
-          "e": "(5) in spite of",
-          "correct": "2"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.",
-      "options": [
-        {
-          "a": "(A)victorious",
-          "b": "(B)legendry",
-          "c": "(C)productive",
-          "d": "(D)abortive",
-          "e": "(E)successful",
-          "correct": "e"
-        },
-        {
-          "a": "(A)visionary",
-          "b": "(B)perspective",
-          "c": "(C)horizon",
-          "d": "(D)position",
-          "e": "(E)establishment",
-          "correct": "b"
-        },
-        {
-          "a": "(A) better",
-          "b": "(B)regressive",
-          "c": "(C)lucid",
-          "d": "(D)workable",
-          "e": "(E)innovation",
-          "correct": "a"
-        },
-        {
-          "a": "(A)kindness",
-          "b": "(B)realisation",
-          "c": "(C)lethargy",
-          "d": "(D)effectiveness",
-          "e": "(E)responsiveness",
-          "correct": "d"
-        },
-        {
-          "a": "(A)abominable",
-          "b": "(B)worth",
-          "c": "(C)useless",
-          "d": "(D)important",
-          "e": "(E)liable",
-          "correct": "b"
-        },
-        {
-          "a": "(A) induce",
-          "b": "(B) establish",
-          "c": "(C) retain",
-          "d": "(D) relinquish",
-          "e": "(E) engage",
-          "correct": "c"
-        },
-        {
-          "a": "(A)liberty",
-          "b": "(B)alternative",
-          "c": "(C)strictness",
-          "d": "(D)leniency",
-          "e": "(E)opportunity",
-          "correct": "e"
-        },
-        {
-          "a": "(A)valued",
-          "b": "(B)interested",
-          "c": "(C)talented",
-          "d": "(D)treasured",
-          "e": "(E)regarded",
-          "correct": "a"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.",
-      "options": [
-        {
-          "a": "(A)discomposure",
-          "b": "(B)help",
-          "c": "(B)peace",
-          "d": "(D)inspiration",
-          "e": "(E)acerbic",
-          "correct": "d"
-        },
-        {
-          "a": "(A)satisfaction",
-          "b": "(B)misconception",
-          "c": "(B)disappointment",
-          "d": "(D)affliction",
-          "e": "(E)adversity",
-          "correct": "c"
-        },
-        {
-          "a": "(A)recreated",
-          "b": "(B)freeze",
-          "c": "(B)resurrect",
-          "d": "(D)invalidated",
-          "e": "(E)immobilized",
-          "correct": "b"
-        },
-        {
-          "a": "(A)embarrass",
-          "b": "(B)congest",
-          "c": "(B)impeded",
-          "d": "(D) unblock",
-          "e": "(E)releasing",
-          "correct": "d"
-        },
-        {
-          "a": "(A)respite",
-          "b": "(B)regress",
-          "c": "(B)hiatus",
-          "d": "(D)dejection",
-          "e": "(E)abatement",
-          "correct": "a"
-        },
-        {
-          "a": "(A) quantified",
-          "b": "(B) targeted",
-          "c": "(B) adopted",
-          "d": "(D) signified",
-          "e": "(E) addressed",
-          "correct": "b"
-        },
-        {
-          "a": "(A)specifically",
-          "b": "(B)precisely",
-          "c": "(B)eligibly",
-          "d": "(D)formatively",
-          "e": "(E)quintessentially",
-          "correct": "e"
-        },
-        {
-          "a": "(A) affection",
-          "b": "(B) assimilation",
-          "c": "(B) information",
-          "d": "(D) solace",
-          "e": "(E) variance",
-          "correct": "d"
-        },
-        {
-          "a": "(A)console",
-          "b": "(B)agony",
-          "c": "(B)infliction",
-          "d": "(D)assistance",
-          "e": "(E)comfort",
-          "correct": "e"
-        },
-        {
-          "a": "(A)dispute",
-          "b": "(B)controversy",
-          "c": "(B)irregularity",
-          "d": "(D)argument",
-          "e": "(E)fight",
-          "correct": "d"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.",
-      "options": [
-        {
-          "a": "(A)remarkable",
-          "b": "(B)unsaddle",
-          "c": "(C)saddle",
-          "d": "(D)peculiar",
-          "e": "(E)Unusual",
-          "correct": "c"
-        },
-        {
-          "a": "(A)explicit",
-          "b": "(B)difficult",
-          "c": "(C)complex",
-          "d": "(D)tacit",
-          "e": "(E)latent",
-          "correct": "a"
-        },
-        {
-          "a": "(A)agreed",
-          "b": "(B)accepted",
-          "c": "(C)perceived",
-          "d": "(D)tackled",
-          "e": "(E)comprehend",
-          "correct": "c"
-        },
-        {
-          "a": "(A)social",
-          "b": "(B)general",
-          "c": "(C)national",
-          "d": "(D)Universal",
-          "e": "(E)initial",
-          "correct": "d"
-        },
-        {
-          "a": "(A)restrain",
-          "b": "(B)hailed",
-          "c": "(C)discourage",
-          "d": "(D)hurled",
-          "e": "(E)extinguish",
-          "correct": "b"
-        },
-        {
-          "a": "a.models",
-          "b": "(B)decorous",
-          "c": "(C)acculturation",
-          "d": "(D)values",
-          "e": "(E)vehicles",
-          "correct": "e"
-        },
-        {
-          "a": "(A)western",
-          "b": "(B)abroad",
-          "c": "(C)national",
-          "d": "(D)foreign",
-          "e": "(E)overseas",
-          "correct": "a"
-        },
-        {
-          "a": "(A)instead",
-          "b": "(B)besides",
-          "c": "(C)though",
-          "d": "(D)in-spite",
-          "e": "(E)although",
-          "correct": "b"
-        },
-        {
-          "a": "(A)intended",
-          "b": "(B)automatic",
-          "c": "(C)deliberate",
-          "d": "(D)intentional",
-          "e": "(E)wanton",
-          "correct": "b"
-        },
-        {
-          "a": "(A)depend",
-          "b": "(B)yield",
-          "c": "(C)accord",
-          "d": "(D)bracket",
-          "e": "(E)behalf",
-          "correct": "e"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.",
-      "options": [
-        {
-          "a": "(1)economic",
-          "b": "(2) finance",
-          "c": "(3) subsidy",
-          "d": "(4) physical",
-          "e": "(5) health",
-          "correct": "1"
-        },
-        {
-          "a": "(1) broadcast",
-          "b": "(2) spread",
-          "c": "(3) prevalent",
-          "d": "(4) expand",
-          "e": "(5) widespread",
-          "correct": "2"
-        },
-        {
-          "a": "(1) totally",
-          "b": "(2) entirely",
-          "c": "(3) grown",
-          "d": "(4) mutual",
-          "e": "(5) increasing",
-          "correct": "5"
-        },
-        {
-          "a": "(1) most",
-          "b": "(2) out",
-          "c": "(3) from",
-          "d": "(4) through",
-          "e": "(5) outside",
-          "correct": "1"
-        },
-        {
-          "a": "(1) ultimatum",
-          "b": "(2) hazard",
-          "c": "(3) sensitivity",
-          "d": "(4) challenge",
-          "e": "(5) dispute",
-          "correct": "4"
-        },
-        {
-          "a": "(1) equip",
-          "b": "(2) built",
-          "c": "(3) active",
-          "d": "(4) trained",
-          "e": "(5) qualified",
-          "correct": "3"
-        },
-        {
-          "a": "(1) section",
-          "b": "(2) scale",
-          "c": "(3) degree",
-          "d": "(4) percent",
-          "e": "(5) piece",
-          "correct": "2"
-        },
-        {
-          "a": "(1) want",
-          "b": "(2) matter",
-          "c": "(3) scarcity",
-          "d": "(4) right",
-          "e": "(5) lack",
-          "correct": "5"
-        },
-        {
-          "a": "(1) showing",
-          "b": "(2) giving",
-          "c": "(3) special",
-          "d": "(4) personal",
-          "e": "(5) individually",
-          "correct": "3"
-        },
-        {
-          "a": "(1) pursuit",
-          "b": "(2) indulge",
-          "c": "(3) introduce",
-          "d": "(4) insist",
-          "e": "(5) attract",
-          "correct": "1"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.",
-      "options": [
-        {
-          "a": "A. Installation",
-          "b": "B. maintenance",
-          "c": "C. aggravation",
-          "d": "D. generation",
-          "e": "E. modernization",
-          "correct": "D"
-        },
-        {
-          "a": "A. Problem",
-          "b": "B. objective",
-          "c": "C. summary",
-          "d": "D. essence",
-          "e": "E. moral",
-          "correct": "B"
-        },
-        {
-          "a": "A. abstract",
-          "b": "B. globe",
-          "c": "C. development",
-          "d": "D. general",
-          "e": "E. details",
-          "correct": "D"
-        },
-        {
-          "a": "A. particular",
-          "b": "B. question",
-          "c": "C. view",
-          "d": "D. future",
-          "e": "E. industrialisation",
-          "correct": "A"
-        },
-        {
-          "a": "A. reinventing",
-          "b": "B. augmenting",
-          "c": "C. estimating",
-          "d": "D. amplifying",
-          "e": "E. checking",
-          "correct": "C"
-        },
-        {
-          "a": "A. financed",
-          "b": "B. incapacitated",
-          "c": "C. analysed",
-          "d": "D. entrusted",
-          "e": "E. governed",
-          "correct": "A"
-        },
-        {
-          "a": "A. reduced",
-          "b": "B. enlarged",
-          "c": "C. deactivated",
-          "d": "D. curbed",
-          "e": "E. magnified",
-          "correct": "B"
-        },
-        {
-          "a": "A. arresting",
-          "b": "B. monitoring",
-          "c": "C. regulating",
-          "d": "D. providing",
-          "e": "E. withdrawing",
-          "correct": "D"
-        },
-        {
-          "a": "A. mitigate",
-          "b": "B. visit",
-          "c": "C. explore",
-          "d": "D. finance",
-          "e": "E. approach",
-          "correct": "C"
-        },
-        {
-          "a": "A. fastidious",
-          "b": "B. sluggish",
-          "c": "C. likely",
-          "d": "D. complete",
-          "e": "E. relevant",
-          "correct": "A"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.",
-      "options": [
-        {
-          "a": "1) Argument",
-          "b": "2) change",
-          "c": "3) exception",
-          "d": "4) issue",
-          "e": "5) difference",
-          "correct": "5"
-        },
-        {
-          "a": "1) infinity",
-          "b": "2) perpetuity",
-          "c": "3) extension",
-          "d": "4) reality",
-          "e": "5) renewability",
-          "correct": "2"
-        },
-        {
-          "a": "1) dissipated",
-          "b": "2) applied",
-          "c": "3) drawn",
-          "d": "4) invested",
-          "e": "5) given",
-          "correct": "4"
-        },
-        {
-          "a": "1) involve",
-          "b": "2) meet",
-          "c": "3) attract",
-          "d": "4) complete",
-          "e": "5) cater",
-          "correct": "2"
-        },
-        {
-          "a": "1) deplete",
-          "b": "2) expand",
-          "c": "3) terminate",
-          "d": "4) sustain",
-          "e": "5) cease",
-          "correct": "1"
-        },
-        {
-          "a": "1) provide",
-          "b": "2) include",
-          "c": "3) connect",
-          "d": "4) support",
-          "e": "5) links",
-          "correct": "3"
-        },
-        {
-          "a": "1) existing",
-          "b": "2) new",
-          "c": "3) latest",
-          "d": "4) old",
-          "e": "5) renewable",
-          "correct": "1"
-        },
-        {
-          "a": "1) supplied",
-          "b": "2) dispersed",
-          "c": "3) provided",
-          "d": "4) converted",
-          "e": "5) used",
-          "correct": "4"
-        },
-        {
-          "a": "1) predict",
-          "b": "2) promise",
-          "c": "3) pursue",
-          "d": "4) expects",
-          "e": "5) created",
-          "correct": "2"
-        },
-        {
-          "a": "1) despite",
-          "b": "2) As",
-          "c": "3) owing to",
-          "d": "4) Unless",
-          "e": "5) Although",
-          "correct": "5"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.",
-      "options": [
-        {
-          "a": "a. Collected",
-          "b": "b. seized",
-          "c": "c. accomplished",
-          "d": "d. acquired",
-          "e": "e. realized",
-          "correct": "d"
-        },
-        {
-          "a": "a. interfering",
-          "b": "b. unsuitable",
-          "c": "c. desperate",
-          "d": "d. clashing",
-          "e": "e. contrary",
-          "correct": "b"
-        },
-        {
-          "a": "a. devastate",
-          "b": "b. reshuffle",
-          "c": "c. disorient",
-          "d": "d. restructure",
-          "e": "e. revamp",
-          "correct": "d"
-        },
-        {
-          "a": "a. separate",
-          "b": "b. individual",
-          "c": "c. restricted",
-          "d": "d. sound",
-          "e": "e. independent",
-          "correct": "e"
-        },
-        {
-          "a": "a. defined",
-          "b": "b. different",
-          "c": "c. limited",
-          "d": "d. fixed",
-          "e": "e. no",
-          "correct": "c"
-        },
-        {
-          "a": "a. magnified",
-          "b": "b. enhanced",
-          "c": "c. embellished",
-          "d": "d. adorned",
-          "e": "e. aggrandised",
-          "correct": "b"
-        },
-        {
-          "a": "a. remain",
-          "b": "b. hover",
-          "c": "c. tarry",
-          "d": "d. lodge",
-          "e": "e. endure",
-          "correct": "a"
-        },
-        {
-          "a": "a. visible",
-          "b": "b. discernible",
-          "c": "c. revealed",
-          "d": "d. patent",
-          "e": "e. manifested",
-          "correct": "a"
-        },
-        {
-          "a": "a. vacillated",
-          "b": "b. shuffled",
-          "c": "c. displaced",
-          "d": "d. shifted",
-          "e": "e. given",
-          "correct": "d"
-        },
-        {
-          "a": "a. secured",
-          "b": "b. targeted",
-          "c": "c. destroyed",
-          "d": "d. concealed",
-          "e": "e. established",
-          "correct": "e"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
-    },
-    {
-      "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.",
-      "options": [
-        {
-          "a": "a. amalgamation",
-          "b": "b. use",
-          "c": "c. associated",
-          "d": "d. vision",
-          "e": "e. regulated",
-          "correct": "c"
-        },
-        {
-          "a": "a. integral",
-          "b": "b. fundamental",
-          "c": "c. increased",
-          "d": "d. vital",
-          "e": "e. eager",
-          "correct": "a"
-        },
-        {
-          "a": "a. most",
-          "b": "b. all",
-          "c": "c. every",
-          "d": "d. few",
-          "e": "e. some",
-          "correct": "c"
-        },
-        {
-          "a": "a. World",
-          "b": "b. opinion",
-          "c": "c. stature",
-          "d": "d. profit",
-          "e": "e. facet",
-          "correct": "a"
-        },
-        {
-          "a": "a. multiply",
-          "b": "b. insatiable",
-          "c": "c. decreasing",
-          "d": "d. unquenchable",
-          "e": "e. unreasonable",
-          "correct": "b"
-        },
-        {
-          "a": "a. forage",
-          "b": "b. thwart",
-          "c": "c. motivate",
-          "d": "d. fuelling",
-          "e": "e. characterize",
-          "correct": "c"
-        },
-        {
-          "a": "a. making",
-          "b": "b. qualifying",
-          "c": "c. inclusive",
-          "d": "d. encompassing",
-          "e": "e. trusting",
-          "correct": "d"
-        },
-        {
-          "a": "a. owing",
-          "b": "b. since",
-          "c": "c. catering",
-          "d": "d. in order",
-          "e": "e. complement",
-          "correct": "a"
-        },
-        {
-          "a": "a. regularly",
-          "b": "b. substantially",
-          "c": "c. minimally",
-          "d": "d. exponential",
-          "e": "e. savagely",
-          "correct": "b"
-        },
-        {
-          "a": "a. fortune",
-          "b": "b. meltdown",
-          "c": "c. spring",
-          "d": "d. source",
-          "e": "e. economy",
-          "correct": "d"
-        }
-      ],
-      "section": "(English)",
-      "topic": "Closet Test"
+  "data":[
+{
+    "qtext": "Today most businessmen are very worried. To begin with, they are not used to competition.In the past they sold whatever ...(1)... produced at whatever prices they chose. But ...(2)... increasing competition, customers began to ...(3)... and choose. Imports suddenly became ...(4)... available and that too at cheaper ...(5)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. it",
+    "b": "B. he",
+    "c": "C. they",
+    "d": "D. we",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Today most businessmen are very worried. To begin with, they are not used to competition.In the past they sold whatever ...(1)... produced at whatever prices they chose. But ...(2)... increasing competition, customers began to ...(3)... and choose. Imports suddenly became ...(4)... available and that too at cheaper ...(5)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. with",
+    "b": "B. by",
+    "c": "C. after",
+    "d": "D. from",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Today most businessmen are very worried. To begin with, they are not used to competition.In the past they sold whatever ...(1)... produced at whatever prices they chose. But ...(2)... increasing competition, customers began to ...(3)... and choose. Imports suddenly became ...(4)... available and that too at cheaper ...(5)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. buy",
+    "b": "B. take",
+    "c": "C. pick",
+    "d": "D. want",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Today most businessmen are very worried. To begin with, they are not used to competition.In the past they sold whatever ...(1)... produced at whatever prices they chose. But ...(2)... increasing competition, customers began to ...(3)... and choose. Imports suddenly became ...(4)... available and that too at cheaper ...(5)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. hardly",
+    "b": "B. easily",
+    "c": "C. frequently",
+    "d": "D. conveniently",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Today most businessmen are very worried. To begin with, they are not used to competition.In the past they sold whatever ...(1)... produced at whatever prices they chose. But ...(2)... increasing competition, customers began to ...(3)... and choose. Imports suddenly became ...(4)... available and that too at cheaper ...(5)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. costs",
+    "b": "B. returns",
+    "c": "C. dividend",
+    "d": "D. prices",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
 },
 {
-    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.",
-    "options":
-    [
-        {
-            "a": "1) Irrational",
-            "b": "2) main",
-            "c": "3) brilliant",
-            "d": "4) important",
-            "e": "5) empathetic",
-            "correct": "4" 
-        },
-        {
-            "a": "1) maintaining",
-            "b": "2) trusting",
-            "c": "3) selling",
-            "d": "4) processing",
-            "e": "5) creating",
-            "correct": "1" 
-        },
-        {
-            "a": "1) necessarily",
-            "b": "2) exceptionally",
-            "c": "3) primarily",
-            "d": "4) regularly",
-            "e": "5) truly",
-            "correct": "3" 
-        },
-        {
-            "a": "1) unexplained",
-            "b": "2) doubt",
-            "c": "3) some",
-            "d": "4) true",
-            "e": "5) sad",
-            "correct": "1" 
-        },
-        {
-            "a": "1) himself",
-            "b": "2) sometimes",
-            "c": "3) proper",
-            "d": "4) improve",
-            "e": "5) themselves",
-            "correct": "5" 
-        },
-        {
-            "a": "1) established",
-            "b": "2) created",
-            "c": "3) set",
-            "d": "4) wound",
-            "e": "5) thought",
-            "correct": "3" 
-        },
-        {
-            "a": "1) tried",
-            "b": "2) mattered",
-            "c": "3) meaning",
-            "d": "4) supposed",
-            "e": "5) expect",
-            "correct": "4" 
-        },
-        {
-            "a": "1) renounced",
-            "b": "2) showed",
-            "c": "3) meaning",
-            "d": "4) supposed",
-            "e": "5) expect",
-            "correct": "2" 
-        },
-        {
-            "a": "1) shift",
-            "b": "2) make",
-            "c": "3) turn",
-            "d": "4) mull",
-            "e": "5) switch",
-            "correct": "5" 
-        },
-        {
-            "a": "1) sell",
-            "b": "2) equipment",
-            "c": "3) people",
-            "d": "4) technique",
-            "e": "5) creatures",
-            "correct": "2" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
+    "qtext": "As a rule of thumb, a manned mission costs from fifty to a hundred times more than a comparable unmanned mission. Thus, for scientific exploration alone, ...(1)... missions, employing machine intelligence, are ...(2)... However, there may well be ...(3)... other than scientific for exploring ...(4)... social, economic, political, cultural or ...(5)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. manned",
+    "b": "B. unmanned",
+    "c": "C. space",
+    "d": "D. lunar",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a rule of thumb, a manned mission costs from fifty to a hundred times more than a comparable unmanned mission. Thus, for scientific exploration alone, ...(1)... missions, employing machine intelligence, are ...(2)... However, there may well be ...(3)... other than scientific for exploring ...(4)... social, economic, political, cultural or ...(5)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. liked",
+    "b": "B. wanted",
+    "c": "C. used",
+    "d": "D. preferred",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a rule of thumb, a manned mission costs from fifty to a hundred times more than a comparable unmanned mission. Thus, for scientific exploration alone, ...(1)... missions, employing machine intelligence, are ...(2)... However, there may well be ...(3)... other than scientific for exploring ...(4)... social, economic, political, cultural or ...(5)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. reasons",
+    "b": "B. causes",
+    "c": "C. clues",
+    "d": "D. objects",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a rule of thumb, a manned mission costs from fifty to a hundred times more than a comparable unmanned mission. Thus, for scientific exploration alone, ...(1)... missions, employing machine intelligence, are ...(2)... However, there may well be ...(3)... other than scientific for exploring ...(4)... social, economic, political, cultural or ...(5)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. moon",
+    "b": "B. sun",
+    "c": "C. space",
+    "d": "D. mission",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a rule of thumb, a manned mission costs from fifty to a hundred times more than a comparable unmanned mission. Thus, for scientific exploration alone, ...(1)... missions, employing machine intelligence, are ...(2)... However, there may well be ...(3)... other than scientific for exploring ...(4)... social, economic, political, cultural or ...(5)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. casual",
+    "b": "B. historic",
+    "c": "C. historical",
+    "d": "D. histrionic",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The principal advantage in having a clear cut objective of business is that it does not derail; the enterprise does not stray ...(1)... the direct route that it has set for ...(2)... Enterprises with well defined objectives can conveniently undertake ...(3)... and follow long range development policies. Recognition of objectives ...(4)... the temptation to compromise long range ...(5)... for short term gains and improves coordination in work and consistency in policy.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. from",
+    "b": "B. on",
+    "c": "C. along",
+    "d": "D. towards",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The principal advantage in having a clear cut objective of business is that it does not derail; the enterprise does not stray ...(1)... the direct route that it has set for ...(2)... Enterprises with well defined objectives can conveniently undertake ...(3)... and follow long range development policies. Recognition of objectives ...(4)... the temptation to compromise long range ...(5)... for short term gains and improves coordination in work and consistency in policy.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. others",
+    "b": "B. industry",
+    "c": "C. itself",
+    "d": "D. government",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The principal advantage in having a clear cut objective of business is that it does not derail; the enterprise does not stray ...(1)... the direct route that it has set for ...(2)... Enterprises with well defined objectives can conveniently undertake ...(3)... and follow long range development policies. Recognition of objectives ...(4)... the temptation to compromise long range ...(5)... for short term gains and improves coordination in work and consistency in policy.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. production",
+    "b": "B. research",
+    "c": "C. audit",
+    "d": "D. appraisal",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The principal advantage in having a clear cut objective of business is that it does not derail; the enterprise does not stray ...(1)... the direct route that it has set for ...(2)... Enterprises with well defined objectives can conveniently undertake ...(3)... and follow long range development policies. Recognition of objectives ...(4)... the temptation to compromise long range ...(5)... for short term gains and improves coordination in work and consistency in policy.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. invites",
+    "b": "B. defers",
+    "c": "C. shifts",
+    "d": "D. removes",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The principal advantage in having a clear cut objective of business is that it does not derail; the enterprise does not stray ...(1)... the direct route that it has set for ...(2)... Enterprises with well defined objectives can conveniently undertake ...(3)... and follow long range development policies. Recognition of objectives ...(4)... the temptation to compromise long range ...(5)... for short term gains and improves coordination in work and consistency in policy.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. objectives",
+    "b": "B. loses",
+    "c": "C. interests",
+    "d": "D. profits",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Let children learn to judge their own work. A child ...(1)... to talk does not learn ...(2)... being corrected all the time ...(3)... corrected too much, he will ...(4)... talking. He notices a thousand times a day the difference between the ...(5)... he uses and the language those around him use.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. endeavouring",
+    "b": "B. learning",
+    "c": "C. experimenting",
+    "d": "D. experiencing",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Let children learn to judge their own work. A child ...(1)... to talk does not learn ...(2)... being corrected all the time ...(3)... corrected too much, he will ...(4)... talking. He notices a thousand times a day the difference between the ...(5)... he uses and the language those around him use.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. in",
+    "b": "B. on",
+    "c": "C. by",
+    "d": "D. to",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Let children learn to judge their own work. A child ...(1)... to talk does not learn ...(2)... being corrected all the time ...(3)... corrected too much, he will ...(4)... talking. He notices a thousand times a day the difference between the ...(5)... he uses and the language those around him use.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. unless",
+    "b": "B. being",
+    "c": "C. until",
+    "d": "D. if",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Let children learn to judge their own work. A child ...(1)... to talk does not learn ...(2)... being corrected all the time ...(3)... corrected too much, he will ...(4)... talking. He notices a thousand times a day the difference between the ...(5)... he uses and the language those around him use.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. stop",
+    "b": "B. halt",
+    "c": "C. avoid",
+    "d": "D. shun",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Let children learn to judge their own work. A child ...(1)... to talk does not learn ...(2)... being corrected all the time ...(3)... corrected too much, he will ...(4)... talking. He notices a thousand times a day the difference between the ...(5)... he uses and the language those around him use.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. speech",
+    "b": "B. language",
+    "c": "C. talk",
+    "d": "D. skill",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "His talk used to be full of wit and humours. He liked reading.He was a ...(1)... reader and would pore over books ...(2)... a wide range of interest as ...(3)... he got them. He had ...(4)... a standing order to two bookshops ...(5)... city.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. voracious",
+    "b": "B. fervent",
+    "c": "C. anxious",
+    "d": "D. enthusiastic",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "His talk used to be full of wit and humours. He liked reading.He was a ...(1)... reader and would pore over books ...(2)... a wide range of interest as ...(3)... he got them. He had ...(4)... a standing order to two bookshops ...(5)... city.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. covering",
+    "b": "B. barring",
+    "c": "C. including",
+    "d": "D. containing",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "His talk used to be full of wit and humours. He liked reading.He was a ...(1)... reader and would pore over books ...(2)... a wide range of interest as ...(3)... he got them. He had ...(4)... a standing order to two bookshops ...(5)... city.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. firmly",
+    "b": "B. quickly",
+    "c": "C. soon",
+    "d": "D. urgently",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "His talk used to be full of wit and humours. He liked reading.He was a ...(1)... reader and would pore over books ...(2)... a wide range of interest as ...(3)... he got them. He had ...(4)... a standing order to two bookshops ...(5)... city.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. offered",
+    "b": "B. proclaimed",
+    "c": "C. intimated",
+    "d": "D. given",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "His talk used to be full of wit and humours. He liked reading.He was a ...(1)... reader and would pore over books ...(2)... a wide range of interest as ...(3)... he got them. He had ...(4)... a standing order to two bookshops ...(5)... city.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. at",
+    "b": "B. in",
+    "c": "C. within",
+    "d": "D. inside",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. came",
+    "b": "B. go",
+    "c": "C. arrived",
+    "d": "D. grew",
+    "e": "E. grow",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. did",
+    "b": "B. when",
+    "c": "C. certainly",
+    "d": "D. who",
+    "e": "E. whom",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. above",
+    "b": "B. outside",
+    "c": "C. from",
+    "d": "D. ahead",
+    "e": "E. along",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. It",
+    "b": "B. They",
+    "c": "C. Some",
+    "d": "D. That",
+    "e": "E. Those",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. took",
+    "b": "B. gave",
+    "c": "C. taken",
+    "d": "D. take",
+    "e": "E. taking",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. also",
+    "b": "B. though",
+    "c": "C. now",
+    "d": "D. tomorrow",
+    "e": "E. soon",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. heavier",
+    "b": "B. taller",
+    "c": "C. thinner",
+    "d": "D. smaller",
+    "e": "E. shorter",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Watermelons ...(1)... to India by the 4th century AD. Sushruta, the great Indian physician ...(2)... wrote Sushruta Samhita mentions that watermelons were grown ...(3)... the banks of the river Indus ...(4)... are also mentioned in ancient books. Sushruta calls it as Kalinda or Kalinga (hence Kalingad in Marathi). It was ...(5)... to China in the 10th or 11th century and ...(6)... it is grown throughout the tropics. Wild watermelons are ...(7)... compared to cultivated ones; some of which weigh up to 25 kg. The heaviest fruit weighing 118 kg was produced at Hope, Arkansas, USA the state to which President Clinton ...(8)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. rules",
+    "b": "B. belongs",
+    "c": "C. grew",
+    "d": "D. elects",
+    "e": "E. elected",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. when",
+    "b": "B. although",
+    "c": "C. where",
+    "d": "D. to",
+    "e": "E. if",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. meet",
+    "b": "B. desert",
+    "c": "C. form",
+    "d": "D. find",
+    "e": "E. went",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. identical",
+    "b": "B. closed",
+    "c": "C. corresponding",
+    "d": "D. homogeneous",
+    "e": "E. separate",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. from",
+    "b": "B. for",
+    "c": "C. again",
+    "d": "D. besides",
+    "e": "E. to",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. holds",
+    "b": "B. stretches",
+    "c": "C. rules",
+    "d": "D. borders",
+    "e": "E. side",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. who",
+    "b": "B. though",
+    "c": "C. amidst",
+    "d": "D. hence",
+    "e": "E. which",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. Bringing",
+    "b": "B. Demanding",
+    "c": "C. Beginning",
+    "d": "D. Allowing",
+    "e": "E. Startling",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. construct",
+    "b": "B. form",
+    "c": "C. broke",
+    "d": "D. settled",
+    "e": "E. found",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. problem",
+    "b": "B. anathema",
+    "c": "C. bridge",
+    "d": "D. window",
+    "e": "E. series",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The North-East India is Asia in miniature, a place ...(1)... the brown and yellow races ...(2)... and mingle. There are at least 262 ...(3)... ethnic groups and the region is home to more than 150 million people, if one includes Bangladesh. Take ...(4)... example the state of Manipur, which ...(5)... Burma, with a population of 1.8 million people. It is home to about 30 separate linguistic and ethnic groups including the Taraos, ...(6)... number less than 400 individuals ...(7)... the ages and the mountains, the people of this winding trail ...(8)... an anthropological and sociological ...(9)... to South East Asia, where the roots of many ...(10)...\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. opportunities",
+    "b": "B. sadly",
+    "c": "C. since",
+    "d": "D. still",
+    "e": "E. disease",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. expert",
+    "b": "B. experienced",
+    "c": "C. advanced",
+    "d": "D. active",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. the",
+    "b": "B. some",
+    "c": "C. a",
+    "d": "D. certain",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. predict",
+    "b": "B. suggest",
+    "c": "C. prophecy",
+    "d": "D. calculate",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. should",
+    "b": "B. must",
+    "c": "C. might",
+    "d": "D. will",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. more",
+    "b": "B. some",
+    "c": "C. most",
+    "d": "D. all",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. keep",
+    "b": "B. entrust",
+    "c": "C. confine",
+    "d": "D. involve",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. some",
+    "b": "B. others",
+    "c": "C. few",
+    "d": "D. all",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. winter",
+    "b": "B. summer",
+    "c": "C. spring",
+    "d": "D. autumn",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. seeds",
+    "b": "B. crops",
+    "c": "C. fruit",
+    "d": "D. food",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each species has its special place or habitat. An ...(1)... bird-watcher can look at ...(2)... forest, meadow, lake, swamp or field and ...(3)... almost exactly what birds he ...(4)... find there ...(5)... birds are found all over the world; others ...(6)... themselves to certain areas. Still ...(7)... migrate from one country to another in ...(8)... in search of warmth and ...(9)... and then return in spring, ...(10)... the season is more favourable.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. while",
+    "b": "B. until",
+    "c": "C. after",
+    "d": "D. when",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. exercise",
+    "b": "B. undertake",
+    "c": "C. authorise",
+    "d": "D. empower",
+    "e": "E. tolerate",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. affect",
+    "b": "B. succeed",
+    "c": "C. compete",
+    "d": "D. progress",
+    "e": "E. dominate",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. traditional",
+    "b": "B. charismatic",
+    "c": "C. masculine",
+    "d": "D. benevolent",
+    "e": "E. authoritarian",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. out-live",
+    "b": "B. out-cast",
+    "c": "C. out-work",
+    "d": "D. out-stand",
+    "e": "E. out-do",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. employees",
+    "b": "B. subordinates",
+    "c": "C. managers",
+    "d": "D. counterparts",
+    "e": "E. superiors",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. minimal",
+    "b": "B. distinct",
+    "c": "C. unique",
+    "d": "D. similar",
+    "e": "E. constant",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. employment",
+    "b": "B. culture",
+    "c": "C. gender",
+    "d": "D. class",
+    "e": "E. category",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. variations",
+    "b": "B. discriminations",
+    "c": "C. resemblances",
+    "d": "D. distortions",
+    "e": "E. equalities",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. needy",
+    "b": "B. desperate",
+    "c": "C. preliminary",
+    "d": "D. trivial",
+    "e": "E. central",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Do women ...(1)... leadership differently than men do? And if so, will feminine leadership ...(2)... where ...(3)... leadership does not? A recent study suggests somewhat paradoxically that female managers ...(4)... their male ...(5)... even when the personal characteristics of both are very ...(6)... Of the two schools of thought, the structualist theory argues that men and women do not receive the same treatment in workplace and that stamping out ...(7)... bias would stamp out the observed ...(8)... In contrast, the socialisation theory contends that men and women experience work differently because men see work as more ...(9)... to their lives. These ...(10)... explanations apart, today business appears to be undergoing feminisation of leadership.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. contradictory",
+    "b": "B. corresponding",
+    "c": "C. discriminating",
+    "d": "D. analogical",
+    "e": "E. identical",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. shown",
+    "b": "B. derived",
+    "c": "C. investigated",
+    "d": "D. seen",
+    "e": "E. reflected",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. intend",
+    "b": "B. decided",
+    "c": "C. behave",
+    "d": "D. proved",
+    "e": "E. appear",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. intermittently",
+    "b": "B. highly",
+    "c": "C. positively",
+    "d": "D. rarely",
+    "e": "E. consistently",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. on",
+    "b": "B. under",
+    "c": "C. through",
+    "d": "D. in",
+    "e": "E. to",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. designed",
+    "b": "B. formulated",
+    "c": "C. built",
+    "d": "D. construct",
+    "e": "E. building",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. less",
+    "b": "B. ignored",
+    "c": "C. made",
+    "d": "D. started",
+    "e": "E. not",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. in spite",
+    "b": "B. against",
+    "c": "C. by",
+    "d": "D. from",
+    "e": "E. for",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. but",
+    "b": "B. because",
+    "c": "C. while",
+    "d": "D. since",
+    "e": "E. perhaps",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. written",
+    "b": "B. deciphered",
+    "c": "C. formed",
+    "d": "D. talked",
+    "e": "E. used",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Recent discoveries ...(1)... that Indians of early days ...(2)... to have been ...(3)... civilised ...(4)... many ways. They had massive public buildings and comfortable dwelling houses ...(5)... mostly of brick. They had ...(6)... arrangements ...(7)... good sanitation, and an elaborate drainage system. They knew how to write ...(8)... their language, which has not yet been ...(9)... was not alphabetic but syllabic ...(10)... the Sumerian language.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. across",
+    "b": "B. closely",
+    "c": "C. before",
+    "d": "D. like",
+    "e": "E. similarly",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 1:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 2:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 3:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 4:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 5:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 6:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 7:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 8:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 9:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "From that moment his life became intolerable. He passed his days in apprehension of each succeeding night; and ...(1)... night the vision ...(2)... back again. As room he ...(3)... locked himself up in his room he ...(4)... to struggle; but in vain. An ...(5)... force lifted him up and pushed him ...(6)... the glass, as if to call the phantom, and before long he saw it ...(7)... in the spot where the crime was ...(8)... lying with arms and legs outspread the way of body ...(9)... found. Then the dead girl ...(10)... and came toward him with the little steps just as the child had dome when she came out of river.\n Question 10:Fill the appropriate word from given options.",
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. dogmatic",
+    "b": "B. paradoxical",
+    "c": "C. outstanding",
+    "d": "D. sluggish",
+    "e": "E. praiseworthy",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. galvanised",
+    "b": "B. privatised",
+    "c": "C. dominant",
+    "d": "D. faltering",
+    "e": "E. developing",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. severe",
+    "b": "B. judicious",
+    "c": "C. marginal",
+    "d": "D. proportionate",
+    "e": "E. dramatic",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. proactivity",
+    "b": "B. curiosity",
+    "c": "C. downsizing",
+    "d": "D. slashing",
+    "e": "E. reactivity",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. area",
+    "b": "B. mood",
+    "c": "C. grip",
+    "d": "D. light",
+    "e": "E. context",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. critical",
+    "b": "B. light",
+    "c": "C. profound",
+    "d": "D. possible",
+    "e": "E. tough",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. fabricated",
+    "b": "B. projected",
+    "c": "C. lamented",
+    "d": "D. expected",
+    "e": "E. advocated",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. managing",
+    "b": "B. asserting",
+    "c": "C. criticising",
+    "d": "D. rejecting",
+    "e": "E. developing",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. encouraged",
+    "b": "B. established",
+    "c": "C. preached",
+    "d": "D. circulated",
+    "e": "E. directed",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The last decade has been ...(1)... for management education and development. When the economies of most western countries were ...(2)... in early 1980s there were ...(3)... cuts in both in corporate training and in higher education. During the boom years of mid 1980s there was some ...(4)... in both areas. In early 1990s industrialised countries were in the ...(5)... of another service recession and a ...(6)... retrenchment was to be reasonably ...(7)...throughout the training world. But this is not the case so far. Many leading companies are ...(8)... their belief in training as the key to future competitiveness and governments have ...(9)... an era of rapid ...(10)...\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. degradation",
+    "b": "B. communication",
+    "c": "C. expansion",
+    "d": "D. projection",
+    "e": "E. exhibition",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. hard",
+    "b": "B. herd",
+    "c": "C. heard",
+    "d": "D. hired",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. decide",
+    "b": "B. decides",
+    "c": "C. decided",
+    "d": "D. decision",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. firms",
+    "b": "B. forms",
+    "c": "C. farms",
+    "d": "D. ferms",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. maintain",
+    "b": "B. fountain",
+    "c": "C. mountain",
+    "d": "D. plantain",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. locked",
+    "b": "B. shocked",
+    "c": "C. knocked",
+    "d": "D. pocked",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. told",
+    "b": "B. said",
+    "c": "C. asked",
+    "d": "D. advised",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. explored",
+    "b": "B. exhorted",
+    "c": "C. explained",
+    "d": "D. exported",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. wandered",
+    "b": "B. wondered",
+    "c": "C. wondrous",
+    "d": "D. wounded",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. which",
+    "b": "B. what",
+    "c": "C. whom",
+    "d": "D. whose",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "An old scholar ...(1)... that Truth was in country. He ...(2)... to find her, as he had devoted his life to studying her in all her ...(3)... He came upon the cottage in the ...(4)... where Truth lived. He ...(5)... on the door. Truth ...(6)... what he wanted. The scholar ...(7)... who she was. He added that he had ...(8)... a thousand times ...(9)... She really was ...(10)...\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. like",
+    "b": "B. lake",
+    "c": "C. lick",
+    "d": "D. lack",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. connected",
+    "b": "B. adjusted",
+    "c": "C. solved",
+    "d": "D. deferred",
+    "e": "E. dealt",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. notorious",
+    "b": "B. more",
+    "c": "C. thief",
+    "d": "D. imprisoned",
+    "e": "E. extremely",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. withdrawn",
+    "b": "B. amassed",
+    "c": "C. sold",
+    "d": "D. recovered",
+    "e": "E. stolen",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. harass",
+    "b": "B. arrest",
+    "c": "C. probe",
+    "d": "D. threaten",
+    "e": "E. educate",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. loss",
+    "b": "B. crime",
+    "c": "C. its",
+    "d": "D. burglar",
+    "e": "E. their",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. required",
+    "b": "B. forbidden",
+    "c": "C. instructed",
+    "d": "D. entrusted",
+    "e": "E. forced",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. paint",
+    "b": "B. sell",
+    "c": "C. protect",
+    "d": "D. leave",
+    "e": "E. build",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. criminals",
+    "b": "B. neighbours",
+    "c": "C. burglars",
+    "d": "D. pedestrians",
+    "e": "E. residents",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. stranger",
+    "b": "B. resident",
+    "c": "C. neighbour",
+    "d": "D. entrant",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Four cases of burglary have been ...(1)... with the arrest of one ...(2)... criminal. The police have ...(3)... gold and silver jewellery from him. The police increased their public contacts with the residents of the area after following a spate of burglaries. They held corner meetings to ...(4)... the residents on steps to ...(5)... prevention. They were ...(6)... to inform their neighbours if they had to ...(7)... their houses unattended. Consequently, some ...(8)... of the locality observed one ...(9)... leaving an empty house. He was ...(10)... and a cases was registered.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. misled",
+    "b": "B. apprehended",
+    "c": "C. neglected",
+    "d": "D. boycotted",
+    "e": "E. informed",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. Antibiotics",
+    "b": "B. Penicillin",
+    "c": "C. Streptomycin",
+    "d": "D. Teramycin",
+    "e": "E. Medicine",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. within",
+    "b": "B. through",
+    "c": "C. on",
+    "d": "D. into",
+    "e": "E. over",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. treating",
+    "b": "B. operating",
+    "c": "C. discovering",
+    "d": "D. spreading",
+    "e": "E. monitoring",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. In",
+    "b": "B. Over",
+    "c": "C. While",
+    "d": "D. After",
+    "e": "E. During",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. children",
+    "b": "B. injured",
+    "c": "C. patients",
+    "d": "D. doctors",
+    "e": "E. nurses",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. study",
+    "b": "B. prevent",
+    "c": "C. dismiss",
+    "d": "D. spread",
+    "e": "E. remove",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. treatment",
+    "b": "B. patient",
+    "c": "C. cause",
+    "d": "D. discovery",
+    "e": "E. operation",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. were",
+    "b": "B. may be",
+    "c": "C. have",
+    "d": "D. are",
+    "e": "E. would be",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. multiplying",
+    "b": "B. providing",
+    "c": "C. saving",
+    "d": "D. infecting",
+    "e": "E. growing",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "...(1)... can be injected ...(2)... human blood for ...(3)... diphtheria, pneumonia and severe wounds ...(4)... surgical operations, penicillin is given to ...(5)... to ...(6)... the bacterial information from spreading. After this ...(7)... several antibiotics ...(8)... discovered. Today, these antibiotics are ...(9)... the lives of lakhs of ...(10)... all over the world.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. children",
+    "b": "B. species",
+    "c": "C. women",
+    "d": "D. medicos",
+    "e": "E. people",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. dampen",
+    "b": "B. hinder",
+    "c": "C. indulge",
+    "d": "D. arouse",
+    "e": "E. prohibit",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. expelled",
+    "b": "B. ceased",
+    "c": "C. abstained",
+    "d": "D. refrained",
+    "e": "E. inferred",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. invariably",
+    "b": "B. hopefully",
+    "c": "C. deliberately",
+    "d": "D. purposely",
+    "e": "E. negatively",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. wanting",
+    "b": "B. associating",
+    "c": "C. engaging",
+    "d": "D. supporting",
+    "e": "E. exhibiting",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. manageable",
+    "b": "B. valuable",
+    "c": "C. unattainable",
+    "d": "D. reachable",
+    "e": "E. approachable",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. hostile",
+    "b": "B. necessary",
+    "c": "C. incidental",
+    "d": "D. insensible",
+    "e": "E. detrimental",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. express",
+    "b": "B. appreciate",
+    "c": "C. reciprocate",
+    "d": "D. damage",
+    "e": "E. negate",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. realised",
+    "b": "B. hypothesised",
+    "c": "C. verbalised",
+    "d": "D. criticised",
+    "e": "E. actualised",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. projected",
+    "b": "B. determined",
+    "c": "C. controlled",
+    "d": "D. galvanised",
+    "e": "E. pronounced",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Desire and action are often coordinated in that desire may ...(1)... the person to action or that desire may be ...(2)... from action. If P is seen as trying to do X, it is often inferred that P desires X. However, desire and action are not ...(3)... coordinated. The person may desire X without ...(4)... in any action directed towards the attainment of X. This even happens when X appears ...(5)... or when the other effects resulting from the action ...(6)... to attain X are sufficiently undesirable as to ...(7)... the desire for X. Sometimes, Of course, no action is necessary; the desire may or may not be ...(8)... quite independently of P's action. Furthermore, a given desire may lead to different actions, depending upon the environmental requirements. Actions are ...(9)... not only by desire but also by the way the person ...(10)... the casual structure of the environment.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. downgrades",
+    "b": "B. fabricates",
+    "c": "C. develops",
+    "d": "D. sees",
+    "e": "E. enlarges",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. preparations",
+    "b": "B. shopping",
+    "c": "C. purchases",
+    "d": "D. preparing",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. two",
+    "b": "B. five",
+    "c": "C. few",
+    "d": "D. couple",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. a",
+    "b": "B. an",
+    "c": "C. the",
+    "d": "D. which",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. hate",
+    "b": "B. anticipate",
+    "c": "C. recommend",
+    "d": "D. like",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. purchases",
+    "b": "B. prizes",
+    "c": "C. presents",
+    "d": "D. presentation",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. many",
+    "b": "B. more",
+    "c": "C. few",
+    "d": "D. less",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. at",
+    "b": "B. in",
+    "c": "C. on",
+    "d": "D. for",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. any",
+    "b": "B. a",
+    "c": "C. the",
+    "d": "D. this",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. were",
+    "b": "B. are",
+    "c": "C. have been",
+    "d": "D. will be",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the large shops ...(1)... for Diwali are begun ...(2)... or six weeks before ...(3)... actual day. Shop owners ...(4)... Diwali because lots of ...(5)... are given, which means ...(6)... goods are bought than ...(7)...any other time of ...(8)... year. The main shops ...(9)... decorated many weeks before ...(10)... to tempt people to buy things.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. occasion",
+    "b": "B. festival",
+    "c": "C. festivities",
+    "d": "D. Diwali",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. spend",
+    "b": "B. steal",
+    "c": "C. save",
+    "d": "D. give",
+    "e": "E. invest",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. move",
+    "b": "B. take",
+    "c": "C. risk",
+    "d": "D. put",
+    "e": "E. lift",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. promises",
+    "b": "B. payments",
+    "c": "C. demands",
+    "d": "D. attitudes",
+    "e": "E. incomes",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. expenses",
+    "b": "B. experience",
+    "c": "C. problems",
+    "d": "D. guidance",
+    "e": "E. necessities",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. availability",
+    "b": "B. inflation",
+    "c": "C. economics",
+    "d": "D. problem",
+    "e": "E. management",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. carefully",
+    "b": "B. rarely",
+    "c": "C. generally",
+    "d": "D. always",
+    "e": "E. thoroughly",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. discuss",
+    "b": "B. understand",
+    "c": "C. teach",
+    "d": "D. reveal",
+    "e": "E. advise",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. quarrel",
+    "b": "B. ask",
+    "c": "C. learn",
+    "d": "D. waste",
+    "e": "E. spend",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. slowly",
+    "b": "B. early",
+    "c": "C. timely",
+    "d": "D. lately",
+    "e": "E. regularly",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Each year Middle class Indian children ...(1)... hundred of crores of rupees in pocket money and ...(2)... a heavy burden parental ...(3)... like adults, these kids have ...(4)... connected with budgeting and saving money. unfortunately, basic money ...(5)... is ...(6)... taught in schools. At home, very few parents ...(7)... money matters with their children. Kids who ...(8)... about money ...(9)... have been found to be way ahead of their peers. Indeed, learning to ...(10)... with money properly fosters discipline, good work habits and self respect.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. decide",
+    "b": "B. earn",
+    "c": "C. control",
+    "d": "D. deal",
+    "e": "E. pay",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. procedure",
+    "b": "B. process",
+    "c": "C. portion",
+    "d": "D. blend",
+    "e": "E. subject",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. drifted",
+    "b": "B. fizzled",
+    "c": "C. contrived",
+    "d": "D. earned",
+    "e": "E. arisen",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. painting",
+    "b": "B. construction",
+    "c": "C. decoration",
+    "d": "D. repairing",
+    "e": "E. appearance",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. fatiguing",
+    "b": "B. strenuous",
+    "c": "C. encouraging",
+    "d": "D. vast",
+    "e": "E. rewarding",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. satisfaction",
+    "b": "B. facility",
+    "c": "C. infrastructure",
+    "d": "D. amenities",
+    "e": "E. decorum",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. practically",
+    "b": "B. ideologically",
+    "c": "C. aesthetically",
+    "d": "D. principally",
+    "e": "E. readily",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. Considering",
+    "b": "B. Having",
+    "c": "C. Assuming",
+    "d": "D. Regarding",
+    "e": "E. Despite",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. variation",
+    "b": "B. slack",
+    "c": "C. lethargy",
+    "d": "D. spurt",
+    "e": "E. deterioration",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. escalating",
+    "b": "B. modest",
+    "c": "C. unpredictable",
+    "d": "D. negligible",
+    "e": "E. exorbitant",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Architecture is unique ...(1)... of art and science that has ...(2)... out of man's primary need for shelter. It is concerned with the design and ...(3)... of buildings in their sociological, technological and environmental context. This field is not only ...(4)... but also provides the ...(5)... of designing and building pleasing ...(6)... refined structures to serve various needs. ...(7)... the fairly large number of practising architects, the countrywide ...(8)... in building activity offers scope for more. And though the initial earnings in the field are relatively ...(9)... what you make thereafter will depend entirely on your ...(10)...\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. ambition",
+    "b": "B. appearance",
+    "c": "C. expectation",
+    "d": "D. experience",
+    "e": "E. need",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. developed",
+    "b": "B. extinct",
+    "c": "C. outdated",
+    "d": "D. proposed",
+    "e": "E. modern",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. anxiety",
+    "b": "B. misconception",
+    "c": "C. realisation",
+    "d": "D. worry",
+    "e": "E. apprehension",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. salary",
+    "b": "B. comfort",
+    "c": "C. work",
+    "d": "D. energy",
+    "e": "E. time",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. Minimum",
+    "b": "B. Maximum",
+    "c": "C. Less",
+    "d": "D. No",
+    "e": "E. Ample",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. competition",
+    "b": "B. dispute",
+    "c": "C. delay",
+    "d": "D. jealously",
+    "e": "E. ambition",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. employee",
+    "b": "B. subordinate",
+    "c": "C. boss",
+    "d": "D. client",
+    "e": "E. colleague",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. suggests",
+    "b": "B. remembers",
+    "c": "C. replies",
+    "d": "D. types",
+    "e": "E. does",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. less",
+    "b": "B. all",
+    "c": "C. more",
+    "d": "D. few",
+    "e": "E. some",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. discouraging",
+    "b": "B. heartening",
+    "c": "C. healthy",
+    "d": "D. unfortunate",
+    "e": "E. unnatural",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Now-a-days, under the ...(1)... system of education, however good it may be, when a young man comes out of the university, there seems to be this ...(2)... in him that the higher the standard of living raises, the less should a man work. Thus, mathematically, the higher the standard of living, according to this misconceived notion, the less the ...(3)... Ultimately, what should be the highest standard of living then? ...(4)... work! This leads to an unhealthy ...(5)...among the workers. A typist who types over twenty letters a day asks his ...(6)... how many letters he had types that day. The latter ...(7)... \"fifteen\". The former thinks, \"Tomorrow I should type only fifteen or even ...(8)... This tendency is quite ...(9)... and may ultimately lead to ...(10)... Even one's family life may be affected adversely due to such tendency.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. evil",
+    "b": "B. retardation",
+    "c": "C. progress",
+    "d": "D. denial",
+    "e": "E. complexity",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. unless",
+    "b": "B. without",
+    "c": "C. if",
+    "d": "D. before",
+    "e": "E. because",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. principles",
+    "b": "B. conjecture",
+    "c": "C. experiment",
+    "d": "D. research",
+    "e": "E. experience",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. accepted",
+    "b": "B. demonstrated",
+    "c": "C. proved",
+    "d": "D. performed",
+    "e": "E. understood",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. precision",
+    "b": "B. exactness",
+    "c": "C. confirmation",
+    "d": "D. speculation",
+    "e": "E. apprehension",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. for",
+    "b": "B. how",
+    "c": "C. that",
+    "d": "D. about",
+    "e": "E. why",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. impact",
+    "b": "B. futility",
+    "c": "C. causes",
+    "d": "D. problems",
+    "e": "E. nature",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. limitations",
+    "b": "B. benefits",
+    "c": "C. shortcomings",
+    "d": "D. researches",
+    "e": "E. inventions",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. employed",
+    "b": "B. developed",
+    "c": "C. able",
+    "d": "D. entrusted",
+    "e": "E. taught",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. engulfed",
+    "b": "B. lost",
+    "c": "C. enlightening",
+    "d": "D. investigating",
+    "e": "E. groping",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Without science there is no future for any society. Even with science, ...(1)... it is controlled by some spiritual impulses, there is no future. One great thing about science is that it does not accept anything on mere ...(2)... everything has to be ...(3)... beyond any doubt. All acceptance comes after experiment which has no room for any ...(4)... This is the reason ...(5)... development of science and technology has revolutionised human life all over the world. There are very few spheres of human activity which have not experienced the ...(6)... of such development. However, despite its manifold ...(7)... science has not been ...(8)... to solve any of man's moral or spiritual problems. Society is still ...(9)... in the dark to find out what its future will be. The need, therefore, is to make science ...(10)... for the ultimate truth.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. useful",
+    "b": "B. worthy",
+    "c": "C. ready",
+    "d": "D. search",
+    "e": "E. fit",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. should",
+    "b": "B. may",
+    "c": "C. must",
+    "d": "D. can",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. put",
+    "b": "B. show",
+    "c": "C. dress",
+    "d": "D. flaunt",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. our",
+    "b": "B. their",
+    "c": "C. his",
+    "d": "D. her",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. infrequently",
+    "b": "B. sporadically",
+    "c": "C. scarcely",
+    "d": "D. always",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. revolution",
+    "b": "B. mania",
+    "c": "C. subversion",
+    "d": "D. rebellion",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. greatly",
+    "b": "B. hardly",
+    "c": "C. never",
+    "d": "D. always",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. surmise",
+    "b": "B. idea",
+    "c": "C. complaint",
+    "d": "D. accusation",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. story",
+    "b": "B. reality",
+    "c": "C. fact",
+    "d": "D. myth",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. ruin",
+    "b": "B. harm",
+    "c": "C. defeat",
+    "d": "D. downfall",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many parents greet their children's teenage years with needless dread. While teens ...(1)... assault us with heavy metal music ...(2)... outlandish clothes and spend all ...(3)... time with friends, such behaviour ...(4)... adds up to full scale revolt teenage ...(5)... according to psychologist laurence steinberg, has been ...(6)... exaggerated. Sociologist Sanford Dornbusch agrees. \"The ...(7)... teenagers inevitably rebel is a ...(8)... that has the potential for great family ...(9)...\" say Dornbusch. He believes the notion can ...(10)... communication during this critical time for parents to influence youngsters.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. damage",
+    "b": "B. destroy",
+    "c": "C. injure",
+    "d": "D. suffocate",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. power",
+    "b": "B. intellect",
+    "c": "C. preparedness",
+    "d": "D. ability",
+    "e": "E. alertness",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. tasks",
+    "b": "B. concepts",
+    "c": "C. procedures",
+    "d": "D. theories",
+    "e": "E. principles",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. typical",
+    "b": "B. matured",
+    "c": "C. slower",
+    "d": "D. accelerated",
+    "e": "E. rapid",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. chronology",
+    "b": "B. arena",
+    "c": "C. perspective",
+    "d": "D. conformity",
+    "e": "E. contexts",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. deliver",
+    "b": "B. build",
+    "c": "C. focus",
+    "d": "D. dwell",
+    "e": "E. plan",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. tackle",
+    "b": "B. grapple",
+    "c": "C. provide",
+    "d": "D. deliver",
+    "e": "E. trade",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. text",
+    "b": "B. forum",
+    "c": "C. debate",
+    "d": "D. reference",
+    "e": "E. discussion",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. necessity",
+    "b": "B. requirement",
+    "c": "C. understanding",
+    "d": "D. rationale",
+    "e": "E. fact",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. projects",
+    "b": "B. description",
+    "c": "C. work-outs",
+    "d": "D. analysis",
+    "e": "E. presentation",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Students of cognitive development have shown that the child's ...(1)... to use generalised ...(2)... develops more slowly in history than in any other schools subjects. This ...(3)... development of reasoning in historical ...(4)... makes it necessary for the historian to ...(5)... upon events that may be included in the text. In many cases, the historian may needs to ...(6)... with special effort a generalised understanding of key concepts to be used in a ...(7)... This ...(8)... may well mean that school history cannot cover as many events as it does at present. Also, school histories may have to provide for topic work or theme based ...(9)... rather than merely observe ...(10)... conformity.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. internal",
+    "b": "B. metaphorical",
+    "c": "C. eternal",
+    "d": "D. chronological",
+    "e": "E. time bound",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. so",
+    "b": "B. as",
+    "c": "C. very",
+    "d": "D. too",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. accept",
+    "b": "B. like",
+    "c": "C. bear",
+    "d": "D. understand",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. also",
+    "b": "B. again",
+    "c": "C. still",
+    "d": "D. ever",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. anything",
+    "b": "B. something",
+    "c": "C. nothing",
+    "d": "D. everything",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. bravery",
+    "b": "B. courage",
+    "c": "C. fortitude",
+    "d": "D. gallantry",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. I",
+    "b": "B. he",
+    "c": "C. she",
+    "d": "D. me",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. would",
+    "b": "B. should",
+    "c": "C. do",
+    "d": "D. did",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. all",
+    "b": "B. some",
+    "c": "C. any",
+    "d": "D. none",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. shall",
+    "b": "B. can",
+    "c": "C. will",
+    "d": "D. would",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Well it was done and the debt was paid. But I began to feel ...(1)... sorry for myself that I could not ...(2)... it, I made up my mind never to steal ...(3)... I also made up my mind to tell ...(4)... to my father. But I did not have the ...(5)... to speak to him. It was not that ...(6)... was afraid that my father would beat me. I ...(7)... not remember any time when he beat ...(8)... of us. I was afraid that my confession ...(9)... cause him great pain. But I ...(10)... felt that I had to take this risk. I would never be happy again unless I told everything to my father.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. soon",
+    "b": "B. again",
+    "c": "C. once",
+    "d": "D. since",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. exact",
+    "b": "B. equal",
+    "c": "C. optimum",
+    "d": "D. eccentric",
+    "e": "E. unprecedented",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. meet",
+    "b": "B. predict",
+    "c": "C. ignore",
+    "d": "D. accept",
+    "e": "E. register",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. immediately",
+    "b": "B. quickly",
+    "c": "C. accordingly",
+    "d": "D. positively",
+    "e": "E. spontaneously",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. inaccurate",
+    "b": "B. buoyant",
+    "c": "C. frequent",
+    "d": "D. inadequate",
+    "e": "E. exorbitant",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. consider",
+    "b": "B. neglecting",
+    "c": "C. visualising",
+    "d": "D. believing",
+    "e": "E. notwithstanding",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. problem",
+    "b": "B. answer",
+    "c": "C. source",
+    "d": "D. outcome",
+    "e": "E. lacuna",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. what's",
+    "b": "B. That's",
+    "c": "C. one",
+    "d": "D. Managers",
+    "e": "E. Companies",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. ignore",
+    "b": "B. obtain",
+    "c": "C. vitiate",
+    "d": "D. negate",
+    "e": "E. improve",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. rationalise",
+    "b": "B. substantiate",
+    "c": "C. minimise",
+    "d": "D. counter",
+    "e": "E. tolerate",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Faced with an ...(1)... number and variety of products on the market managers are finding it more diificult to ...(2)... demand and plan production orders ...(3)... As a result ...(4)... forecasts are interesting and along with them, the costs of those errors. Many managers today ...(5)... speed is the ...(6)... have turned to one or another popular production scheduling system. But these tools tackle only part of the problem ...(7)... really needed is a way to ...(8)... forecasts and simultaneiusly redesign planning process to ...(9)... the impact of ...(10)... forecasts.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. dangerous",
+    "b": "B. absolute",
+    "c": "C. unpredicted",
+    "d": "D. erroneous",
+    "e": "E. popular",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. exaggerated",
+    "b": "B. unreasonable",
+    "c": "C. tremendous",
+    "d": "D. increasing",
+    "e": "E. diminishing",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. distorted",
+    "b": "B. ameliorated",
+    "c": "C. attracted",
+    "d": "D. weighed",
+    "e": "E. encouraged",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. demand",
+    "b": "B. contempt",
+    "c": "C. dissatisfaction",
+    "d": "D. commotion",
+    "e": "E. urgency",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. awareness",
+    "b": "B. intricacy",
+    "c": "C. status",
+    "d": "D. necessity",
+    "e": "E. quality",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. scope",
+    "b": "B. much",
+    "c": "C. short",
+    "d": "D. everything",
+    "e": "E. nothing",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. abandoned",
+    "b": "B. practised",
+    "c": "C. contemplated",
+    "d": "D. assimilated",
+    "e": "E. taught",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. unscrupulous",
+    "b": "B. partial",
+    "c": "C. expert",
+    "d": "D. general",
+    "e": "E. periodical",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. discussions",
+    "b": "B. perusal",
+    "c": "C. reduction",
+    "d": "D. updating",
+    "e": "E. formulation",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. matters",
+    "b": "B. flourishes",
+    "c": "C. desires",
+    "d": "D. encompasses",
+    "e": "E. needs",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the view of ...(1)... demand for personnel with commerce background, in the post liberalisaion period, courses in commerce have ...(2)... the attention of students and parents. There is growing ...(3)... for these courses not only in schools but also in colleges. But the ...(4)... of commerce education in school leaves ...(5)... to be desires. Its popularity importance and quality, to a large extent, depends much on teaching methodology being ...(6)... in schools. Of course, the ...(7)... review and ...(8)... of syllabi also ...(9)... But this aspect is ...(10)... taken care of suitably, by the concerned organisations.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. duly",
+    "b": "B. seldom",
+    "c": "C. being",
+    "d": "D. often",
+    "e": "E. never",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. population",
+    "b": "B. progress",
+    "c": "C. area",
+    "d": "D. position",
+    "e": "E. popularity",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. apportioned",
+    "b": "B. classified",
+    "c": "C. acquired",
+    "d": "D. declared",
+    "e": "E. measured",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. variations",
+    "b": "B. paths",
+    "c": "C. investigations",
+    "d": "D. advances",
+    "e": "E. decisions",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. definitely",
+    "b": "B. hardly",
+    "c": "C. not",
+    "d": "D. unduly",
+    "e": "E. preferably",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. need",
+    "b": "B. repair",
+    "c": "C. have",
+    "d": "D. develop",
+    "e": "E. lubricate",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. manufacturing",
+    "b": "B. studying",
+    "c": "C. incurring",
+    "d": "D. deciding",
+    "e": "E. investing",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. way",
+    "b": "B. term",
+    "c": "C. time",
+    "d": "D. period",
+    "e": "E. march",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. poor",
+    "b": "B. underdeveloped",
+    "c": "C. rival",
+    "d": "D. advanced",
+    "e": "E. friendly",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. unnecessary",
+    "b": "B. ridiculous",
+    "c": "C. inevitable",
+    "d": "D. demanding",
+    "e": "E. undesirable",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A country's ...(1)... is ...(2)... in terms of its scientific and technological advancements. If we accept this as standard, the ...(3)... made by India in the spheres of technology are ...(4)... impressive when compared with other developing countries of the world. We ...(5)... huge machines which produces machines for both big and small industries. Yet we are not ...(6)... adequately in fields of Research and Development. We have to go a long ...(7)... to catch up with the standards set by ...(8)... nations of the world. For a rapid modernisation, import of technology is ...(9)... But the imported technology has to be ...(10)... and absorbed in such a way that we need not to have to import it again.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. neglected",
+    "b": "B. modified",
+    "c": "C. overlooked",
+    "d": "D. effected",
+    "e": "E. implemented",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. From",
+    "b": "B. With",
+    "c": "C. Till",
+    "d": "D. Since",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. arranged",
+    "b": "B. appointed",
+    "c": "C. framed",
+    "d": "D. selected",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. great",
+    "b": "B. super",
+    "c": "C. high",
+    "d": "D. multiple",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. perform",
+    "b": "B. reform",
+    "c": "C. revive",
+    "d": "D. transform",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. insists",
+    "b": "B. subsists",
+    "c": "C. consists",
+    "d": "D. persists",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. structure",
+    "b": "B. function",
+    "c": "C. growth",
+    "d": "D. behaviour",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. practically",
+    "b": "B. structurally",
+    "c": "C. precisely",
+    "d": "D. strictly",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. asserted",
+    "b": "B. declared",
+    "c": "C. voiced",
+    "d": "D. waged",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. on",
+    "b": "B. at",
+    "c": "C. with",
+    "d": "D. from",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It is difficult to find a person who would put good word for the kind of bureaucracy we have in India. Incidentally, things may now be seen as coming to a head ...(1)... the attainment of independence, India ...(2)... from time to time several ...(3)... power committees or commissions to ...(4)... administration. In spite of all this, the impression ...(5)... that the Indian variety of bureaucracy has been slow and slothful. Fact is that the ...(6)... of bureaucurracy happens to be ...(7)... the same all over the world. Even in USA Presidents have ...(8)... a great deal of concern ...(9)... the manner in which buraeucurracy has been functioning at various levels. In spite of all this, not much change can be ...(10)... in the near future. One may feel like hanging one's head the despair unless one believes in some super human power the looks after our universe.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. accepted",
+    "b": "B. expected",
+    "c": "C. affected",
+    "d": "D. admitted",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. attaching",
+    "b": "B. shunting",
+    "c": "C. travelling",
+    "d": "D. manufacturing",
+    "e": "E. having",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. bigger",
+    "b": "B. longer",
+    "c": "C. heavier",
+    "d": "D. crowded",
+    "e": "E. shorter",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. crowded",
+    "b": "B. vacated",
+    "c": "C. halted",
+    "d": "D. derailed",
+    "e": "E. collapsed",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. get",
+    "b": "B. offer",
+    "c": "C. eat",
+    "d": "D. drink",
+    "e": "E. sell",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. walk",
+    "b": "B. run",
+    "c": "C. wait",
+    "d": "D. alight",
+    "e": "E. stand",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. days",
+    "b": "B. compartment",
+    "c": "C. life",
+    "d": "D. train",
+    "e": "E. journey",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. wrote",
+    "b": "B. submitted",
+    "c": "C. alleged",
+    "d": "D. withdrew",
+    "e": "E. received",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. No",
+    "b": "B. Each",
+    "c": "C. Every",
+    "d": "D. Any",
+    "e": "E. Only",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. stopped",
+    "b": "B. connected",
+    "c": "C. attached",
+    "d": "D. avoided",
+    "e": "E. removed",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "In the earlier days, some long distance trains were ...(1)... more number of compartments, thus making the train ...(2)... than even the length of platforms. Therefore, the last compartment usually ...(3)... outside the platform. Once the person travelling in the last compartment of such a train could not ...(4)... tea, coffee, snacks or water as he failed to ...(5)... on the platform. He remained hungry and thirsty through out his ...(6)... on reaching his destination, he ...(7)... a written complaint in which he appealed, ...(8)... long distance train should ever have any last compartment. If at all, last compartment cannot be ...(9)... it should be placed somewhere in the ...(10)...\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. wagon",
+    "b": "B. station",
+    "c": "C. middle",
+    "d": "D. end",
+    "e": "E. yard",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. event",
+    "b": "B. accident",
+    "c": "C. incident",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. cold",
+    "b": "B. frantic",
+    "c": "C. warm",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. federation",
+    "b": "B. actor",
+    "c": "C. leader",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. overjoyed",
+    "b": "B. silenced",
+    "c": "C. happy",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. affected",
+    "b": "B. afflicted",
+    "c": "C. effected",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. imagined",
+    "b": "B. forgot",
+    "c": "C. pretended",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. composure",
+    "b": "B. nervousness",
+    "c": "C. condition",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. relative",
+    "b": "B. dignitary",
+    "c": "C. leader",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. rejoinder",
+    "b": "B. rejection",
+    "c": "C. response",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. favourite",
+    "b": "B. fashionable",
+    "c": "C. favourable",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. inclination",
+    "b": "B. disposition",
+    "c": "C. hesitation",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. refer",
+    "b": "B. mention",
+    "c": "C. maintain",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. role",
+    "b": "B. person",
+    "c": "C. act",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. preference",
+    "b": "B. selection",
+    "c": "C. alternative",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The young student was delighted to be told of his winning the first prize in an oratorical competition conducted by the Film Federation of India. the selection gave him the rare opportunity of meeting the matinee-idol in person. He anxiously looked forward to the ...(1)... he was given a ...(2)... welcome by the ...(3)... The boy was ...(4)... by the reception. He was so ...(5)... that he did not utter a word for sometime. He even ...(6)... to offer the conventional greetings. When he did recover his ...(7)... he greeted the ...(8)... with folded hands. This got an immediate ...(9)... from the matinee-idol . The boy was asked about his ...(10)... hobby. He had no ...(11)... in admitting that it was going to films. Next he was asked to ...(12)... the film he liked the most. The boy was careful to name a film in which the idol had a leading ...(13)... This was followed by a question about the reason for the ...(14)... The boy mentioned a few ...(15)... of the film.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. scenes",
+    "b": "B. merits",
+    "c": "C. achievements",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. up",
+    "b": "B. forward",
+    "c": "C. in",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. between",
+    "b": "B. among",
+    "c": "C. amidst",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. either",
+    "b": "B. neither",
+    "c": "C. both",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. cell",
+    "b": "B. groove",
+    "c": "C. shell",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. in",
+    "b": "B. between",
+    "c": "C. of",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. important",
+    "b": "B. obvious",
+    "c": "C. patent",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. ascribed",
+    "b": "B. confined",
+    "c": "C. linked",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. off",
+    "b": "B. out",
+    "c": "C. down",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. wells",
+    "b": "B. lakes",
+    "c": "C. springs",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. force",
+    "b": "B. ideal",
+    "c": "C. inspiration",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. home-grown",
+    "b": "B. indigenous",
+    "c": "C. original",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. dependent",
+    "b": "B. based",
+    "c": "C. identified",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. lifeless",
+    "b": "B. static",
+    "c": "C. inert",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. rapidly",
+    "b": "B. blindly",
+    "c": "C. continually",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India will find herself again when freedom opens out new horizons. Future will then fascinate her far more than the immediate part of frustration and humiliation. she will go ...(1)... with confidence, rooted in herself eager to learn from others and cooperate with them. Today she swings ...(2)... a blind adherence to her old customs and a slavish imitation of foreign ways. In ...(3)... of these can she find relief or life or growth. It is obvious that she has to come out of her ...(4)... and take full part ...(5)... the life and activities of the modern age. It should be equally ...(6)... that there can be no real cultural or spiritual growth based on imitation. Such imitation can only be ...(7)... to a small number which cuts itself ...(8)... from the masses and the ...(9)... of national life. True culture derives its ...(10)... from every corner of world, but it is ...(11)... and has to be ...(12)... on the wide mass of people. Art and literature remains ...(13)... if they are ...(14)... thinking of foreign models. The day of a ...(15)... culture confined to a small fastidious group is past. We have to think in terms of people generally and their culture must be continuous and development of past trends and also represent their new urges and creative tendencies.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. narrow",
+    "b": "B. tribal",
+    "c": "C. communal",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. dream",
+    "b": "B. imagination",
+    "c": "C. fantasy",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. In",
+    "b": "B. By",
+    "c": "C. From",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. rules",
+    "b": "B. rolls",
+    "c": "C. roles",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. parents",
+    "b": "B. they",
+    "c": "C. teenagers",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. temporary",
+    "b": "B. semi-permanently",
+    "c": "C. temporarily",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. But",
+    "b": "B. For",
+    "c": "C. And",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. value",
+    "b": "B. purpose",
+    "c": "C. development",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. rampant",
+    "b": "B. random",
+    "c": "C. rambling",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. another",
+    "b": "B. each",
+    "c": "C. other",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. apparent",
+    "b": "B. apparently",
+    "c": "C. really",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. with",
+    "b": "B. under",
+    "c": "C. through",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. perceptions",
+    "b": "B. conceptions",
+    "c": "C. presumptions",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. a realistic",
+    "b": "B. a religious",
+    "c": "C. an idealistic",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. recognition",
+    "b": "B. appreciation",
+    "c": "C. requisition",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Parents spend to much time worrying about their adolescents wasting time. But for an adolescent, many activities, parents consider wasteful, are, in fact, worthwhile. Parents complain that teenagers spend too much daydreaming. Yet ...(1)... has important functions in teenagers' development ...(2)... daydreams, all adolescents try out various ...(3)... as they search for the direction ...(4)... want to take in their lives. Many daydreams are ways of ...(5)... escaping the streets of everyday life ...(6)... even they have some immediate-tension-reducing ...(7)... Some parents also complain about the ...(8)... conversation the teenagers have with one ...(9)... over the telephone. In fact, these ...(10)... pointless conversations are often a means ...(11)... which adolescents check out their own ...(12)... of the world with others, gaining ...(13)... view of themselves and others. For parents, the issue is the ...(14)... of the fact that any kind of significant achievement ...(15)... hard work which the adolescents do not fully appreciate.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. reserves",
+    "b": "B. resists",
+    "c": "C. requires",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. if",
+    "b": "B. though",
+    "c": "C. unless",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. men",
+    "b": "B. people",
+    "c": "C. man",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. the",
+    "b": "B. a",
+    "c": "C. that",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. has",
+    "b": "B. have",
+    "c": "C. had",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. and",
+    "b": "B. or",
+    "c": "C. either",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. from",
+    "b": "B. for",
+    "c": "C. since",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. marvellous",
+    "b": "B. costly",
+    "c": "C. inexpensive",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. dull",
+    "b": "B. exciting",
+    "c": "C. aimless",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. at",
+    "b": "B. in",
+    "c": "C. within",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. bad",
+    "b": "B. worse",
+    "c": "C. good",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. those",
+    "b": "B. this",
+    "c": "C. that",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. can become",
+    "b": "B. became",
+    "c": "C. has become",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. leave",
+    "b": "B. will leave",
+    "c": "C. would leave",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. will",
+    "b": "B. can",
+    "c": "C. must",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Many of us believe that science is something modern ...(1)... the truth is that ...(2)... has been using science for ...(3)... very long time. However, it has ...(4)... a greater effect on human lives in the last 25 ...(5)... 30 years than in the hundreds of years ...(6)... the invention of the plough. The ...(7)... gifts of science have modern life ...(8)... and comfortable. But science has ...(9)... the same time created new problems. one of these which may become ...(10)... in the years to come, is ...(11)... of \"jet-lag\". With the coming of modern jets. flying at more than 900 km/hr, the world ...(12)... very small indeed. Today if you ...(13)... New Delhi at 4.00 in the morning, you ...(14)... eat an early breakfast in the sky ...(15)... kabul, and be in London by about 1.00pm.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. at",
+    "b": "B. on",
+    "c": "C. over",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. reasonable",
+    "b": "B. surely",
+    "c": "C. apparently",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. ordinary",
+    "b": "B. new",
+    "c": "C. great",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. to",
+    "b": "B. at",
+    "c": "C. for",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. when",
+    "b": "B. as",
+    "c": "C. while",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. at",
+    "b": "B. then",
+    "c": "C. the",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. unparalleled",
+    "b": "B. unearthed",
+    "c": "C. unmatched",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. been",
+    "b": "B. become",
+    "c": "C. being",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. an",
+    "b": "B. a",
+    "c": "C. the",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. head",
+    "b": "B. heart",
+    "c": "C. tail",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. and",
+    "b": "B. yet",
+    "c": "C. but",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. years",
+    "b": "B. centuries",
+    "c": "C. decades",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. civilisation",
+    "b": "B. enemies",
+    "c": "C. forests",
+    "d": "none of these",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. fertile",
+    "b": "B. good",
+    "c": "C. properly",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. fighting",
+    "b": "B. struggling",
+    "c": "C. doing",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Some scholars were exploring the forest of Middle America. They discovered some buildings which were in ruins. These buildings were ...(1)... ruined by the encroaching forest. It was also clear that these buildings were no ordinary structures. They were remnants of a ...(2)... civilisation. The scholars got interested. They excavated more and discovered ...(3)... their utmost surprise the remains of flourishing civilization-the Maya's ...(4)... they named it. Thus it was as late in ...(5)... 19th that the secrets of new civilization were ...(6)... For sometime the scholars believed that the Mayan's must have ...(7)... the descendants of ancient Egyptians or one of the lost tribes of Israel; or perhaps a brand of the South East Asia's immigrants. However they could not come to an unanimous decision. Nonetheless the fact remains that even-to day the Mayan is one of ...(8)... most ancient cicilizations. This civilisation was situated in the ...(9)... of Middle America. It covered an area equivalent to France, ...(10)... spread across Guatemala, Belize and some part of Mexico Honduras. It started in 2500 B.C and continued its progress till 34 ...(11)... later. Throughout its period of progress, the people struggled against the invading ...(12)... They used to burn the plants and make the land ...(13)... for civilization. Their staple food was maize. but even while ...(14)... for existence, they found time to build remarkable buildings for ...(15)... they used mortar, sandstone and volcanic rock. The buildings do tell us about the technological advances they had attained.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. that",
+    "b": "B. which",
+    "c": "C. it",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. believed",
+    "b": "B. suspected",
+    "c": "C. agreed",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. had been causing",
+    "b": "B. was causing",
+    "c": "C. will cause",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. goat",
+    "b": "B. sheep",
+    "c": "C. wolf",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. sore",
+    "b": "B. bitter",
+    "c": "C. sweet",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. since",
+    "b": "B. for",
+    "c": "C. in",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. into",
+    "b": "B. for",
+    "c": "C. to",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. utterly",
+    "b": "B. perfectly",
+    "c": "C. wholly",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. reason",
+    "b": "B. cause",
+    "c": "C. point",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. profitable",
+    "b": "B. bad",
+    "c": "C. honourable",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. said",
+    "b": "B. announced",
+    "c": "C. wrote",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 11:Fill the appropriate word from given options.",
+    "a": "A. to",
+    "b": "B. for",
+    "c": "C. with",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 12:Fill the appropriate word from given options.",
+    "a": "A. himself",
+    "b": "B. idleness",
+    "c": "C. others",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 13:Fill the appropriate word from given options.",
+    "a": "A. to",
+    "b": "B. in",
+    "c": "C. with",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 14:Fill the appropriate word from given options.",
+    "a": "A. job",
+    "b": "B. house",
+    "c": "C. relatives",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 15:Fill the appropriate word from given options.",
+    "a": "A. a little",
+    "b": "B. little",
+    "c": "C. no",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 16:Fill the appropriate word from given options.",
+    "a": "A. habits",
+    "b": "B. doings",
+    "c": "C. whereabouts",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 17:Fill the appropriate word from given options.",
+    "a": "A. deeply",
+    "b": "B. shocked",
+    "c": "C. disappointed",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 18:Fill the appropriate word from given options.",
+    "a": "A. has",
+    "b": "B. had",
+    "c": "C. will have",
+    "d": "none of these",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 19:Fill the appropriate word from given options.",
+    "a": "A. would happen",
+    "b": "B. happened",
+    "c": "C. will happen",
+    "d": "none of these",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "I noticed George Ramsay at the restaurant. He was starting into space. He looked as though the burden of the whole world sat on his shoulders. I ...(1)... at once that his unfortunate brother ...(2)... trouble again. I suppose every family has a black ...(3)... Tom has been ...(4)... trail to his family ...(5)... twenty years. He had begun life decently enough; he went ...(6)... business, married and had two children. The Ramsay were ...(7)... respectable people, and there was every ...(8)... to suppose that Tom Ramsay would have a useful and ...(9)... career. But one day without warning, he ...(10)... that he did not like to work, and that he was not suited ...(11)... marriage. He wanted to enjoy ...(12)... He would listen ...(13)... no advice. He left his wife and his ...(14)... He had ...(15)... money and he spent two happy years in the various capitals of Europe. Rumours of his ...(16)... reached his relations from time to time and they were ...(17)... He certainly ...(18)... a very good time. They shook their heads and asked what ...(19)... when his money was spent. they soon found out that he was broke and wanted to ...(20)... home.\n Question 20:Fill the appropriate word from given options.",
+    "a": "A. come back",
+    "b": "B. go",
+    "c": "C. will happen",
+    "d": "D. settle",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
 },
 {
-    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.",
-    "options":
-    [
-        {
-            "a": "(a) shambles",
-            "b": "(b) failure",
-            "c": "(c) demand",
-            "d": "(d) prosperity",
-            "e": "(e) ruined",
-            "correct": "a" 
-        },
-        {
-            "a": "(a) bricks",
-            "b": "(b) emphasize",
-            "c": "(c) request",
-            "d": "(d) stress",
-            "e": "(e) important",
-            "correct": "d" 
-        },
-        {
-            "a": "(a) through",
-            "b": "(b) across",
-            "c": "(c) sharing",
-            "d": "(d) with",
-            "e": "(e) on",
-            "correct": "b" 
-        },
-        {
-            "a": "(a) made",
-            "b": "(b) comprise",
-            "c": "(c) consisted",
-            "d": "(d) is",
-            "e": "(e) contained",
-            "correct": "c" 
-        },
-        {
-            "a": "(a) cater",
-            "b": "(b) provide",
-            "c": "(c) manage",
-            "d": "(d) survive",
-            "e": "(e) give",
-            "correct": "b" 
-        },
-        {
-            "a": "(a) gap",
-            "b": "(b) position",
-            "c": "(c) distance",
-            "d": "(d) length",
-            "e": "(e) thought",
-            "correct": "a" 
-        },
-        {
-            "a": "(a) reduction",
-            "b": "(b) sea",
-            "c": "(c) cropping",
-            "d": "(d) disabling",
-            "e": "(e) emergence",
-            "correct": "e" 
-        },
-        {
-            "a": "(a) needy",
-            "b": "(b) destitute",
-            "c": "(c) bigger",
-            "d": "(d) affluent",
-            "e": "(e) much",
-            "correct": "d" 
-        },
-        {
-            "a": "(a) slowly",
-            "b": "(b) improve",
-            "c": "(c) many",
-            "d": "(d) improvised",
-            "e": "(e) tremendous",
-            "correct": "e" 
-        },
-        {
-            "a": "(a) speed",
-            "b": "(b) pace",
-            "c": "(c) inequality",
-            "d": "(d) uniformity",
-            "e": "(e) seriousness",
-            "correct": "c" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
-},
-{
-    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.",
-    "options":
-    [
-        {
-            "a": "(1) depressed",
-            "b": "(2) finish",
-            "c": "(3) problem",
-            "d": "(4) hinder",
-            "e": "(5) featured",
-            "correct": "4" 
-        },
-        {
-            "a": "(1) evolved",
-            "b": "(2) destroyed",
-            "c": "(3) pledged",
-            "d": "(4) extinguished",
-            "e": "(5) waited",
-            "correct": "1" 
-        },
-        {
-            "a": "(1) expensive",
-            "b": "(2) subjective",
-            "c": "(3) easier",
-            "d": "(4) loud",
-            "e": "(5) portable",
-            "correct": "2" 
-        },
-        {
-            "a": "(1) lines",
-            "b": "(2) faith",
-            "c": "(3) distance",
-            "d": "(4) touch",
-            "e": "(5) check",
-            "correct": "4" 
-        },
-        {
-            "a": "(1) pushed",
-            "b": "(2) cancel",
-            "c": "(3) shells",
-            "d": "(4) try",
-            "e": "(5) turn",
-            "correct": "5" 
-        },
-        {
-            "a": "(1) maintain",
-            "b": "(2) teleport",
-            "c": "(3) cut",
-            "d": "(4) curb",
-            "e": "(5) regulation",
-            "correct": "1" 
-        },
-        {
-            "a": "(1) dominate",
-            "b": "(2) elate",
-            "c": "(3) worry",
-            "d": "(4) says",
-            "e": "(5) mentioning",
-            "correct": "3" 
-        },
-        {
-            "a": "(1) agree",
-            "b": "(2) happen",
-            "c": "(3) occurred",
-            "d": "(4) exist",
-            "e": "(5) possible",
-            "correct": "2" 
-        },
-        {
-            "a": "(1) forms",
-            "b": "(2) prove",
-            "c": "(3) accomplish",
-            "d": "(4) study",
-            "e": "(5) example",
-            "correct": "3" 
-        },
-        {
-            "a": "(1) take",
-            "b": "(2) require",
-            "c": "(3) jump",
-            "d": "(4) stands",
-            "e": "(5) call",
-            "correct": "2" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
-},
-{
-    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.",
-    "options":
-    [
-        {
-            "a": "A. below",
-            "b": "B. above",
-            "c": "C. over",
-            "d": "D. beneath",
-            "e": "E. under",
-            "correct": "E" 
-        },
-        {
-            "a": "A. against",
-            "b": "B. Through",
-            "c": "C. behind",
-            "d": "D. on",
-            "e": "E. in",
-            "correct": "B" 
-        },
-        {
-            "a": "A. liberally",
-            "b": "B. widely",
-            "c": "C. lavishly",
-            "d": "D. largely",
-            "e": "E. generously",
-            "correct": "D" 
-        },
-        {
-            "a": "A. building",
-            "b": "B. constructing",
-            "c": "C. erecting",
-            "d": "D. framing",
-            "e": "E. bringing",
-            "correct": "A" 
-        },
-        {
-            "a": "A. juxtaposed",
-            "b": "B. front",
-            "c": "C. that",
-            "d": "D. this",
-            "e": "E. flip",
-            "correct": "E" 
-        },
-        {
-            "a": "A. establishing",
-            "b": "B. setting",
-            "c": "C. putting",
-            "d": "D. focusing",
-            "e": "E. giving",
-            "correct": "C" 
-        },
-        {
-            "a": "A. acquire",
-            "b": "B. borrow",
-            "c": "C. beg",
-            "d": "D. pledge",
-            "e": "E. forfeit",
-            "correct": "B" 
-        },
-        {
-            "a": "A. heavily",
-            "b": "B. densely",
-            "c": "C. thickly",
-            "d": "D. dully",
-            "e": "E. gloomily",
-            "correct": "A" 
-        },
-        {
-            "a": "A. bulwark",
-            "b": "B. encash",
-            "c": "C. offend",
-            "d": "D. buffer",
-            "e": "E. stock",
-            "correct": "D" 
-        },
-        {
-            "a": "A. pursue",
-            "b": "B. chase",
-            "c": "C. follow",
-            "d": "D. displace",
-            "e": "E. result",
-            "correct": "C" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
-},
-{
-    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.",
-    "options":
-    [
-        {
-            "a": "A. inarticulate",
-            "b": "B. glib",
-            "c": "C. quiet",
-            "d": "D. uncommunicative",
-            "e": "",
-            "correct": "B" 
-        },
-        {
-            "a": "A. declined",
-            "b": "B. constrained",
-            "c": "C. perpetrated",
-            "d": "D. abstained",
-            "e": "",
-            "correct": "C" 
-        },
-        {
-            "a": "A. rebuff",
-            "b": "B. repulse",
-            "c": "C. repulse",
-            "d": "D. enchantment",
-            "e": "",
-            "correct": "D" 
-        },
-        {
-            "a": "A. irony",
-            "b": "B. consideration",
-            "c": "C. deference",
-            "d": "D. frustration",
-            "e": "",
-            "correct": "A" 
-        },
-        {
-            "a": "A. diligent",
-            "b": "B. zealous",
-            "c": "C. snail-like",
-            "d": "D. enthusiastic",
-            "e": "",
-            "correct": "C" 
-        },
-        {
-            "a": "A. forbearance",
-            "b": "B. deprivation",
-            "c": "C. endowment",
-            "d": "D. offering",
-            "e": "",
-            "correct": "B" 
-        },
-        {
-            "a": "A. grievously",
-            "b": "B. pleasant",
-            "c": "C. harmless",
-            "d": "D. churlish",
-            "e": "",
-            "correct": "A" 
-        },
-        {
-            "a": "A. diminutive",
-            "b": "B. minikin",
-            "c": "C. infinitesimal",
-            "d": "D. colossal",
-            "e": "",
-            "correct": "D" 
-        },
-        {
-            "a": "A. semiliterate",
-            "b": "B. uneducated",
-            "c": "C. literate",
-            "d": "D. instructed",
-            "e": "",
-            "correct": "A" 
-        },
-        {
-            "a": "A. portent",
-            "b": "B. thaumaturgy",
-            "c": "C. conjuncture",
-            "d": "D. wonder",
-            "e": "",
-            "correct": "C" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
-},
-{
-    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).",
-    "options":
-    [
-        {
-            "a": "1) surprising",
-            "b": "2) usual",
-            "c": "3) challenging",
-            "d": "4) discernible",
-            "e": "5) striking",
-            "correct": "1" 
-        },
-        {
-            "a": "1) favoured",
-            "b": "2) created",
-            "c": "3) issued",
-            "d": "4) raised",
-            "e": "5) directed",
-            "correct": "3" 
-        },
-        {
-            "a": "1) childish",
-            "b": "2) secular",
-            "c": "3) ashamed",
-            "d": "4) disgraceful",
-            "e": "5) bias",
-            "correct": "4" 
-        },
-        {
-            "a": "1) future",
-            "b": "2) upholders",
-            "c": "3) stars",
-            "d": "4) performers",
-            "e": "5) builders",
-            "correct": "2" 
-        },
-        {
-            "a": "1) tasked",
-            "b": "2) authorised",
-            "c": "3) paid",
-            "d": "4) represented",
-            "e": "5) expected",
-            "correct": "5" 
-        },
-        {
-            "a": "1) merit",
-            "b": "2) core",
-            "c": "3) result",
-            "d": "4) value",
-            "e": "5) response",
-            "correct": "4" 
-        },
-        {
-            "a": "1) dignified",
-            "b": "2) drastic",
-            "c": "3) participatory",
-            "d": "4) friendly",
-            "e": "5) subjective",
-            "correct": "1" 
-        },
-        {
-            "a": "1) trial",
-            "b": "2) battle",
-            "c": "3) campaign",
-            "d": "4) mandate",
-            "e": "5) operation",
-            "correct": "3" 
-        },
-        {
-            "a": "1) beyond",
-            "b": "2) irrespective",
-            "c": "3) unless",
-            "d": "4) ahead",
-            "e": "5) away",
-            "correct": "2" 
-        },
-        {
-            "a": "1) preach",
-            "b": "2) believe",
-            "c": "3) adhere",
-            "d": "4) impart",
-            "e": "5) pursue",
-            "correct": "5" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
-},
-{
-    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.",
-    "options":
-    [
-        {
-            "a": "A. agitation",
-            "b": "B. consensus",
-            "c": "C. disagreement",
-            "d": "D. befuddlement",
-            "e": "",
-            "correct": "B" 
-        },
-        {
-            "a": "A. convincing",
-            "b": "B. solution",
-            "c": "C. incontrovertible",
-            "d": "D. predicament",
-            "e": "",
-            "correct": "D" 
-        },
-        {
-            "a": "A. cognisant",
-            "b": "B. unaware",
-            "c": "C. decent",
-            "d": "D. asleep",
-            "e": "",
-            "correct": "A" 
-        },
-        {
-            "a": "A. calculative",
-            "b": "B. resurgence",
-            "c": "C. failure",
-            "d": "D. difficulties",
-            "e": "",
-            "correct": "B" 
-        },
-        {
-            "a": "A. away from",
-            "b": "B. outside",
-            "c": "C. amid",
-            "d": "D. separate",
-            "e": "",
-            "correct": "C" 
-        },
-        {
-            "a": "A. cold",
-            "b": "B. hot",
-            "c": "C. occupied",
-            "d": "D. tepid",
-            "e": "",
-            "correct": "D" 
-        },
-        {
-            "a": "A. persisting",
-            "b": "B. fluctuation",
-            "c": "C. cease",
-            "d": "D. quit",
-            "e": "",
-            "correct": "A" 
-        },
-        {
-            "a": "A. uncloudy",
-            "b": "B. hazy",
-            "c": "C. sunny",
-            "d": "D. clear",
-            "e": "",
-            "correct": "B" 
-        },
-        {
-            "a": "A. arrangement",
-            "b": "B. organization",
-            "c": "C. willy-nilly",
-            "d": "D. conformity",
-            "e": "",
-            "correct": "C" 
-        },
-        {
-            "a": "A. composed",
-            "b": "B. concerted",
-            "c": "C. calm",
-            "d": "D. concerted",
-            "e": "",
-            "correct": "D" 
-        }       
-    ],
-    "section": "(English)",
-    "topic": "Closet Test"
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(A)different",
+    "b": "(B)separated",
+    "c": "(C)classify",
+    "d": "(D)sorted",
+    "e": "(E)categorised",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(A)reasoning",
+    "b": "(B)believes",
+    "c": "(C)acknowledgment",
+    "d": "(D)agreement",
+    "e": "(E)resolution",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(A) unending",
+    "b": "(B)uplifting",
+    "c": "(C)rising",
+    "d": "(D)grave",
+    "e": "(E)continuity",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(A)superficial",
+    "b": "(B)profound",
+    "c": "(C)facile",
+    "d": "(D)awakening",
+    "e": "(E)trivial",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(A) initiation",
+    "b": "(B)formation",
+    "c": "(C)debut",
+    "d": "(D)end",
+    "e": "(E)termination",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(A)heighten",
+    "b": "(B)edges",
+    "c": "(C)victory",
+    "d": "(D)levels",
+    "e": "(E)debacles",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(A) muscles",
+    "b": "(B)horrific",
+    "c": "(C)friendship",
+    "d": "(D)bonding",
+    "e": "(E)gore",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Video gaming can generally be ____1____ into educational and non-educational. While there’s common ____2____ that educational video games are useful, the question on the worth of non-educational game titles is ____3____. Generally, severe activities may have significantly more ____4____ consequences on the player than watching violent movies and films. \\n The 1990’s saw the ____5____ of ultraviolent games become offered to person players as well as some children. There clearly was productive involvement in enjoying these games that took violence to ____6____ that shows and movies formerly could not reach. Since their introduction, there has been growing development of games having an improvement of visual violence.\\nCrazy video games usually include bloody displays usually described as blood and ____7____. In addition to the violence, there is utilization of ____8____ language and often drug and alcohol abuse.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(A) profane",
+    "b": "(B)hallowed",
+    "c": "(C)simple",
+    "d": "(D)demoralising",
+    "e": "(E)misleading",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 1:Fill the appropriate word from given options.",
+    "a": "(A) patriotism",
+    "b": "(B) freedom",
+    "c": "(C) liberation",
+    "d": "(D) revolution",
+    "e": "(E) leadership",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 2:Fill the appropriate word from given options.",
+    "a": "(A) attacked",
+    "b": "(B) inspired",
+    "c": "(C) enfeebled",
+    "d": "(D) threatened",
+    "e": "(E) impressed",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 3:Fill the appropriate word from given options.",
+    "a": "(A) established",
+    "b": "(B) diffused",
+    "c": "(C) gauged",
+    "d": "(D) determined",
+    "e": "(E) invigorated",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 4:Fill the appropriate word from given options.",
+    "a": "(A) trivial",
+    "b": "(B) serious",
+    "c": "(C) auspicious",
+    "d": "(D) praiseworthy",
+    "e": "(E) magnificent",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 5:Fill the appropriate word from given options.",
+    "a": "(A) elicited",
+    "b": "(B) excluded",
+    "c": "(C) abstained",
+    "d": "(D) concealed",
+    "e": "(E) prevented",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 6:Fill the appropriate word from given options.",
+    "a": "(A) transfer",
+    "b": "(B) seizure",
+    "c": "(C) grabbing",
+    "d": "(D) retainment",
+    "e": "(E) enhancement",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 7:Fill the appropriate word from given options.",
+    "a": "(A) fantasy",
+    "b": "(B) tactics",
+    "c": "(C) occurrence",
+    "d": "(D) inevitability",
+    "e": "(E) disillusionment",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 8:Fill the appropriate word from given options.",
+    "a": "(A) anarchy",
+    "b": "(B) violence",
+    "c": "(C) taboos",
+    "d": "(D) exigencies",
+    "e": "(E) vengeance",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 9:Fill the appropriate word from given options.",
+    "a": "(A) anxious",
+    "b": "(B) realize",
+    "c": "(C) imagine",
+    "d": "(D) pretend",
+    "e": "(E) apprehend",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "‘Quit India’ came not from the lips but the aching heart of millions. In this open rebellion, the Indian    (1 )    reached its climax. The British were not only (2 )    by it, but also were obliged to quit unilaterally. The importance of Quit India can be (3 )    from Lord Linlithgow’s statement “ I am engaged here, in meeting by far the most (4 )     rebellion since that 1857, the gravity and extent ill which we have so far (5 )     from the world for reasons of military security”. Still more significant was Churchill’s gloomy disclosure to the King emperor that “the idea of (6 )    power had become an admitted (7 )    in the minds of British party leaders ”, although his public statements were diametrically opposite. The (8 )    created by Quit India made the British (9)    that they could no longer keep India in (10)    .\n Question 10:Fill the appropriate word from given options.",
+    "a": "(A) exile",
+    "b": "(B) power",
+    "c": "(C) bondage",
+    "d": "(D) suspense",
+    "e": "(E) abeyance",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(1) shoes",
+    "b": "(2) hat",
+    "c": "(3) jacket",
+    "d": "(4) gloves",
+    "e": "(5) make-up",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(1) increased",
+    "b": "(2) decreased",
+    "c": "(3) lessened",
+    "d": "(4) remained steady",
+    "e": "(5) indifferent",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(1) brought",
+    "b": "(2) bought",
+    "c": "(3) sold",
+    "d": "(4) boarded",
+    "e": "(5) borrowed",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(1) accountant",
+    "b": "(2) administrator",
+    "c": "(3) accomplice",
+    "d": "(4) acrobat",
+    "e": "(5) admirer",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(1) non-descript",
+    "b": "(2) average",
+    "c": "(3) self-effacing",
+    "d": "(4) glamorous",
+    "e": "(5) unknown",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(1) Elizabeth Taylor",
+    "b": "(2) Sophia Loren",
+    "c": "(3) Marlyn Monroe",
+    "d": "(4) Ava Gardner",
+    "e": "(5) Ingrid Bergman",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(1) freedom",
+    "b": "(2) kingdom",
+    "c": "(3) famous",
+    "d": "(4) stardom",
+    "e": "(5) dukedom",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(1) monotonous",
+    "b": "(2) humdrum",
+    "c": "(3) boring",
+    "d": "(4) challenging",
+    "e": "(5) similar",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(1) nose",
+    "b": "(2) cheeks",
+    "c": "(3) ears",
+    "d": "(4) teeth",
+    "e": "(5) elbows",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "When she appeared on the screen without ____1____\\ncosmetic sales declined. When she played a nun, convent enrolments ____2____. Letters were delivered to her addressed simply “Ingrid Bergman”. Industrialist Howard Hughes once \\n____3____every available air ticket from New York to Los Angeles to be sure she would accept a seat in his private plane.  An____4____ walked a sheep all the way from Sweden to Rome as a gift for her.\\nOne of the most ____5____women of her time, ____6____was never anything but her supremely simple self. At the peak of her ____7____, Ingrid insisted on taking screen tests and refused leads in favour of lesser but more ____8____roles. When the director told his prospective star that they would have to change her name, cap her____9____ And pluck her eyebrows, Ingrid threatened to return to Sweden. And so the famous ____10____look was born.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(1) unnatural",
+    "b": "(2) artificial",
+    "c": "(3) natural",
+    "d": "(4) make-up",
+    "e": "(5) dramatic",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(1) major problem",
+    "b": "(2) major problems",
+    "c": "(3) main problem",
+    "d": "(4) serious problem",
+    "e": "(5) only problem",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(1) ignore",
+    "b": "(2) avoid",
+    "c": "(3) overlook",
+    "d": "(4) neglect",
+    "e": "(5) shun",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(1) into",
+    "b": "(2) after",
+    "c": "(3) at",
+    "d": "(4) on",
+    "e": "(5) above",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(1) by",
+    "b": "(2) through",
+    "c": "(3) for",
+    "d": "(4) from",
+    "e": "(5) beyond",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(1) in",
+    "b": "(2) off",
+    "c": "(3) about",
+    "d": "(4) with",
+    "e": "(5) over",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(1) technological progress",
+    "b": "(2) technical progress",
+    "c": "(3) technological temper",
+    "d": "(4) technical temper",
+    "e": "(5) technical bend",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(1) complete",
+    "b": "(2) total",
+    "c": "(3) full",
+    "d": "(4) ultimate",
+    "e": "(5) final",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(1) due to",
+    "b": "(2) owing to",
+    "c": "(3) because of",
+    "d": "(4) on account of",
+    "e": "(5) in relation to",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(1) treat",
+    "b": "(2) remedy",
+    "c": "(3) remove",
+    "d": "(4) eradicate",
+    "e": "(5) estimate",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "One of the _1_we have to face is that of unemployment. It is a big problem, a human problem, which we cannot _2_. Yet in looking _3_it, it has to be remembered that merely giving some kind of occupation to a large number of people does not ultimately increase employment or lessen unemployment. Employment comes by newer and more effective means of wealth production. The whole experience and history of the past 200 years shows that it comes _4_the growth of technological methods. Do not imagine that we can effectively deal _5_ the problem of unemployment without _6_. We cannot. Every country which boasts of _7_employment is a country which is technologically advanced. Every country which is not technologically advanced has unemployment or under-employment. Therefore, if India is to advance,\nshe must advance in science and technology. The fact is that our poverty is\n_8_ our backwardness in science and technology. If we _9_ that backwardness we create not only wealth _10_ employment.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(1) but",
+    "b": "(2) but also",
+    "c": "(3) but even",
+    "d": "(4) and also",
+    "e": "(5) in spite of",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(A)victorious",
+    "b": "(B)legendry",
+    "c": "(C)productive",
+    "d": "(D)abortive",
+    "e": "(E)successful",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(A)visionary",
+    "b": "(B)perspective",
+    "c": "(C)horizon",
+    "d": "(D)position",
+    "e": "(E)establishment",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(A) better",
+    "b": "(B)regressive",
+    "c": "(C)lucid",
+    "d": "(D)workable",
+    "e": "(E)innovation",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(A)kindness",
+    "b": "(B)realisation",
+    "c": "(C)lethargy",
+    "d": "(D)effectiveness",
+    "e": "(E)responsiveness",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(A)abominable",
+    "b": "(B)worth",
+    "c": "(C)useless",
+    "d": "(D)important",
+    "e": "(E)liable",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(A) induce",
+    "b": "(B) establish",
+    "c": "(C) retain",
+    "d": "(D) relinquish",
+    "e": "(E) engage",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(A)liberty",
+    "b": "(B)alternative",
+    "c": "(C)strictness",
+    "d": "(D)leniency",
+    "e": "(E)opportunity",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Microsoft is one of the wealthiest and the most ____1____companies in the world. Even more important, from a human resource ____2_____ , is the fact that Microsoft is an employee-driven organization. While other organizations base their success on ____3____ manufacturing techniques, or better technology, Microsoft’s success is based on the ____4____of their employees. Essentially, Microsoft values their staff and realize the importance of their staff. This focus on employees may in the future, expand to all organizations. Microsoft then, is____5____ studying as an example of best practice in human resource management.\nThis study will focus on Microsoft’s employee management methods including how they recruit and how they ____6____ their staff. By looking at how Microsoft operates, there is ____7____ for other organizations to consider how they manage their employees and to consider whether their staff is also ____8____.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(A)valued",
+    "b": "(B)interested",
+    "c": "(C)talented",
+    "d": "(D)treasured",
+    "e": "(E)regarded",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(A)discomposure",
+    "b": "(B)help",
+    "c": "(B)peace",
+    "d": "(D)inspiration",
+    "e": "(E)acerbic",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(A)satisfaction",
+    "b": "(B)misconception",
+    "c": "(B)disappointment",
+    "d": "(D)affliction",
+    "e": "(E)adversity",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(A)recreated",
+    "b": "(B)freeze",
+    "c": "(B)resurrect",
+    "d": "(D)invalidated",
+    "e": "(E)immobilized",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(A)embarrass",
+    "b": "(B)congest",
+    "c": "(B)impeded",
+    "d": "(D) unblock",
+    "e": "(E)releasing",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(A)respite",
+    "b": "(B)regress",
+    "c": "(B)hiatus",
+    "d": "(D)dejection",
+    "e": "(E)abatement",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(A) quantified",
+    "b": "(B) targeted",
+    "c": "(B) adopted",
+    "d": "(D) signified",
+    "e": "(E) addressed",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(A)specifically",
+    "b": "(B)precisely",
+    "c": "(B)eligibly",
+    "d": "(D)formatively",
+    "e": "(E)quintessentially",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(A) affection",
+    "b": "(B) assimilation",
+    "c": "(B) information",
+    "d": "(D) solace",
+    "e": "(E) variance",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(A)console",
+    "b": "(B)agony",
+    "c": "(B)infliction",
+    "d": "(D)assistance",
+    "e": "(E)comfort",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "As a young man growing up in South Africa, Kumi Naidoo looked to India for ___1____. Now there is a twinge of ___2____. Mr. Naidoo, the executive director of Greenpeace International, is puzzled at how the government came to ___3____ the organisation’s bank accounts in India without giving a reason. Though the Delhi High Court sent a notice to the Ministry of Home Affairs directing it to ___4____ Greenpeace India’s foreign funds, there is no ___5___ with the Ministry asking for more details on remittances from abroad. Mr Naidoo is in India to discuss the role of civil society in the context of certain individual and non-governmental organisations (NGO) being ___6____ for being “anti-national”.\nIn an interview, he said, “Thankfully Greenpeace India is ___7______ an Indian entity, with 60 per cent of our resources coming from individual Indian citizens and 40 per cent from Greenpeace International.”\nAfter the government’s move, Mr. Naidoo sought ___8______ in Mahatma Gandhi. “First they ignore you, then they laugh at you, then they fight you and then you win. We are not panicking because of Gandhiji. We take ___9____ in this that we are being fought and we are one step away from winning the ___10____for a different development model which includes sustainable meaning for growth,” he said. Mr Naidoo has asked for a meeting with the Home department and the Environment Minister.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(A)dispute",
+    "b": "(B)controversy",
+    "c": "(B)irregularity",
+    "d": "(D)argument",
+    "e": "(E)fight",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(A)remarkable",
+    "b": "(B)unsaddle",
+    "c": "(C)saddle",
+    "d": "(D)peculiar",
+    "e": "(E)Unusual",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(A)explicit",
+    "b": "(B)difficult",
+    "c": "(C)complex",
+    "d": "(D)tacit",
+    "e": "(E)latent",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(A)agreed",
+    "b": "(B)accepted",
+    "c": "(C)perceived",
+    "d": "(D)tackled",
+    "e": "(E)comprehend",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(A)social",
+    "b": "(B)general",
+    "c": "(C)national",
+    "d": "(D)Universal",
+    "e": "(E)initial",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(A)restrain",
+    "b": "(B)hailed",
+    "c": "(C)discourage",
+    "d": "(D)hurled",
+    "e": "(E)extinguish",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 6:Fill the appropriate word from given options.",
+    "a": "a.models",
+    "b": "(B)decorous",
+    "c": "(C)acculturation",
+    "d": "(D)values",
+    "e": "(E)vehicles",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(A)western",
+    "b": "(B)abroad",
+    "c": "(C)national",
+    "d": "(D)foreign",
+    "e": "(E)overseas",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(A)instead",
+    "b": "(B)besides",
+    "c": "(C)though",
+    "d": "(D)in-spite",
+    "e": "(E)although",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(A)intended",
+    "b": "(B)automatic",
+    "c": "(C)deliberate",
+    "d": "(D)intentional",
+    "e": "(E)wanton",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "With the new government in New Delhi more than a year in the (1) , things earlier implicit have now become (2) . ‘Indian’ ( Hindu) values are no long (3) as universal. Or rather, the West is perceived as the repository of (4) values, both positive and negative. ‘Hindu values’ are universal in so far as they are recognised by the West as being so — such as when yoga was (5) as having ‘gone global’ last weekend with images of people in (6) cities on their yoga mats.The signs of Western cultural universality are everywhere we turn: our clothes, our shoes, the (7) we drive in, the fact that we wear spectacles.… Our entire material civilization is Western. (8) this, the West, by virtue of its spectacular achievements in the domains of science, industry, commerce and art, is seen as an (9) spokesperson of the human race.When the president of the US speaks about American values, he speaks on behalf of the human race as a whole. When Narendra Modi speaks of the Bhagwad Gita, he speaks on the (10) of Hindus.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(A)depend",
+    "b": "(B)yield",
+    "c": "(C)accord",
+    "d": "(D)bracket",
+    "e": "(E)behalf",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(1)economic",
+    "b": "(2) finance",
+    "c": "(3) subsidy",
+    "d": "(4) physical",
+    "e": "(5) health",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(1) broadcast",
+    "b": "(2) spread",
+    "c": "(3) prevalent",
+    "d": "(4) expand",
+    "e": "(5) widespread",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(1) totally",
+    "b": "(2) entirely",
+    "c": "(3) grown",
+    "d": "(4) mutual",
+    "e": "(5) increasing",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(1) most",
+    "b": "(2) out",
+    "c": "(3) from",
+    "d": "(4) through",
+    "e": "(5) outside",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(1) ultimatum",
+    "b": "(2) hazard",
+    "c": "(3) sensitivity",
+    "d": "(4) challenge",
+    "e": "(5) dispute",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(1) equip",
+    "b": "(2) built",
+    "c": "(3) active",
+    "d": "(4) trained",
+    "e": "(5) qualified",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(1) section",
+    "b": "(2) scale",
+    "c": "(3) degree",
+    "d": "(4) percent",
+    "e": "(5) piece",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(1) want",
+    "b": "(2) matter",
+    "c": "(3) scarcity",
+    "d": "(4) right",
+    "e": "(5) lack",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(1) showing",
+    "b": "(2) giving",
+    "c": "(3) special",
+    "d": "(4) personal",
+    "e": "(5) individually",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The world diabetes congress has determined that India has the largest number of diabetics in the world.Apart from the loss of productivity, the..(1)..burden is alarming-$2.8 billion annually.sedentary jobs, ..(2)..of electronic entertainment, changing diet patterns and..(3)..dependence on automobiles have driven the activity..(4)..of Indians’ lives specially cities. the..(5)..is, therefore, to make people physically..(6)..and requires interventions which impact a large..(7)..of the population.admittedly physical activity is a..(8)..of choice and is strongly driven by..(9)..preferences.but policy making needs to shift to..(10)..moderate level of physical activity in the daily lives of people.One way to accomplish this is to create walkable communities that give residents a variety of destinations within walking distance.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(1) pursuit",
+    "b": "(2) indulge",
+    "c": "(3) introduce",
+    "d": "(4) insist",
+    "e": "(5) attract",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. Installation",
+    "b": "B. maintenance",
+    "c": "C. aggravation",
+    "d": "D. generation",
+    "e": "E. modernization",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. Problem",
+    "b": "B. objective",
+    "c": "C. summary",
+    "d": "D. essence",
+    "e": "E. moral",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. abstract",
+    "b": "B. globe",
+    "c": "C. development",
+    "d": "D. general",
+    "e": "E. details",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. particular",
+    "b": "B. question",
+    "c": "C. view",
+    "d": "D. future",
+    "e": "E. industrialisation",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. reinventing",
+    "b": "B. augmenting",
+    "c": "C. estimating",
+    "d": "D. amplifying",
+    "e": "E. checking",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. financed",
+    "b": "B. incapacitated",
+    "c": "C. analysed",
+    "d": "D. entrusted",
+    "e": "E. governed",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. reduced",
+    "b": "B. enlarged",
+    "c": "C. deactivated",
+    "d": "D. curbed",
+    "e": "E. magnified",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. arresting",
+    "b": "B. monitoring",
+    "c": "C. regulating",
+    "d": "D. providing",
+    "e": "E. withdrawing",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. mitigate",
+    "b": "B. visit",
+    "c": "C. explore",
+    "d": "D. finance",
+    "e": "E. approach",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Capital investment is essential for..(1)..Of productive capacity and adding new capacity for current and future industrial growth. the..(2)..of this article is to make an assessment of capital investment about performance of economy in ..(3)..and the infrastructure and manufacturing sectors in..(4).. the method of..(5).. growth in corporate investment should ,ideally be based on the available means of financing an investment project. the bulk of the major projects in the private corporate sector is..(6)..by leading all India term-lending institutions namely the industrial development bank of India (IDBI), the industrial finance corporation of India (IFCI), the industrial finance bank of India (IIBI), icici ltd. (now icici bank) and the infrastructure development finance company (IDFC). The financial sector reforms in the 1990’s have, in effect ..(7).. the sources of financing corporate projects, in particular, commercial banks have , in recent years , started..(8).. financial assistant to corporate projects, since a majority of the private corporate entities, undertaking large projects,..(9).. the term lending institutions and banks for financing the project cost, the phasing details of capital expenditure available in the relevant projects reports would provide a base for estimating..(10)..growth in capital expenditure.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. fastidious",
+    "b": "B. sluggish",
+    "c": "C. likely",
+    "d": "D. complete",
+    "e": "E. relevant",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 1:Fill the appropriate word from given options.",
+    "a": "1) Argument",
+    "b": "2) change",
+    "c": "3) exception",
+    "d": "4) issue",
+    "e": "5) difference",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 2:Fill the appropriate word from given options.",
+    "a": "1) infinity",
+    "b": "2) perpetuity",
+    "c": "3) extension",
+    "d": "4) reality",
+    "e": "5) renewability",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 3:Fill the appropriate word from given options.",
+    "a": "1) dissipated",
+    "b": "2) applied",
+    "c": "3) drawn",
+    "d": "4) invested",
+    "e": "5) given",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 4:Fill the appropriate word from given options.",
+    "a": "1) involve",
+    "b": "2) meet",
+    "c": "3) attract",
+    "d": "4) complete",
+    "e": "5) cater",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 5:Fill the appropriate word from given options.",
+    "a": "1) deplete",
+    "b": "2) expand",
+    "c": "3) terminate",
+    "d": "4) sustain",
+    "e": "5) cease",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 6:Fill the appropriate word from given options.",
+    "a": "1) provide",
+    "b": "2) include",
+    "c": "3) connect",
+    "d": "4) support",
+    "e": "5) links",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 7:Fill the appropriate word from given options.",
+    "a": "1) existing",
+    "b": "2) new",
+    "c": "3) latest",
+    "d": "4) old",
+    "e": "5) renewable",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 8:Fill the appropriate word from given options.",
+    "a": "1) supplied",
+    "b": "2) dispersed",
+    "c": "3) provided",
+    "d": "4) converted",
+    "e": "5) used",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 9:Fill the appropriate word from given options.",
+    "a": "1) predict",
+    "b": "2) promise",
+    "c": "3) pursue",
+    "d": "4) expects",
+    "e": "5) created",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Our big..(1)..between the investments in fossils fuels and those in wind power, solar cells, and geothermal energy in that latter will supply energy in..(2). These “wells” will never run dry. if money spent on oil in one year were..(3)..in wind turbines, the electricity generated would be enough to..(4)..one-fifth of the world’s needs.\nInvestments in the infrastructure for the new energy economy, which would eventually have to be made when fossils fuels reserves..(5)..will obviously be huge. these include the the transmission lines that..(6)..wind farms with electricity consumers, and the pipe lines that link hydrogen supply sources with end-users. To a substantial degree, the infrastructure for the..(7)..energy sources-the transmission lines from electricity from coal and the pipe-lines for natural gas can be used in the energy economy as well. The local pipeline distribution network in various cities for natural gas can easily be..(8)..to hydrogen distributions system. for developing countries, the new energy sources..(9)..to reduce dependence on imported oil, freeing up capital for investment in domestic energy sources,..(10)..very few countries have their own oil fields, most have wind and solar energy. in terms of economic expansion and job generation, these new energy technologies are a godsend.\n Question 10:Fill the appropriate word from given options.",
+    "a": "1) despite",
+    "b": "2) As",
+    "c": "3) owing to",
+    "d": "4) Unless",
+    "e": "5) Although",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 1:Fill the appropriate word from given options.",
+    "a": "a. Collected",
+    "b": "b. seized",
+    "c": "c. accomplished",
+    "d": "d. acquired",
+    "e": "e. realized",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 2:Fill the appropriate word from given options.",
+    "a": "a. interfering",
+    "b": "b. unsuitable",
+    "c": "c. desperate",
+    "d": "d. clashing",
+    "e": "e. contrary",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 3:Fill the appropriate word from given options.",
+    "a": "a. devastate",
+    "b": "b. reshuffle",
+    "c": "c. disorient",
+    "d": "d. restructure",
+    "e": "e. revamp",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 4:Fill the appropriate word from given options.",
+    "a": "a. separate",
+    "b": "b. individual",
+    "c": "c. restricted",
+    "d": "d. sound",
+    "e": "e. independent",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 5:Fill the appropriate word from given options.",
+    "a": "a. defined",
+    "b": "b. different",
+    "c": "c. limited",
+    "d": "d. fixed",
+    "e": "e. no",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 6:Fill the appropriate word from given options.",
+    "a": "a. magnified",
+    "b": "b. enhanced",
+    "c": "c. embellished",
+    "d": "d. adorned",
+    "e": "e. aggrandised",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 7:Fill the appropriate word from given options.",
+    "a": "a. remain",
+    "b": "b. hover",
+    "c": "c. tarry",
+    "d": "d. lodge",
+    "e": "e. endure",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 8:Fill the appropriate word from given options.",
+    "a": "a. visible",
+    "b": "b. discernible",
+    "c": "c. revealed",
+    "d": "d. patent",
+    "e": "e. manifested",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 9:Fill the appropriate word from given options.",
+    "a": "a. vacillated",
+    "b": "b. shuffled",
+    "c": "c. displaced",
+    "d": "d. shifted",
+    "e": "e. given",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "The planing commission is neither a constitutional nor statutory body,but over the years it has..(1)..tremendous power of distance planning which is..(2)..to a country as diverse and complex as India. Let us neither reinvent nor..(3)..such body. Let us,instead, make a clean break and replace it with a think tank which supports high quality..(4)..research to support policy making in India.\nThe fundamental reason for this is that basic research is like defence: a pure public good which the private sector can supply only in..(5)..ways. the government,therefore, should provide the necessary support for this. The reason India need such a think tank is that despite..(6)..federalism and over liberalisation, the government will..(7)..a dominant and critical player in the Indian economy over the next several decades. Though the most..(8)..function of the planning commission -planning and enforcement of the five year plans-can be..(9)..to the states and other ministries, policymaking will remain integral to the function of the government at the centre and state levels and must be..(10)..with the central mission of evolving into a centre excellence for policy research.\n Question 10:Fill the appropriate word from given options.",
+    "a": "a. secured",
+    "b": "b. targeted",
+    "c": "c. destroyed",
+    "d": "d. concealed",
+    "e": "e. established",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 1:Fill the appropriate word from given options.",
+    "a": "a. amalgamation",
+    "b": "b. use",
+    "c": "c. associated",
+    "d": "d. vision",
+    "e": "e. regulated",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 2:Fill the appropriate word from given options.",
+    "a": "a. integral",
+    "b": "b. fundamental",
+    "c": "c. increased",
+    "d": "d. vital",
+    "e": "e. eager",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 3:Fill the appropriate word from given options.",
+    "a": "a. most",
+    "b": "b. all",
+    "c": "c. every",
+    "d": "d. few",
+    "e": "e. some",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 4:Fill the appropriate word from given options.",
+    "a": "a. World",
+    "b": "b. opinion",
+    "c": "c. stature",
+    "d": "d. profit",
+    "e": "e. facet",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 5:Fill the appropriate word from given options.",
+    "a": "a. multiply",
+    "b": "b. insatiable",
+    "c": "c. decreasing",
+    "d": "d. unquenchable",
+    "e": "e. unreasonable",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 6:Fill the appropriate word from given options.",
+    "a": "a. forage",
+    "b": "b. thwart",
+    "c": "c. motivate",
+    "d": "d. fuelling",
+    "e": "e. characterize",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 7:Fill the appropriate word from given options.",
+    "a": "a. making",
+    "b": "b. qualifying",
+    "c": "c. inclusive",
+    "d": "d. encompassing",
+    "e": "e. trusting",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 8:Fill the appropriate word from given options.",
+    "a": "a. owing",
+    "b": "b. since",
+    "c": "c. catering",
+    "d": "d. in order",
+    "e": "e. complement",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 9:Fill the appropriate word from given options.",
+    "a": "a. regularly",
+    "b": "b. substantially",
+    "c": "c. minimally",
+    "d": "d. exponential",
+    "e": "e. savagely",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Information technology and the hardware and software..(1)..with the IT industry, are an..(2)..part of nearly..(3)..major global industry. IT industry has become one of the most robust industries in the world.IT, more than any other industry or economic..(4). has an increased productivity, particularly in the developed world,and therefore is a key driver of google economic growth. Economics of scale and..(5)..demand from both consumers and enterprises..(6)..this rapidly growing sector. The information technology association of America (ITAA) explains ‘information technology’ as..(7)..all possible aspects of information systems based, on computer systems..(8)..to its easy accessibility and the wide-range of IT products available, the demand-for IT services has increased..(9)..over the years. The IT sector has emerged as a major global..(10)..of both growth and employment.\n Question 10:Fill the appropriate word from given options.",
+    "a": "a. fortune",
+    "b": "b. meltdown",
+    "c": "c. spring",
+    "d": "d. source",
+    "e": "e. economy",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 1:Fill the appropriate word from given options.",
+    "a": "1) Irrational",
+    "b": "2) main",
+    "c": "3) brilliant",
+    "d": "4) important",
+    "e": "5) empathetic",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 2:Fill the appropriate word from given options.",
+    "a": "1) maintaining",
+    "b": "2) trusting",
+    "c": "3) selling",
+    "d": "4) processing",
+    "e": "5) creating",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 3:Fill the appropriate word from given options.",
+    "a": "1) necessarily",
+    "b": "2) exceptionally",
+    "c": "3) primarily",
+    "d": "4) regularly",
+    "e": "5) truly",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 4:Fill the appropriate word from given options.",
+    "a": "1) unexplained",
+    "b": "2) doubt",
+    "c": "3) some",
+    "d": "4) true",
+    "e": "5) sad",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 5:Fill the appropriate word from given options.",
+    "a": "1) himself",
+    "b": "2) sometimes",
+    "c": "3) proper",
+    "d": "4) improve",
+    "e": "5) themselves",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 6:Fill the appropriate word from given options.",
+    "a": "1) established",
+    "b": "2) created",
+    "c": "3) set",
+    "d": "4) wound",
+    "e": "5) thought",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 7:Fill the appropriate word from given options.",
+    "a": "1) tried",
+    "b": "2) mattered",
+    "c": "3) meaning",
+    "d": "4) supposed",
+    "e": "5) expect",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 8:Fill the appropriate word from given options.",
+    "a": "1) renounced",
+    "b": "2) showed",
+    "c": "3) meaning",
+    "d": "4) supposed",
+    "e": "5) expect",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 9:Fill the appropriate word from given options.",
+    "a": "1) shift",
+    "b": "2) make",
+    "c": "3) turn",
+    "d": "4) mull",
+    "e": "5) switch",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Seed quality is an..(1)..aspect of crop production. For ages, farmers have traditionally been selecting and..(2)..good quality seed, since it was in their interest to do so. They knew and understood the importance of quality seed in production.\nHowever, with the advent of green revolution technology, based..(3)..on high-yielding dwarf varieties of wheat and rice, mainstream thinking changed. Agricultural scientists, for reasons that remain..(4)..,began to doubt, the ability of farmers to maintain seed quality..(5)… Aided by the World bank, the ministry of agriculture launched of national seeds project in 1967. Under the project, spreed into three phases, seed processing plants were..(6)..up in nine states. Six states were covered under phase three. All the huge processing plants were..(7)..to do was to provide ‘certified’ seeds of food crops, mainly self-pollinating crops, to farmers. In mid-1980s, the international rice research institute (IRRI) in the philippines concluded a study which..(8)..that there was hardly any difference in the crop yields from transplanted rice and form the crop shown by broadcasted seeds. one would wonder why, in the first instance, were the, farmers,asked to..(9)..over to transplanting paddy? The answer is simple-probably, to help the mechanical industries grow. since rice, is the staple food in Asia, tractor sales could any grow if there was a way to move the machine in the rice fields. No wonder, the sales of tractors,puddlers, reapers and other associated..(10)..soared in the rice growing areas.\n Question 10:Fill the appropriate word from given options.",
+    "a": "1) sell",
+    "b": "2) equipment",
+    "c": "3) people",
+    "d": "4) technique",
+    "e": "5) creatures",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(a) shambles",
+    "b": "(b) failure",
+    "c": "(c) demand",
+    "d": "(d) prosperity",
+    "e": "(e) ruined",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(a) bricks",
+    "b": "(b) emphasize",
+    "c": "(c) request",
+    "d": "(d) stress",
+    "e": "(e) important",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(a) through",
+    "b": "(b) across",
+    "c": "(c) sharing",
+    "d": "(d) with",
+    "e": "(e) on",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(a) made",
+    "b": "(b) comprise",
+    "c": "(c) consisted",
+    "d": "(d) is",
+    "e": "(e) contained",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(a) cater",
+    "b": "(b) provide",
+    "c": "(c) manage",
+    "d": "(d) survive",
+    "e": "(e) give",
+    "correct": "b",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(a) gap",
+    "b": "(b) position",
+    "c": "(c) distance",
+    "d": "(d) length",
+    "e": "(e) thought",
+    "correct": "a",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(a) reduction",
+    "b": "(b) sea",
+    "c": "(c) cropping",
+    "d": "(d) disabling",
+    "e": "(e) emergence",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(a) needy",
+    "b": "(b) destitute",
+    "c": "(c) bigger",
+    "d": "(d) affluent",
+    "e": "(e) much",
+    "correct": "d",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(a) slowly",
+    "b": "(b) improve",
+    "c": "(c) many",
+    "d": "(d) improvised",
+    "e": "(e) tremendous",
+    "correct": "e",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Prior to independence the healthcare sector in India was in a…(1)…with a large number of deaths and rampant spread of infectious diseases. After independence the Government of India laid…(2)…on primary healthcare and India has put in sustained efforts to better the healthcare system…(3)…the country. The government initiative was not enough to meet the demands of a growing population be it in primary, secondary or tertiary healthcare. Alternate sources of finance were critical for the sustainability of the health sector.Till about 20 years ago, private sector ventures in the healthcare sector…(4)…of only solo practitioners, small hospitals and nursing homes.The quality of service provided was excellent especially in the hospitals run by charitable trusts and religious foundations. In 1980’s realizing that the government on its own would not be able to…(5)…for healthcare, the government allowed the entry of private sector to reduce the…(6)…between supply and demand for healthcare.The establishment of the private sector has resulted in the…(7)…of opportunities in terms of medical equipment, information technology in health services, BPO, telemedicine and medical trourism.Large companies and…(8)…individuals have now started five star hospitals which dominate the space for the high end market. The private sector has made…(9)…progress, but on the flip side it is also responsible for increasing…(10)…in the healthcare sector.The private sector should be more socially relevant and effort must be made to make private sector accessible to the weaker sections of society.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(a) speed",
+    "b": "(b) pace",
+    "c": "(c) inequality",
+    "d": "(d) uniformity",
+    "e": "(e) seriousness",
+    "correct": "c",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 1:Fill the appropriate word from given options.",
+    "a": "(1) depressed",
+    "b": "(2) finish",
+    "c": "(3) problem",
+    "d": "(4) hinder",
+    "e": "(5) featured",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 2:Fill the appropriate word from given options.",
+    "a": "(1) evolved",
+    "b": "(2) destroyed",
+    "c": "(3) pledged",
+    "d": "(4) extinguished",
+    "e": "(5) waited",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 3:Fill the appropriate word from given options.",
+    "a": "(1) expensive",
+    "b": "(2) subjective",
+    "c": "(3) easier",
+    "d": "(4) loud",
+    "e": "(5) portable",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 4:Fill the appropriate word from given options.",
+    "a": "(1) lines",
+    "b": "(2) faith",
+    "c": "(3) distance",
+    "d": "(4) touch",
+    "e": "(5) check",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 5:Fill the appropriate word from given options.",
+    "a": "(1) pushed",
+    "b": "(2) cancel",
+    "c": "(3) shells",
+    "d": "(4) try",
+    "e": "(5) turn",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 6:Fill the appropriate word from given options.",
+    "a": "(1) maintain",
+    "b": "(2) teleport",
+    "c": "(3) cut",
+    "d": "(4) curb",
+    "e": "(5) regulation",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 7:Fill the appropriate word from given options.",
+    "a": "(1) dominate",
+    "b": "(2) elate",
+    "c": "(3) worry",
+    "d": "(4) says",
+    "e": "(5) mentioning",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 8:Fill the appropriate word from given options.",
+    "a": "(1) agree",
+    "b": "(2) happen",
+    "c": "(3) occurred",
+    "d": "(4) exist",
+    "e": "(5) possible",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 9:Fill the appropriate word from given options.",
+    "a": "(1) forms",
+    "b": "(2) prove",
+    "c": "(3) accomplish",
+    "d": "(4) study",
+    "e": "(5) example",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "Depending upon how humanity chooses to use it, technology can enhance or (1) any aspect of life. The realm of interpersonal communication generally feels this impact first. Many times, throughout history, humanity has changed its modes of communication as society itself has (2) As people began to spread out geographically, verbal communication turned to writing to make it more (3) ,Then, people invented ways of carrying both conversation and written communication between their communities to keep in (4) with one another as travel became simpler. With the advent of the telephone, people began to wonder if picking up the receiver to call one another would eventually (5) out other forms of communication. So far, as families and friends have moved away from one another, the telephone, even its cellular form, has allowed humanity to (6) the necessary links among its members.\nNaturally, now that computers, instant text messaging, and other forms of communication have found their way into the world, people not familiar with these technologies wonder what they will do to the human race. Etiquette experts and those raised on writing formal letters often (7) that e-mail and text message lingo will replace the language of pen and paper. This will not (8) and both methods of communication can survive to enhance humans enjoyment of one another’s company if the next generation learns how to (9) both. Each form of communication can survive with its own rules as people learn which situations in life (10) for which level of formality and which of the people they spend time with can connect better with which type of language.\n Question 10:Fill the appropriate word from given options.",
+    "a": "(1) take",
+    "b": "(2) require",
+    "c": "(3) jump",
+    "d": "(4) stands",
+    "e": "(5) call",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. below",
+    "b": "B. above",
+    "c": "C. over",
+    "d": "D. beneath",
+    "e": "E. under",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. against",
+    "b": "B. Through",
+    "c": "C. behind",
+    "d": "D. on",
+    "e": "E. in",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. liberally",
+    "b": "B. widely",
+    "c": "C. lavishly",
+    "d": "D. largely",
+    "e": "E. generously",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. building",
+    "b": "B. constructing",
+    "c": "C. erecting",
+    "d": "D. framing",
+    "e": "E. bringing",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. juxtaposed",
+    "b": "B. front",
+    "c": "C. that",
+    "d": "D. this",
+    "e": "E. flip",
+    "correct": "E",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. establishing",
+    "b": "B. setting",
+    "c": "C. putting",
+    "d": "D. focusing",
+    "e": "E. giving",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. acquire",
+    "b": "B. borrow",
+    "c": "C. beg",
+    "d": "D. pledge",
+    "e": "E. forfeit",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. heavily",
+    "b": "B. densely",
+    "c": "C. thickly",
+    "d": "D. dully",
+    "e": "E. gloomily",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. bulwark",
+    "b": "B. encash",
+    "c": "C. offend",
+    "d": "D. buffer",
+    "e": "E. stock",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "India’s forex reserves at over $338 billion are comfortable, and the current account deficit-equal to the gap between domestic investment and domestic savings-is..(1)..control. However, unlike China’s reserves that have been built up..(2)..trade surpluses, India’s forex reserves are based..(3)..on portfolio flows. So,.(4)..up an armour that includes increased reserves will make the country better prepared. India also needs to stimulate stalled investment and push structural reforms to get the economy into a better shape.\nOn the..(5)..side, the appreciation of the US dollar is..(6)..pressure on balance sheets of banks and firms that..(7)..in dollars but have assets or earnings in other currencies. India’s corporate sector, which has borrowed..(8)..in foreign currency, is not immune to this vulnerability. Companies should hedge their currency risks and shift to rupee debt as rates come down in India. To..(9)..the rupee against the effects of financial outflows that would..(10).., India must ensure faster growth brings foreign capital to its shores.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. pursue",
+    "b": "B. chase",
+    "c": "C. follow",
+    "d": "D. displace",
+    "e": "E. result",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. inarticulate",
+    "b": "B. glib",
+    "c": "C. quiet",
+    "d": "D. uncommunicative",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. declined",
+    "b": "B. constrained",
+    "c": "C. perpetrated",
+    "d": "D. abstained",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. rebuff",
+    "b": "B. repulse",
+    "c": "C. repulse",
+    "d": "D. enchantment",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. irony",
+    "b": "B. consideration",
+    "c": "C. deference",
+    "d": "D. frustration",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. diligent",
+    "b": "B. zealous",
+    "c": "C. snail-like",
+    "d": "D. enthusiastic",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. forbearance",
+    "b": "B. deprivation",
+    "c": "C. endowment",
+    "d": "D. offering",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. grievously",
+    "b": "B. pleasant",
+    "c": "C. harmless",
+    "d": "D. churlish",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. diminutive",
+    "b": "B. minikin",
+    "c": "C. infinitesimal",
+    "d": "D. colossal",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. semiliterate",
+    "b": "B. uneducated",
+    "c": "C. literate",
+    "d": "D. instructed",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "A..(1)..modernity has..(2)..the belief that technology can bring about the liberation of human beings. Therefore, it is not surprising that the post-colonial history of colonised nations is also largely a history of this unrealisable fantasy. Digital India is the latest..(3)… The..(4)..is that what goes missing in the search of a “technological fix” is human beings themselves. What should worry us is not the digital divide, but the fundamental divide between a rapidly growing technological capability and a..(5)..growth in eliminating human..(6)…\nMr. Modi’s Digital India speech at Silicon Valley showed his remarkable continuity with the policies of post-independence governments, which..(7)..ignored the fundamental bases of development, health and education, leading to..(8)..failures in eliminating deprivation. Is it of any surprise that in 2011, 50 per cent of rural India was illiterate or..(9)..semiliterate? Or that dengue overwhelms New Delhi now? All this is the result of an impoverished understanding of development as merely economic growth and progress in science and technology, rather than ensuring basic human capacities and dignity. Hence, we are in a..(10)..in which 71 per cent of rural India owns mobile phones while 75 per cent of it lives on Rs. 33 per day.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. portent",
+    "b": "B. thaumaturgy",
+    "c": "C. conjuncture",
+    "d": "D. wonder",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 1:Fill the appropriate word from given options.",
+    "a": "1) surprising",
+    "b": "2) usual",
+    "c": "3) challenging",
+    "d": "4) discernible",
+    "e": "5) striking",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 2:Fill the appropriate word from given options.",
+    "a": "1) favoured",
+    "b": "2) created",
+    "c": "3) issued",
+    "d": "4) raised",
+    "e": "5) directed",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 3:Fill the appropriate word from given options.",
+    "a": "1) childish",
+    "b": "2) secular",
+    "c": "3) ashamed",
+    "d": "4) disgraceful",
+    "e": "5) bias",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 4:Fill the appropriate word from given options.",
+    "a": "1) future",
+    "b": "2) upholders",
+    "c": "3) stars",
+    "d": "4) performers",
+    "e": "5) builders",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 5:Fill the appropriate word from given options.",
+    "a": "1) tasked",
+    "b": "2) authorised",
+    "c": "3) paid",
+    "d": "4) represented",
+    "e": "5) expected",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 6:Fill the appropriate word from given options.",
+    "a": "1) merit",
+    "b": "2) core",
+    "c": "3) result",
+    "d": "4) value",
+    "e": "5) response",
+    "correct": "4",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 7:Fill the appropriate word from given options.",
+    "a": "1) dignified",
+    "b": "2) drastic",
+    "c": "3) participatory",
+    "d": "4) friendly",
+    "e": "5) subjective",
+    "correct": "1",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 8:Fill the appropriate word from given options.",
+    "a": "1) trial",
+    "b": "2) battle",
+    "c": "3) campaign",
+    "d": "4) mandate",
+    "e": "5) operation",
+    "correct": "3",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 9:Fill the appropriate word from given options.",
+    "a": "1) beyond",
+    "b": "2) irrespective",
+    "c": "3) unless",
+    "d": "4) ahead",
+    "e": "5) away",
+    "correct": "2",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "It’s really that..(1)..major political parties have..(2)..advertisements which attack prominent political personalities.This is..(3)..These politicians are so-called..(4)..of democracy and are..(5)..to be role models for the citizens of this country. Therefore it’s high time they understood the..(6)..of a..(7)..election..(8)..and showed a little bit of maturity, so that..(9)..of their winning or losing, people can look up to them with respect, for the kind of ideologies they..(10).\n Question 10:Fill the appropriate word from given options.",
+    "a": "1) preach",
+    "b": "2) believe",
+    "c": "3) adhere",
+    "d": "4) impart",
+    "e": "5) pursue",
+    "correct": "5",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 1:Fill the appropriate word from given options.",
+    "a": "A. agitation",
+    "b": "B. consensus",
+    "c": "C. disagreement",
+    "d": "D. befuddlement",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 2:Fill the appropriate word from given options.",
+    "a": "A. convincing",
+    "b": "B. solution",
+    "c": "C. incontrovertible",
+    "d": "D. predicament",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 3:Fill the appropriate word from given options.",
+    "a": "A. cognisant",
+    "b": "B. unaware",
+    "c": "C. decent",
+    "d": "D. asleep",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 4:Fill the appropriate word from given options.",
+    "a": "A. calculative",
+    "b": "B. resurgence",
+    "c": "C. failure",
+    "d": "D. difficulties",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 5:Fill the appropriate word from given options.",
+    "a": "A. away from",
+    "b": "B. outside",
+    "c": "C. amid",
+    "d": "D. separate",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 6:Fill the appropriate word from given options.",
+    "a": "A. cold",
+    "b": "B. hot",
+    "c": "C. occupied",
+    "d": "D. tepid",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 7:Fill the appropriate word from given options.",
+    "a": "A. persisting",
+    "b": "B. fluctuation",
+    "c": "C. cease",
+    "d": "D. quit",
+    "e": "",
+    "correct": "A",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 8:Fill the appropriate word from given options.",
+    "a": "A. uncloudy",
+    "b": "B. hazy",
+    "c": "C. sunny",
+    "d": "D. clear",
+    "e": "",
+    "correct": "B",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 9:Fill the appropriate word from given options.",
+    "a": "A. arrangement",
+    "b": "B. organization",
+    "c": "C. willy-nilly",
+    "d": "D. conformity",
+    "e": "",
+    "correct": "C",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
+},{
+    "qtext": "For the economist-turned-central banker, widely credited with having predicted the 2008 financial crisis, the concern about the lack of a global policy..(1)..is born of a very real..(2).. Having just cut the benchmark interest rate by a higher-than-expected 50 basis points with the aim of providing a monetary fillip to domestic demand, Dr. Rajan is well..(3)..that a..(4).. of inflationary pressures..(5)..distinct signs of a drought across several key States could leave the RBI facing the spectre of..(6)..economic growth and accelerating price gains. And with..(7)..uncertainty over when the U.S. Federal Reserve would start normalisation of interest rates, the outlook for the global economy remains..(8)… The world having strayed into competitive easing..(9).., the need of the hour, according to Dr. Rajan, is a political consensus to go beyond domestic mandates and evolve optimal policies that help create global economic growth. Whether the G-20 leaders would pursue Dr. Rajan’s call and push for more..(10).. and wider political action on this front, given the common imperatives, remains to be seen.\n Question 10:Fill the appropriate word from given options.",
+    "a": "A. composed",
+    "b": "B. concerted",
+    "c": "C. calm",
+    "d": "D. concerted",
+    "e": "",
+    "correct": "D",
+    "img": "",
+    "topic": "Closet Test",
+    "section": "(English)"
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  ]
-}
+
+
+
+
+
+]}
