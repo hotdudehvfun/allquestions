@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.\nAfter Examining him, the doctor smiled at him mischievously and took out a syringe.\nThinking that he was really sick, his father summoned the family doctor.\nThat day, Mintu wanted to take a day off from school\nImmediately, Mintu jumped up from his bed and swore the he was fine\nTherefor; he pretended to be sick and remained in bed.\n\n<p>Which sentence should come <b>third</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.<br>After Examining him, the doctor smiled at him mischievously and took out a syringe.<br>Thinking that he was really sick, his father summoned the family doctor.<br>That day, Mintu wanted to take a day off from school<br>Immediately, Mintu jumped up from his bed and swore the he was fine<br>Therefor; he pretended to be sick and remained in bed.<br><br><p>Which sentence should come <b>third</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -13,7 +13,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.\nAfter Examining him, the doctor smiled at him mischievously and took out a syringe.\nThinking that he was really sick, his father summoned the family doctor.\nThat day, Mintu wanted to take a day off from school\nImmediately, Mintu jumped up from his bed and swore the he was fine\nTherefor; he pretended to be sick and remained in bed.\n\n<p>Which sentence should come <b>last</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.<br>After Examining him, the doctor smiled at him mischievously and took out a syringe.<br>Thinking that he was really sick, his father summoned the family doctor.<br>That day, Mintu wanted to take a day off from school<br>Immediately, Mintu jumped up from his bed and swore the he was fine<br>Therefor; he pretended to be sick and remained in bed.<br><br><p>Which sentence should come <b>last</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -25,7 +25,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.\nAfter Examining him, the doctor smiled at him mischievously and took out a syringe.\nThinking that he was really sick, his father summoned the family doctor.\nThat day, Mintu wanted to take a day off from school\nImmediately, Mintu jumped up from his bed and swore the he was fine\nTherefor; he pretended to be sick and remained in bed.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.<br>After Examining him, the doctor smiled at him mischievously and took out a syringe.<br>Thinking that he was really sick, his father summoned the family doctor.<br>That day, Mintu wanted to take a day off from school<br>Immediately, Mintu jumped up from his bed and swore the he was fine<br>Therefor; he pretended to be sick and remained in bed.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -37,7 +37,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.\nAfter Examining him, the doctor smiled at him mischievously and took out a syringe.\nThinking that he was really sick, his father summoned the family doctor.\nThat day, Mintu wanted to take a day off from school\nImmediately, Mintu jumped up from his bed and swore the he was fine\nTherefor; he pretended to be sick and remained in bed.\n\n<p>Which sentence should come <b>second</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.<br>After Examining him, the doctor smiled at him mischievously and took out a syringe.<br>Thinking that he was really sick, his father summoned the family doctor.<br>That day, Mintu wanted to take a day off from school<br>Immediately, Mintu jumped up from his bed and swore the he was fine<br>Therefor; he pretended to be sick and remained in bed.<br><br><p>Which sentence should come <b>second</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -49,7 +49,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.\nAfter Examining him, the doctor smiled at him mischievously and took out a syringe.\nThinking that he was really sick, his father summoned the family doctor.\nThat day, Mintu wanted to take a day off from school\nImmediately, Mintu jumped up from his bed and swore the he was fine\nTherefor; he pretended to be sick and remained in bed.\n\n<p>Which sentence should come <b>first</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence so as to for a meaningful paragraph, then answer the questions given below them.<br>After Examining him, the doctor smiled at him mischievously and took out a syringe.<br>Thinking that he was really sick, his father summoned the family doctor.<br>That day, Mintu wanted to take a day off from school<br>Immediately, Mintu jumped up from his bed and swore the he was fine<br>Therefor; he pretended to be sick and remained in bed.<br><br><p>Which sentence should come <b>first</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -61,7 +61,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.\nIn his literacy work he spoke of that province of human life which mere intellect does not speak.\nHe has also given innocent joy to many children by his stories like 'Kabuliwalah'\nThese songs are sung not only in bengal but all over the country.\nRabindranath's great works sprang from intensity of vision and feelings.\nHe sang of beauty and heroism, nobility and charm.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.<br>In his literacy work he spoke of that province of human life which mere intellect does not speak.<br>He has also given innocent joy to many children by his stories like 'Kabuliwalah'<br>These songs are sung not only in bengal but all over the country.<br>Rabindranath's great works sprang from intensity of vision and feelings.<br>He sang of beauty and heroism, nobility and charm.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -73,7 +73,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.\nIn his literacy work he spoke of that province of human life which mere intellect does not speak.\nHe has also given innocent joy to many children by his stories like 'Kabuliwalah'\nThese songs are sung not only in bengal but all over the country.\nRabindranath's great works sprang from intensity of vision and feelings.\nHe sang of beauty and heroism, nobility and charm.\n\n<p>Which sentence should come <b>third</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.<br>In his literacy work he spoke of that province of human life which mere intellect does not speak.<br>He has also given innocent joy to many children by his stories like 'Kabuliwalah'<br>These songs are sung not only in bengal but all over the country.<br>Rabindranath's great works sprang from intensity of vision and feelings.<br>He sang of beauty and heroism, nobility and charm.<br><br><p>Which sentence should come <b>third</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -85,7 +85,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.\nIn his literacy work he spoke of that province of human life which mere intellect does not speak.\nHe has also given innocent joy to many children by his stories like 'Kabuliwalah'\nThese songs are sung not only in bengal but all over the country.\nRabindranath's great works sprang from intensity of vision and feelings.\nHe sang of beauty and heroism, nobility and charm.\n\n<p>Which sentence should come <b>second</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.<br>In his literacy work he spoke of that province of human life which mere intellect does not speak.<br>He has also given innocent joy to many children by his stories like 'Kabuliwalah'<br>These songs are sung not only in bengal but all over the country.<br>Rabindranath's great works sprang from intensity of vision and feelings.<br>He sang of beauty and heroism, nobility and charm.<br><br><p>Which sentence should come <b>second</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -97,7 +97,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.\nIn his literacy work he spoke of that province of human life which mere intellect does not speak.\nHe has also given innocent joy to many children by his stories like 'Kabuliwalah'\nThese songs are sung not only in bengal but all over the country.\nRabindranath's great works sprang from intensity of vision and feelings.\nHe sang of beauty and heroism, nobility and charm.\n\n<p>Which sentence should come <b>fifth</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.<br>In his literacy work he spoke of that province of human life which mere intellect does not speak.<br>He has also given innocent joy to many children by his stories like 'Kabuliwalah'<br>These songs are sung not only in bengal but all over the country.<br>Rabindranath's great works sprang from intensity of vision and feelings.<br>He sang of beauty and heroism, nobility and charm.<br><br><p>Which sentence should come <b>fifth</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -109,7 +109,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.\nIn his literacy work he spoke of that province of human life which mere intellect does not speak.\nHe has also given innocent joy to many children by his stories like 'Kabuliwalah'\nThese songs are sung not only in bengal but all over the country.\nRabindranath's great works sprang from intensity of vision and feelings.\nHe sang of beauty and heroism, nobility and charm.\n\n<p>Which sentence should come <b>first</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences and rearrange them to make a coherent and logical paragraph. After deciding the sequence, answer the questions given below.<br>In his literacy work he spoke of that province of human life which mere intellect does not speak.<br>He has also given innocent joy to many children by his stories like 'Kabuliwalah'<br>These songs are sung not only in bengal but all over the country.<br>Rabindranath's great works sprang from intensity of vision and feelings.<br>He sang of beauty and heroism, nobility and charm.<br><br><p>Which sentence should come <b>first</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -121,7 +121,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.\nI reached office at 11 O' clock after sending the money.\nSome money had to be sent to my parents.\nAfter that, I spent almost an hour at the Post Office.\nTherefore, I went to bank to withdraw some money.\nHowever, I had no money with me.\n\n<p>Which sentence should come <b>third</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.<br>I reached office at 11 O' clock after sending the money.<br>Some money had to be sent to my parents.<br>After that, I spent almost an hour at the Post Office.<br>Therefore, I went to bank to withdraw some money.<br>However, I had no money with me.<br><br><p>Which sentence should come <b>third</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -133,7 +133,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.\nI reached office at 11 O' clock after sending the money.\nSome money had to be sent to my parents.\nAfter that, I spent almost an hour at the Post Office.\nTherefore, I went to bank to withdraw some money.\nHowever, I had no money with me.\n\n<p>Which sentence should come <b>first</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.<br>I reached office at 11 O' clock after sending the money.<br>Some money had to be sent to my parents.<br>After that, I spent almost an hour at the Post Office.<br>Therefore, I went to bank to withdraw some money.<br>However, I had no money with me.<br><br><p>Which sentence should come <b>first</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -145,7 +145,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.\nI reached office at 11 O' clock after sending the money.\nSome money had to be sent to my parents.\nAfter that, I spent almost an hour at the Post Office.\nTherefore, I went to bank to withdraw some money.\nHowever, I had no money with me.\n\n<p>Which sentence should come <b>fifth</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.<br>I reached office at 11 O' clock after sending the money.<br>Some money had to be sent to my parents.<br>After that, I spent almost an hour at the Post Office.<br>Therefore, I went to bank to withdraw some money.<br>However, I had no money with me.<br><br><p>Which sentence should come <b>fifth</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -157,7 +157,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.\nI reached office at 11 O' clock after sending the money.\nSome money had to be sent to my parents.\nAfter that, I spent almost an hour at the Post Office.\nTherefore, I went to bank to withdraw some money.\nHowever, I had no money with me.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.<br>I reached office at 11 O' clock after sending the money.<br>Some money had to be sent to my parents.<br>After that, I spent almost an hour at the Post Office.<br>Therefore, I went to bank to withdraw some money.<br>However, I had no money with me.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -169,7 +169,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.\nI reached office at 11 O' clock after sending the money.\nSome money had to be sent to my parents.\nAfter that, I spent almost an hour at the Post Office.\nTherefore, I went to bank to withdraw some money.\nHowever, I had no money with me.\n\n<p>Which sentence should come <b>second</b> in the paragraph?</p>",
+      "qtext": "Read the following five sentences in the proper sequence so as to form a meaningfull paragraph, then answer the questions given below them.<br>I reached office at 11 O' clock after sending the money.<br>Some money had to be sent to my parents.<br>After that, I spent almost an hour at the Post Office.<br>Therefore, I went to bank to withdraw some money.<br>However, I had no money with me.<br><br><p>Which sentence should come <b>second</b> in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -181,7 +181,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIn fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.\nChildren have always known that there is conflict in the adult world.\nHowever, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.\nWe may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.\nFurther, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.\n\n<p>Which of the following should be the <b>fourth</b> sentence in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>In fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.<br>Children have always known that there is conflict in the adult world.<br>However, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.<br>We may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.<br>Further, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.<br><br><p>Which of the following should be the <b>fourth</b> sentence in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -193,7 +193,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIn fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.\nChildren have always known that there is conflict in the adult world.\nHowever, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.\nWe may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.\nFurther, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.\n\n<p>Which of the following should be the <b>last</b> sentence in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>In fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.<br>Children have always known that there is conflict in the adult world.<br>However, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.<br>We may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.<br>Further, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.<br><br><p>Which of the following should be the <b>last</b> sentence in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -205,7 +205,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIn fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.\nChildren have always known that there is conflict in the adult world.\nHowever, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.\nWe may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.\nFurther, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.\n\n<p>Which of the following should be the <b>third</b> sentence in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>In fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.<br>Children have always known that there is conflict in the adult world.<br>However, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.<br>We may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.<br>Further, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.<br><br><p>Which of the following should be the <b>third</b> sentence in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -217,7 +217,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIn fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.\nChildren have always known that there is conflict in the adult world.\nHowever, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.\nWe may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.\nFurther, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.\n\n<p>Which of the following should be the <b>second</b> sentence in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>In fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.<br>Children have always known that there is conflict in the adult world.<br>However, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.<br>We may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.<br>Further, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.<br><br><p>Which of the following should be the <b>second</b> sentence in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -229,7 +229,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIn fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.\nChildren have always known that there is conflict in the adult world.\nHowever, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.\nWe may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.\nFurther, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.\n\n<p>Which of the following should be the <b>first</b> sentence in the paragraph?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>In fact, it prevent us from helping children to analyse conflict, to learn to cope with it and counter it.<br>Children have always known that there is conflict in the adult world.<br>However, the make-believe world that 19th century rationally imposed on childhood in Europe and which we impose in an institutionalised manner through our modern education system can hardly be described as related in this regard.<br>We may therefore conclude that conflict in an institutionalised manner is not a matter of faith in children's capacities, rather, it is a lack of faith in ourselves as adults.<br>Further, psychologists tell us and story tellers have always known that the child's desire to search for order and coherence gathers strength from the knowledge of conflict.<br><br><p>Which of the following should be the <b>first</b> sentence in the paragraph?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -241,7 +241,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.\nCritics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.\nFor all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.\nOne of the key complaint focuses on this non-profit bank's recent \"profitability\"\nAlthough the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.\nThe bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.\n\n<p>Which sentence should come <b>sixth</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.<br>Critics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.<br>For all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.<br>One of the key complaint focuses on this non-profit bank's recent \"profitability\"<br>Although the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.<br>The bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.<br><br><p>Which sentence should come <b>sixth</b> in the paragraph?</p>",
       "a": "A. 5",
       "b": "B. 4",
       "c": "C. 2",
@@ -253,7 +253,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.\nCritics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.\nFor all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.\nOne of the key complaint focuses on this non-profit bank's recent \"profitability\"\nAlthough the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.\nThe bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.\n\n<p>Which sentence should come <b>third</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.<br>Critics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.<br>For all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.<br>One of the key complaint focuses on this non-profit bank's recent \"profitability\"<br>Although the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.<br>The bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.<br><br><p>Which sentence should come <b>third</b> in the paragraph?</p>",
       "a": "A. 2",
       "b": "B. 5",
       "c": "C. 1",
@@ -265,7 +265,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.\nCritics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.\nFor all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.\nOne of the key complaint focuses on this non-profit bank's recent \"profitability\"\nAlthough the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.\nThe bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.\n\n<p>Which sentence should come <b>second</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.<br>Critics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.<br>For all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.<br>One of the key complaint focuses on this non-profit bank's recent \"profitability\"<br>Although the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.<br>The bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.<br><br><p>Which sentence should come <b>second</b> in the paragraph?</p>",
       "a": "A. 3",
       "b": "B. 1",
       "c": "C. 4",
@@ -277,7 +277,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.\nCritics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.\nFor all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.\nOne of the key complaint focuses on this non-profit bank's recent \"profitability\"\nAlthough the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.\nThe bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.<br>Critics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.<br>For all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.<br>One of the key complaint focuses on this non-profit bank's recent \"profitability\"<br>Although the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.<br>The bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph?</p>",
       "a": "A. 6",
       "b": "B. 3",
       "c": "C. 5",
@@ -289,7 +289,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.\nCritics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.\nFor all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.\nOne of the key complaint focuses on this non-profit bank's recent \"profitability\"\nAlthough the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.\nThe bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.\n\n<p>Which sentence should come <b>first</b> in the paragraph?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A case in point is the programme involving the Sardar Sarovar Dam which would displace about 2, 00, 000 people.<br>Critics decry the fact that a major development institution appears to absorb more capital than it distributes to borrowers.<br>For all its faults critics however, concede that the bank remains a relatively efficient instrument for distribution of development-aid money.<br>One of the key complaint focuses on this non-profit bank's recent \"profitability\"<br>Although the lives of millions of people around the globe have been improved by the bank's activities, it is now under fire.<br>The bank is also being blamed for large-scale involuntary resettlement to make way for dams and other construction projects.<br><br><p>Which sentence should come <b>first</b> in the paragraph?</p>",
       "a": "A. 4",
       "b": "B. 6",
       "c": "C. 3",
@@ -301,7 +301,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nChandrakanth was shocked when he realised that the leg had lost sensation.\nwhen he tried to get up, he felt his leg was very heavy.\nHe had to lie down hopelessly, till he saw a flash light\nIt was an odd night time and hence nobody heard his voice.\nDue to sudden sprain chandrakanth fell down.\nNervous with this realisation, he called out for help.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Chandrakanth was shocked when he realised that the leg had lost sensation.<br>when he tried to get up, he felt his leg was very heavy.<br>He had to lie down hopelessly, till he saw a flash light<br>It was an odd night time and hence nobody heard his voice.<br>Due to sudden sprain chandrakanth fell down.<br>Nervous with this realisation, he called out for help.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -313,7 +313,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nChandrakanth was shocked when he realised that the leg had lost sensation.\nwhen he tried to get up, he felt his leg was very heavy.\nHe had to lie down hopelessly, till he saw a flash light\nIt was an odd night time and hence nobody heard his voice.\nDue to sudden sprain chandrakanth fell down.\nNervous with this realisation, he called out for help.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Chandrakanth was shocked when he realised that the leg had lost sensation.<br>when he tried to get up, he felt his leg was very heavy.<br>He had to lie down hopelessly, till he saw a flash light<br>It was an odd night time and hence nobody heard his voice.<br>Due to sudden sprain chandrakanth fell down.<br>Nervous with this realisation, he called out for help.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -325,7 +325,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nChandrakanth was shocked when he realised that the leg had lost sensation.\nwhen he tried to get up, he felt his leg was very heavy.\nHe had to lie down hopelessly, till he saw a flash light\nIt was an odd night time and hence nobody heard his voice.\nDue to sudden sprain chandrakanth fell down.\nNervous with this realisation, he called out for help.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Chandrakanth was shocked when he realised that the leg had lost sensation.<br>when he tried to get up, he felt his leg was very heavy.<br>He had to lie down hopelessly, till he saw a flash light<br>It was an odd night time and hence nobody heard his voice.<br>Due to sudden sprain chandrakanth fell down.<br>Nervous with this realisation, he called out for help.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -337,7 +337,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nChandrakanth was shocked when he realised that the leg had lost sensation.\nwhen he tried to get up, he felt his leg was very heavy.\nHe had to lie down hopelessly, till he saw a flash light\nIt was an odd night time and hence nobody heard his voice.\nDue to sudden sprain chandrakanth fell down.\nNervous with this realisation, he called out for help.\n\n<p>Which of the following should be the <b>sixth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Chandrakanth was shocked when he realised that the leg had lost sensation.<br>when he tried to get up, he felt his leg was very heavy.<br>He had to lie down hopelessly, till he saw a flash light<br>It was an odd night time and hence nobody heard his voice.<br>Due to sudden sprain chandrakanth fell down.<br>Nervous with this realisation, he called out for help.<br><br><p>Which of the following should be the <b>sixth</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -349,7 +349,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nChandrakanth was shocked when he realised that the leg had lost sensation.\nwhen he tried to get up, he felt his leg was very heavy.\nHe had to lie down hopelessly, till he saw a flash light\nIt was an odd night time and hence nobody heard his voice.\nDue to sudden sprain chandrakanth fell down.\nNervous with this realisation, he called out for help.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Chandrakanth was shocked when he realised that the leg had lost sensation.<br>when he tried to get up, he felt his leg was very heavy.<br>He had to lie down hopelessly, till he saw a flash light<br>It was an odd night time and hence nobody heard his voice.<br>Due to sudden sprain chandrakanth fell down.<br>Nervous with this realisation, he called out for help.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 6",
@@ -361,7 +361,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe history of mankind is full of such fightings between communities, nations and people.\nFrom the primitive weapon of warfare, man has advanced to the modern nuclear weapons.\nEver since the dawn of civilisation man has been fighting with man.\nA modern war is scientific in character, but the effect is the same wiping human existence out of this earth.\nThe only difference now seems to be in the efficiency of the instruments used for killing each other.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The history of mankind is full of such fightings between communities, nations and people.<br>From the primitive weapon of warfare, man has advanced to the modern nuclear weapons.<br>Ever since the dawn of civilisation man has been fighting with man.<br>A modern war is scientific in character, but the effect is the same wiping human existence out of this earth.<br>The only difference now seems to be in the efficiency of the instruments used for killing each other.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -373,7 +373,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe history of mankind is full of such fightings between communities, nations and people.\nFrom the primitive weapon of warfare, man has advanced to the modern nuclear weapons.\nEver since the dawn of civilisation man has been fighting with man.\nA modern war is scientific in character, but the effect is the same wiping human existence out of this earth.\nThe only difference now seems to be in the efficiency of the instruments used for killing each other.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The history of mankind is full of such fightings between communities, nations and people.<br>From the primitive weapon of warfare, man has advanced to the modern nuclear weapons.<br>Ever since the dawn of civilisation man has been fighting with man.<br>A modern war is scientific in character, but the effect is the same wiping human existence out of this earth.<br>The only difference now seems to be in the efficiency of the instruments used for killing each other.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -385,7 +385,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe history of mankind is full of such fightings between communities, nations and people.\nFrom the primitive weapon of warfare, man has advanced to the modern nuclear weapons.\nEver since the dawn of civilisation man has been fighting with man.\nA modern war is scientific in character, but the effect is the same wiping human existence out of this earth.\nThe only difference now seems to be in the efficiency of the instruments used for killing each other.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The history of mankind is full of such fightings between communities, nations and people.<br>From the primitive weapon of warfare, man has advanced to the modern nuclear weapons.<br>Ever since the dawn of civilisation man has been fighting with man.<br>A modern war is scientific in character, but the effect is the same wiping human existence out of this earth.<br>The only difference now seems to be in the efficiency of the instruments used for killing each other.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -397,7 +397,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe history of mankind is full of such fightings between communities, nations and people.\nFrom the primitive weapon of warfare, man has advanced to the modern nuclear weapons.\nEver since the dawn of civilisation man has been fighting with man.\nA modern war is scientific in character, but the effect is the same wiping human existence out of this earth.\nThe only difference now seems to be in the efficiency of the instruments used for killing each other.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The history of mankind is full of such fightings between communities, nations and people.<br>From the primitive weapon of warfare, man has advanced to the modern nuclear weapons.<br>Ever since the dawn of civilisation man has been fighting with man.<br>A modern war is scientific in character, but the effect is the same wiping human existence out of this earth.<br>The only difference now seems to be in the efficiency of the instruments used for killing each other.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -409,7 +409,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe history of mankind is full of such fightings between communities, nations and people.\nFrom the primitive weapon of warfare, man has advanced to the modern nuclear weapons.\nEver since the dawn of civilisation man has been fighting with man.\nA modern war is scientific in character, but the effect is the same wiping human existence out of this earth.\nThe only difference now seems to be in the efficiency of the instruments used for killing each other.\n\n<p>Which of the following should be the <b>fifth</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The history of mankind is full of such fightings between communities, nations and people.<br>From the primitive weapon of warfare, man has advanced to the modern nuclear weapons.<br>Ever since the dawn of civilisation man has been fighting with man.<br>A modern war is scientific in character, but the effect is the same wiping human existence out of this earth.<br>The only difference now seems to be in the efficiency of the instruments used for killing each other.<br><br><p>Which of the following should be the <b>fifth</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -421,7 +421,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIts current was very powerful and could take away big tree trunks.\nThere were some children, playing on the bank of waterway\nIn the forest of Madhubani, there is big lake.\nThe excess water started flowing forcefully through the waterway.\nOnce there was a very heavy rain because of which the lake started overflowing.\nA poor man noticed it and rushed to save them.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Its current was very powerful and could take away big tree trunks.<br>There were some children, playing on the bank of waterway<br>In the forest of Madhubani, there is big lake.<br>The excess water started flowing forcefully through the waterway.<br>Once there was a very heavy rain because of which the lake started overflowing.<br>A poor man noticed it and rushed to save them.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -433,7 +433,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIts current was very powerful and could take away big tree trunks.\nThere were some children, playing on the bank of waterway\nIn the forest of Madhubani, there is big lake.\nThe excess water started flowing forcefully through the waterway.\nOnce there was a very heavy rain because of which the lake started overflowing.\nA poor man noticed it and rushed to save them.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Its current was very powerful and could take away big tree trunks.<br>There were some children, playing on the bank of waterway<br>In the forest of Madhubani, there is big lake.<br>The excess water started flowing forcefully through the waterway.<br>Once there was a very heavy rain because of which the lake started overflowing.<br>A poor man noticed it and rushed to save them.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -445,7 +445,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIts current was very powerful and could take away big tree trunks.\nThere were some children, playing on the bank of waterway\nIn the forest of Madhubani, there is big lake.\nThe excess water started flowing forcefully through the waterway.\nOnce there was a very heavy rain because of which the lake started overflowing.\nA poor man noticed it and rushed to save them.\n\n<p>Which of the following should be the <b>sixth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Its current was very powerful and could take away big tree trunks.<br>There were some children, playing on the bank of waterway<br>In the forest of Madhubani, there is big lake.<br>The excess water started flowing forcefully through the waterway.<br>Once there was a very heavy rain because of which the lake started overflowing.<br>A poor man noticed it and rushed to save them.<br><br><p>Which of the following should be the <b>sixth</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -457,7 +457,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIts current was very powerful and could take away big tree trunks.\nThere were some children, playing on the bank of waterway\nIn the forest of Madhubani, there is big lake.\nThe excess water started flowing forcefully through the waterway.\nOnce there was a very heavy rain because of which the lake started overflowing.\nA poor man noticed it and rushed to save them.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Its current was very powerful and could take away big tree trunks.<br>There were some children, playing on the bank of waterway<br>In the forest of Madhubani, there is big lake.<br>The excess water started flowing forcefully through the waterway.<br>Once there was a very heavy rain because of which the lake started overflowing.<br>A poor man noticed it and rushed to save them.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 5",
       "b": "B. 4",
       "c": "C. 3",
@@ -469,7 +469,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIts current was very powerful and could take away big tree trunks.\nThere were some children, playing on the bank of waterway\nIn the forest of Madhubani, there is big lake.\nThe excess water started flowing forcefully through the waterway.\nOnce there was a very heavy rain because of which the lake started overflowing.\nA poor man noticed it and rushed to save them.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Its current was very powerful and could take away big tree trunks.<br>There were some children, playing on the bank of waterway<br>In the forest of Madhubani, there is big lake.<br>The excess water started flowing forcefully through the waterway.<br>Once there was a very heavy rain because of which the lake started overflowing.<br>A poor man noticed it and rushed to save them.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -481,7 +481,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe means and methods they employ to deal with public pressures are also different.\nThey will make no move unless the gallery is packed.\nThe poorest are over-hesitant, evasive and preoccupied with their relationships with others.\nEnourmous difference is generally observed in the ways in which various public officials respond to public pressures.\nThe best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.\nThey confront all embarrassments with a state general formula.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The means and methods they employ to deal with public pressures are also different.<br>They will make no move unless the gallery is packed.<br>The poorest are over-hesitant, evasive and preoccupied with their relationships with others.<br>Enourmous difference is generally observed in the ways in which various public officials respond to public pressures.<br>The best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.<br>They confront all embarrassments with a state general formula.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 6",
       "b": "B. 5",
       "c": "C. 4",
@@ -493,7 +493,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe means and methods they employ to deal with public pressures are also different.\nThey will make no move unless the gallery is packed.\nThe poorest are over-hesitant, evasive and preoccupied with their relationships with others.\nEnourmous difference is generally observed in the ways in which various public officials respond to public pressures.\nThe best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.\nThey confront all embarrassments with a state general formula.\n\n<p>Which of the following should be the <b>sixth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The means and methods they employ to deal with public pressures are also different.<br>They will make no move unless the gallery is packed.<br>The poorest are over-hesitant, evasive and preoccupied with their relationships with others.<br>Enourmous difference is generally observed in the ways in which various public officials respond to public pressures.<br>The best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.<br>They confront all embarrassments with a state general formula.<br><br><p>Which of the following should be the <b>sixth</b> sentence ?</p>",
       "a": "A. 2",
       "b": "B. 3",
       "c": "C. 4",
@@ -505,7 +505,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe means and methods they employ to deal with public pressures are also different.\nThey will make no move unless the gallery is packed.\nThe poorest are over-hesitant, evasive and preoccupied with their relationships with others.\nEnourmous difference is generally observed in the ways in which various public officials respond to public pressures.\nThe best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.\nThey confront all embarrassments with a state general formula.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The means and methods they employ to deal with public pressures are also different.<br>They will make no move unless the gallery is packed.<br>The poorest are over-hesitant, evasive and preoccupied with their relationships with others.<br>Enourmous difference is generally observed in the ways in which various public officials respond to public pressures.<br>The best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.<br>They confront all embarrassments with a state general formula.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 2",
       "b": "B. 3",
       "c": "C. 4",
@@ -517,7 +517,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe means and methods they employ to deal with public pressures are also different.\nThey will make no move unless the gallery is packed.\nThe poorest are over-hesitant, evasive and preoccupied with their relationships with others.\nEnourmous difference is generally observed in the ways in which various public officials respond to public pressures.\nThe best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.\nThey confront all embarrassments with a state general formula.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The means and methods they employ to deal with public pressures are also different.<br>They will make no move unless the gallery is packed.<br>The poorest are over-hesitant, evasive and preoccupied with their relationships with others.<br>Enourmous difference is generally observed in the ways in which various public officials respond to public pressures.<br>The best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.<br>They confront all embarrassments with a state general formula.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -529,7 +529,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nThe means and methods they employ to deal with public pressures are also different.\nThey will make no move unless the gallery is packed.\nThe poorest are over-hesitant, evasive and preoccupied with their relationships with others.\nEnourmous difference is generally observed in the ways in which various public officials respond to public pressures.\nThe best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.\nThey confront all embarrassments with a state general formula.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>The means and methods they employ to deal with public pressures are also different.<br>They will make no move unless the gallery is packed.<br>The poorest are over-hesitant, evasive and preoccupied with their relationships with others.<br>Enourmous difference is generally observed in the ways in which various public officials respond to public pressures.<br>The best possess understanding of forces that must be taken in to account, determination not to be swerved from the path of public interest.<br>They confront all embarrassments with a state general formula.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -541,7 +541,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut, we all helped in the first few days.\nChandrapur is considered as a rural area.\nManohar was transferred to his office recently.\nInitially he was not getting adjusted to the city life.\nNow, Manohar is very proud of his colleagues.\nBefore that he was working in chandrapur branch of our office.\n\n<p>Which of the following should be the <b>sixth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But, we all helped in the first few days.<br>Chandrapur is considered as a rural area.<br>Manohar was transferred to his office recently.<br>Initially he was not getting adjusted to the city life.<br>Now, Manohar is very proud of his colleagues.<br>Before that he was working in chandrapur branch of our office.<br><br><p>Which of the following should be the <b>sixth</b> sentence ?</p>",
       "a": "A. 3",
       "b": "B. 4",
       "c": "C. 5",
@@ -553,7 +553,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut, we all helped in the first few days.\nChandrapur is considered as a rural area.\nManohar was transferred to his office recently.\nInitially he was not getting adjusted to the city life.\nNow, Manohar is very proud of his colleagues.\nBefore that he was working in chandrapur branch of our office.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But, we all helped in the first few days.<br>Chandrapur is considered as a rural area.<br>Manohar was transferred to his office recently.<br>Initially he was not getting adjusted to the city life.<br>Now, Manohar is very proud of his colleagues.<br>Before that he was working in chandrapur branch of our office.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 3",
       "b": "B. 4",
       "c": "C. 5",
@@ -565,7 +565,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut, we all helped in the first few days.\nChandrapur is considered as a rural area.\nManohar was transferred to his office recently.\nInitially he was not getting adjusted to the city life.\nNow, Manohar is very proud of his colleagues.\nBefore that he was working in chandrapur branch of our office.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But, we all helped in the first few days.<br>Chandrapur is considered as a rural area.<br>Manohar was transferred to his office recently.<br>Initially he was not getting adjusted to the city life.<br>Now, Manohar is very proud of his colleagues.<br>Before that he was working in chandrapur branch of our office.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 5",
       "b": "B. 6",
       "c": "C. 1",
@@ -577,7 +577,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut, we all helped in the first few days.\nChandrapur is considered as a rural area.\nManohar was transferred to his office recently.\nInitially he was not getting adjusted to the city life.\nNow, Manohar is very proud of his colleagues.\nBefore that he was working in chandrapur branch of our office.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But, we all helped in the first few days.<br>Chandrapur is considered as a rural area.<br>Manohar was transferred to his office recently.<br>Initially he was not getting adjusted to the city life.<br>Now, Manohar is very proud of his colleagues.<br>Before that he was working in chandrapur branch of our office.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 2",
       "b": "B. 3",
       "c": "C. 4",
@@ -589,7 +589,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut, we all helped in the first few days.\nChandrapur is considered as a rural area.\nManohar was transferred to his office recently.\nInitially he was not getting adjusted to the city life.\nNow, Manohar is very proud of his colleagues.\nBefore that he was working in chandrapur branch of our office.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But, we all helped in the first few days.<br>Chandrapur is considered as a rural area.<br>Manohar was transferred to his office recently.<br>Initially he was not getting adjusted to the city life.<br>Now, Manohar is very proud of his colleagues.<br>Before that he was working in chandrapur branch of our office.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 3",
       "b": "B. 4",
       "c": "C. 5",
@@ -601,7 +601,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIndeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.\nThus, we have nuclear families, single parent families, surrogate families and global families to name just a few.\nHow these changes have reduced our world view is an interesting field of study in themselves.\nWhat we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.\nEach of these has brought it own attitudes and priorities.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Indeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.<br>Thus, we have nuclear families, single parent families, surrogate families and global families to name just a few.<br>How these changes have reduced our world view is an interesting field of study in themselves.<br>What we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.<br>Each of these has brought it own attitudes and priorities.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -613,7 +613,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIndeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.\nThus, we have nuclear families, single parent families, surrogate families and global families to name just a few.\nHow these changes have reduced our world view is an interesting field of study in themselves.\nWhat we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.\nEach of these has brought it own attitudes and priorities.\n\n<p>Which sentence should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Indeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.<br>Thus, we have nuclear families, single parent families, surrogate families and global families to name just a few.<br>How these changes have reduced our world view is an interesting field of study in themselves.<br>What we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.<br>Each of these has brought it own attitudes and priorities.<br><br><p>Which sentence should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -625,7 +625,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIndeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.\nThus, we have nuclear families, single parent families, surrogate families and global families to name just a few.\nHow these changes have reduced our world view is an interesting field of study in themselves.\nWhat we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.\nEach of these has brought it own attitudes and priorities.\n\n<p>Which sentence should come <b>fifth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Indeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.<br>Thus, we have nuclear families, single parent families, surrogate families and global families to name just a few.<br>How these changes have reduced our world view is an interesting field of study in themselves.<br>What we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.<br>Each of these has brought it own attitudes and priorities.<br><br><p>Which sentence should come <b>fifth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -637,7 +637,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIndeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.\nThus, we have nuclear families, single parent families, surrogate families and global families to name just a few.\nHow these changes have reduced our world view is an interesting field of study in themselves.\nWhat we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.\nEach of these has brought it own attitudes and priorities.\n\n<p>Which sentence should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Indeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.<br>Thus, we have nuclear families, single parent families, surrogate families and global families to name just a few.<br>How these changes have reduced our world view is an interesting field of study in themselves.<br>What we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.<br>Each of these has brought it own attitudes and priorities.<br><br><p>Which sentence should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -649,7 +649,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nIndeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.\nThus, we have nuclear families, single parent families, surrogate families and global families to name just a few.\nHow these changes have reduced our world view is an interesting field of study in themselves.\nWhat we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.\nEach of these has brought it own attitudes and priorities.\n\n<p>Which sentence should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Indeed, the mutations that the family has undergone in this century have been more challenging than at any time of its evolution.<br>Thus, we have nuclear families, single parent families, surrogate families and global families to name just a few.<br>How these changes have reduced our world view is an interesting field of study in themselves.<br>What we often forget is that the family as it exists today has expanded its orthodox definition to include several variations.<br>Each of these has brought it own attitudes and priorities.<br><br><p>Which sentence should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -661,7 +661,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut by then it was too late to correct things.\nIt is impossible to steer such a large project to success without planning.\nHe had to standby and watch helplessly.\nThe whole scheme was destined, to fail from the beginning.\nBhaskar started realising this only towards the end.\n\n<p>Which sentence should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But by then it was too late to correct things.<br>It is impossible to steer such a large project to success without planning.<br>He had to standby and watch helplessly.<br>The whole scheme was destined, to fail from the beginning.<br>Bhaskar started realising this only towards the end.<br><br><p>Which sentence should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -673,7 +673,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut by then it was too late to correct things.\nIt is impossible to steer such a large project to success without planning.\nHe had to standby and watch helplessly.\nThe whole scheme was destined, to fail from the beginning.\nBhaskar started realising this only towards the end.\n\n<p>Which sentence should come <b>fifth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But by then it was too late to correct things.<br>It is impossible to steer such a large project to success without planning.<br>He had to standby and watch helplessly.<br>The whole scheme was destined, to fail from the beginning.<br>Bhaskar started realising this only towards the end.<br><br><p>Which sentence should come <b>fifth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -685,7 +685,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut by then it was too late to correct things.\nIt is impossible to steer such a large project to success without planning.\nHe had to standby and watch helplessly.\nThe whole scheme was destined, to fail from the beginning.\nBhaskar started realising this only towards the end.\n\n<p>Which sentence should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But by then it was too late to correct things.<br>It is impossible to steer such a large project to success without planning.<br>He had to standby and watch helplessly.<br>The whole scheme was destined, to fail from the beginning.<br>Bhaskar started realising this only towards the end.<br><br><p>Which sentence should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -697,7 +697,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut by then it was too late to correct things.\nIt is impossible to steer such a large project to success without planning.\nHe had to standby and watch helplessly.\nThe whole scheme was destined, to fail from the beginning.\nBhaskar started realising this only towards the end.\n\n<p>Which sentence should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But by then it was too late to correct things.<br>It is impossible to steer such a large project to success without planning.<br>He had to standby and watch helplessly.<br>The whole scheme was destined, to fail from the beginning.<br>Bhaskar started realising this only towards the end.<br><br><p>Which sentence should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -709,7 +709,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nBut by then it was too late to correct things.\nIt is impossible to steer such a large project to success without planning.\nHe had to standby and watch helplessly.\nThe whole scheme was destined, to fail from the beginning.\nBhaskar started realising this only towards the end.\n\n<p>Which sentence should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>But by then it was too late to correct things.<br>It is impossible to steer such a large project to success without planning.<br>He had to standby and watch helplessly.<br>The whole scheme was destined, to fail from the beginning.<br>Bhaskar started realising this only towards the end.<br><br><p>Which sentence should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -721,7 +721,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nWould you steal a software programme out of retail shop?\nThe industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.\nBut more than the legality, there is always a different way of looking at piracy and that is in terms of morality.\nThe Government on the other hand has initiated National Enforcements Committees.\nAs far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.\n\n<p>Which of the following should be the <b>fourth</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Would you steal a software programme out of retail shop?<br>The industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.<br>But more than the legality, there is always a different way of looking at piracy and that is in terms of morality.<br>The Government on the other hand has initiated National Enforcements Committees.<br>As far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.<br><br><p>Which of the following should be the <b>fourth</b> sentence ?</p>",
       "a": "A. 5",
       "b": "B. 1",
       "c": "C. 2",
@@ -733,7 +733,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nWould you steal a software programme out of retail shop?\nThe industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.\nBut more than the legality, there is always a different way of looking at piracy and that is in terms of morality.\nThe Government on the other hand has initiated National Enforcements Committees.\nAs far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.\n\n<p>Which of the following should be the <b>fifth</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Would you steal a software programme out of retail shop?<br>The industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.<br>But more than the legality, there is always a different way of looking at piracy and that is in terms of morality.<br>The Government on the other hand has initiated National Enforcements Committees.<br>As far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.<br><br><p>Which of the following should be the <b>fifth</b> sentence ?</p>",
       "a": "A. 1",
       "b": "B. 4",
       "c": "C. 3",
@@ -745,7 +745,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nWould you steal a software programme out of retail shop?\nThe industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.\nBut more than the legality, there is always a different way of looking at piracy and that is in terms of morality.\nThe Government on the other hand has initiated National Enforcements Committees.\nAs far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.\n\n<p>Which of the following should be the <b>first</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Would you steal a software programme out of retail shop?<br>The industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.<br>But more than the legality, there is always a different way of looking at piracy and that is in terms of morality.<br>The Government on the other hand has initiated National Enforcements Committees.<br>As far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.<br><br><p>Which of the following should be the <b>first</b> sentence ?</p>",
       "a": "A. 3",
       "b": "B. 2",
       "c": "C. 5",
@@ -757,7 +757,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nWould you steal a software programme out of retail shop?\nThe industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.\nBut more than the legality, there is always a different way of looking at piracy and that is in terms of morality.\nThe Government on the other hand has initiated National Enforcements Committees.\nAs far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.\n\n<p>Which of the following should be the <b>third</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Would you steal a software programme out of retail shop?<br>The industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.<br>But more than the legality, there is always a different way of looking at piracy and that is in terms of morality.<br>The Government on the other hand has initiated National Enforcements Committees.<br>As far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.<br><br><p>Which of the following should be the <b>third</b> sentence ?</p>",
       "a": "A. 2",
       "b": "B. 3",
       "c": "C. 1",
@@ -769,7 +769,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nWould you steal a software programme out of retail shop?\nThe industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.\nBut more than the legality, there is always a different way of looking at piracy and that is in terms of morality.\nThe Government on the other hand has initiated National Enforcements Committees.\nAs far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.\n\n<p>Which of the following should be the <b>second</b> sentence ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Would you steal a software programme out of retail shop?<br>The industry on its part has formed an organisation to specially gather information, educate and drag and software pirates to courts.<br>But more than the legality, there is always a different way of looking at piracy and that is in terms of morality.<br>The Government on the other hand has initiated National Enforcements Committees.<br>As far as the issue of tackling piracy is concerned, both the industry and government have already started initiating action.<br><br><p>Which of the following should be the <b>second</b> sentence ?</p>",
       "a": "A. 4",
       "b": "B. 2",
       "c": "C. 3",
@@ -781,7 +781,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nJohn did not have the money to buy the beautiful clip.\nAfter a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.\nAs it was Christmas, john want to give Jane a surprise present.\nWhen Jane saw it, she felt like crying.\nHe decided to present her a clip made of ivory for her long flowing hair.\nHe, therefore sold off his watch and brought home the present.\n\n<p>Which of the sentences should come <b>sixth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>John did not have the money to buy the beautiful clip.<br>After a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.<br>As it was Christmas, john want to give Jane a surprise present.<br>When Jane saw it, she felt like crying.<br>He decided to present her a clip made of ivory for her long flowing hair.<br>He, therefore sold off his watch and brought home the present.<br><br><p>Which of the sentences should come <b>sixth</b> in the paragraph ?</p>",
       "a": "A. 5",
       "b": "B. 4",
       "c": "C. 1",
@@ -793,7 +793,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nJohn did not have the money to buy the beautiful clip.\nAfter a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.\nAs it was Christmas, john want to give Jane a surprise present.\nWhen Jane saw it, she felt like crying.\nHe decided to present her a clip made of ivory for her long flowing hair.\nHe, therefore sold off his watch and brought home the present.\n\n<p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>John did not have the money to buy the beautiful clip.<br>After a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.<br>As it was Christmas, john want to give Jane a surprise present.<br>When Jane saw it, she felt like crying.<br>He decided to present her a clip made of ivory for her long flowing hair.<br>He, therefore sold off his watch and brought home the present.<br><br><p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 3",
       "b": "B. 6",
       "c": "C. 2",
@@ -805,7 +805,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nJohn did not have the money to buy the beautiful clip.\nAfter a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.\nAs it was Christmas, john want to give Jane a surprise present.\nWhen Jane saw it, she felt like crying.\nHe decided to present her a clip made of ivory for her long flowing hair.\nHe, therefore sold off his watch and brought home the present.\n\n<p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>John did not have the money to buy the beautiful clip.<br>After a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.<br>As it was Christmas, john want to give Jane a surprise present.<br>When Jane saw it, she felt like crying.<br>He decided to present her a clip made of ivory for her long flowing hair.<br>He, therefore sold off his watch and brought home the present.<br><br><p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 6",
       "b": "B. 1",
       "c": "C. 5",
@@ -817,7 +817,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nJohn did not have the money to buy the beautiful clip.\nAfter a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.\nAs it was Christmas, john want to give Jane a surprise present.\nWhen Jane saw it, she felt like crying.\nHe decided to present her a clip made of ivory for her long flowing hair.\nHe, therefore sold off his watch and brought home the present.\n\n<p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>John did not have the money to buy the beautiful clip.<br>After a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.<br>As it was Christmas, john want to give Jane a surprise present.<br>When Jane saw it, she felt like crying.<br>He decided to present her a clip made of ivory for her long flowing hair.<br>He, therefore sold off his watch and brought home the present.<br><br><p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 4",
       "b": "B. 5",
       "c": "C. 6",
@@ -829,7 +829,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nJohn did not have the money to buy the beautiful clip.\nAfter a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.\nAs it was Christmas, john want to give Jane a surprise present.\nWhen Jane saw it, she felt like crying.\nHe decided to present her a clip made of ivory for her long flowing hair.\nHe, therefore sold off his watch and brought home the present.\n\n<p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>John did not have the money to buy the beautiful clip.<br>After a while, Jane explained to John that she had sold her hair to buy a gold chain for his watch.<br>As it was Christmas, john want to give Jane a surprise present.<br>When Jane saw it, she felt like crying.<br>He decided to present her a clip made of ivory for her long flowing hair.<br>He, therefore sold off his watch and brought home the present.<br><br><p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -841,7 +841,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.\nHowever for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.\nThere are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.\nAlthough we spend nearly half of each communication interaction listening, we do not listen well.\nEach approach has a particular emphasis that may help us to receive and process informationin different settings.\n\n<p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.<br>However for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.<br>There are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.<br>Although we spend nearly half of each communication interaction listening, we do not listen well.<br>Each approach has a particular emphasis that may help us to receive and process informationin different settings.<br><br><p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -853,7 +853,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.\nHowever for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.\nThere are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.\nAlthough we spend nearly half of each communication interaction listening, we do not listen well.\nEach approach has a particular emphasis that may help us to receive and process informationin different settings.\n\n<p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.<br>However for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.<br>There are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.<br>Although we spend nearly half of each communication interaction listening, we do not listen well.<br>Each approach has a particular emphasis that may help us to receive and process informationin different settings.<br><br><p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -865,7 +865,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.\nHowever for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.\nThere are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.\nAlthough we spend nearly half of each communication interaction listening, we do not listen well.\nEach approach has a particular emphasis that may help us to receive and process informationin different settings.\n\n<p>Which of the sentences should come <b>fifth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.<br>However for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.<br>There are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.<br>Although we spend nearly half of each communication interaction listening, we do not listen well.<br>Each approach has a particular emphasis that may help us to receive and process informationin different settings.<br><br><p>Which of the sentences should come <b>fifth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -877,7 +877,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.\nHowever for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.\nThere are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.\nAlthough we spend nearly half of each communication interaction listening, we do not listen well.\nEach approach has a particular emphasis that may help us to receive and process informationin different settings.\n\n<p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.<br>However for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.<br>There are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.<br>Although we spend nearly half of each communication interaction listening, we do not listen well.<br>Each approach has a particular emphasis that may help us to receive and process informationin different settings.<br><br><p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -889,7 +889,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.\nHowever for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.\nThere are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.\nAlthough we spend nearly half of each communication interaction listening, we do not listen well.\nEach approach has a particular emphasis that may help us to receive and process informationin different settings.\n\n<p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A Study to this effects suggests that the average white-collar worker demonstrates only about 25% listening efficiency.<br>However for trained and good listeners it is not unusual to use all the three approaches during a setting, thus improving listening efficiency.<br>There are three approaches to listening: Listening for comprehension, Listening for empathy and Listening for evaluation.<br>Although we spend nearly half of each communication interaction listening, we do not listen well.<br>Each approach has a particular emphasis that may help us to receive and process informationin different settings.<br><br><p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -901,7 +901,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nKiran received a call to attend the interview.\nHe applied for a new job.\nKiran was an ambitious boy.\nBut, he was not happy there.\nHis father had put him in a clerical job.\n\n<p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Kiran received a call to attend the interview.<br>He applied for a new job.<br>Kiran was an ambitious boy.<br>But, he was not happy there.<br>His father had put him in a clerical job.<br><br><p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -913,7 +913,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nKiran received a call to attend the interview.\nHe applied for a new job.\nKiran was an ambitious boy.\nBut, he was not happy there.\nHis father had put him in a clerical job.\n\n<p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Kiran received a call to attend the interview.<br>He applied for a new job.<br>Kiran was an ambitious boy.<br>But, he was not happy there.<br>His father had put him in a clerical job.<br><br><p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -925,7 +925,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nKiran received a call to attend the interview.\nHe applied for a new job.\nKiran was an ambitious boy.\nBut, he was not happy there.\nHis father had put him in a clerical job.\n\n<p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Kiran received a call to attend the interview.<br>He applied for a new job.<br>Kiran was an ambitious boy.<br>But, he was not happy there.<br>His father had put him in a clerical job.<br><br><p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -937,7 +937,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nKiran received a call to attend the interview.\nHe applied for a new job.\nKiran was an ambitious boy.\nBut, he was not happy there.\nHis father had put him in a clerical job.\n\n<p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Kiran received a call to attend the interview.<br>He applied for a new job.<br>Kiran was an ambitious boy.<br>But, he was not happy there.<br>His father had put him in a clerical job.<br><br><p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -949,7 +949,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nKiran received a call to attend the interview.\nHe applied for a new job.\nKiran was an ambitious boy.\nBut, he was not happy there.\nHis father had put him in a clerical job.\n\n<p>Which of the sentences should come <b>fifth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following five sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>Kiran received a call to attend the interview.<br>He applied for a new job.<br>Kiran was an ambitious boy.<br>But, he was not happy there.<br>His father had put him in a clerical job.<br><br><p>Which of the sentences should come <b>fifth</b> in the paragraph ?</p>",
       "a": "A. 1",
       "b": "B. 2",
       "c": "C. 3",
@@ -961,7 +961,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA taxi was summoned and Venu was taken to Lifeline hospital.\nWhile hurrying home from school.\nsince they did not succeed, they decided to take him to a hospital.\nWhen Venu opened his eyes, he found himself surrounded by doctors and nurses.\nSome people rushed towards him and tried to bring him to his senses.\nHe was thrown a couple of feet away and lost consciousness.\n\n<p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A taxi was summoned and Venu was taken to Lifeline hospital.<br>While hurrying home from school.<br>since they did not succeed, they decided to take him to a hospital.<br>When Venu opened his eyes, he found himself surrounded by doctors and nurses.<br>Some people rushed towards him and tried to bring him to his senses.<br>He was thrown a couple of feet away and lost consciousness.<br><br><p>Which of the sentences should come <b>first</b> in the paragraph ?</p>",
       "a": "A. 4",
       "b": "B. 6",
       "c": "C. 2",
@@ -973,7 +973,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA taxi was summoned and Venu was taken to Lifeline hospital.\nWhile hurrying home from school.\nsince they did not succeed, they decided to take him to a hospital.\nWhen Venu opened his eyes, he found himself surrounded by doctors and nurses.\nSome people rushed towards him and tried to bring him to his senses.\nHe was thrown a couple of feet away and lost consciousness.\n\n<p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A taxi was summoned and Venu was taken to Lifeline hospital.<br>While hurrying home from school.<br>since they did not succeed, they decided to take him to a hospital.<br>When Venu opened his eyes, he found himself surrounded by doctors and nurses.<br>Some people rushed towards him and tried to bring him to his senses.<br>He was thrown a couple of feet away and lost consciousness.<br><br><p>Which of the sentences should come <b>fourth</b> in the paragraph ?</p>",
       "a": "A. 3",
       "b": "B. 5",
       "c": "C. 6",
@@ -985,7 +985,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA taxi was summoned and Venu was taken to Lifeline hospital.\nWhile hurrying home from school.\nsince they did not succeed, they decided to take him to a hospital.\nWhen Venu opened his eyes, he found himself surrounded by doctors and nurses.\nSome people rushed towards him and tried to bring him to his senses.\nHe was thrown a couple of feet away and lost consciousness.\n\n<p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A taxi was summoned and Venu was taken to Lifeline hospital.<br>While hurrying home from school.<br>since they did not succeed, they decided to take him to a hospital.<br>When Venu opened his eyes, he found himself surrounded by doctors and nurses.<br>Some people rushed towards him and tried to bring him to his senses.<br>He was thrown a couple of feet away and lost consciousness.<br><br><p>Which of the sentences should come <b>third</b> in the paragraph ?</p>",
       "a": "A. 6",
       "b": "B. 2",
       "c": "C. 5",
@@ -997,7 +997,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA taxi was summoned and Venu was taken to Lifeline hospital.\nWhile hurrying home from school.\nsince they did not succeed, they decided to take him to a hospital.\nWhen Venu opened his eyes, he found himself surrounded by doctors and nurses.\nSome people rushed towards him and tried to bring him to his senses.\nHe was thrown a couple of feet away and lost consciousness.\n\n<p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A taxi was summoned and Venu was taken to Lifeline hospital.<br>While hurrying home from school.<br>since they did not succeed, they decided to take him to a hospital.<br>When Venu opened his eyes, he found himself surrounded by doctors and nurses.<br>Some people rushed towards him and tried to bring him to his senses.<br>He was thrown a couple of feet away and lost consciousness.<br><br><p>Which of the sentences should come <b>second</b> in the paragraph ?</p>",
       "a": "A. 5",
       "b": "B. 1",
       "c": "C. 4",
@@ -1009,7 +1009,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.\nA taxi was summoned and Venu was taken to Lifeline hospital.\nWhile hurrying home from school.\nsince they did not succeed, they decided to take him to a hospital.\nWhen Venu opened his eyes, he found himself surrounded by doctors and nurses.\nSome people rushed towards him and tried to bring him to his senses.\nHe was thrown a couple of feet away and lost consciousness.\n\n<p>Which of the sentences should come <b>sixth</b> in the paragraph ?</p>",
+      "qtext": "Rearrange the following six sentences in proper sequence to form a meaningful paragraph, then answer the questions given below.<br>A taxi was summoned and Venu was taken to Lifeline hospital.<br>While hurrying home from school.<br>since they did not succeed, they decided to take him to a hospital.<br>When Venu opened his eyes, he found himself surrounded by doctors and nurses.<br>Some people rushed towards him and tried to bring him to his senses.<br>He was thrown a couple of feet away and lost consciousness.<br><br><p>Which of the sentences should come <b>sixth</b> in the paragraph ?</p>",
       "a": "A. 2",
       "b": "B. 3",
       "c": "C. 1",
@@ -1021,7 +1021,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.\n<p></p><ol class=\"En-Para-Formation\">\n<li>Participation involves more than the formal sharing of decisions.</li>\n<li>Through anticipation, individuals or organisations consider trends and make plans, shielding institutions from trauma of learning by shock.</li>\n<li>Innovative learning involves both anticipation and participation.</li>\n<li>It is an attitude characterised by cooperation, dialogue and empathy.</li>\n</ol><p></p>",
+      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.<br><p></p><ol class=\"En-Para-Formation\"><br><li>Participation involves more than the formal sharing of decisions.</li><br><li>Through anticipation, individuals or organisations consider trends and make plans, shielding institutions from trauma of learning by shock.</li><br><li>Innovative learning involves both anticipation and participation.</li><br><li>It is an attitude characterised by cooperation, dialogue and empathy.</li><br></ol><p></p>",
       "a": "A. 2314",
       "b": "B. 1243",
       "c": "C. 4132",
@@ -1033,7 +1033,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.\n<p></p><ol class=\"En-Para-Formation\">\n<li>Finally the bureaucratic organisation took over from the pioneering enterprise.</li>\n<li>The 19<sup>th</sup> century was the age of entrepreneur, the self-made man.</li>\n<li>Thoughtful business administration took over from action-centred business entrepreneurship.</li>\n<li>In the 20<sup>th</sup> century the rational executive took command.</li>\n</ol><p></p>",
+      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.<br><p></p><ol class=\"En-Para-Formation\"><br><li>Finally the bureaucratic organisation took over from the pioneering enterprise.</li><br><li>The 19<sup>th</sup> century was the age of entrepreneur, the self-made man.</li><br><li>Thoughtful business administration took over from action-centred business entrepreneurship.</li><br><li>In the 20<sup>th</sup> century the rational executive took command.</li><br></ol><p></p>",
       "a": "A. 4213",
       "b": "B. 3124",
       "c": "C. 2431",
@@ -1045,7 +1045,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.\n<p></p><ol class=\"En-Para-Formation\">\n<li>However, different rulers and governments dealt with the different groups in a compartmentalised manner.</li>\n<li>Various situtatutional and political changes have taken place over the past three and half centuries.</li>\n<li>This tendency resulted in deeply embedded fragmented South African society which became even more prominent in the period 1948 until the new commencement of the new Constitution on May 10 1994.</li>\n<li>South Africa is a racially divided society since the first European settlers arrived in 1652.</li>\n</ol><p></p>",
+      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.<br><p></p><ol class=\"En-Para-Formation\"><br><li>However, different rulers and governments dealt with the different groups in a compartmentalised manner.</li><br><li>Various situtatutional and political changes have taken place over the past three and half centuries.</li><br><li>This tendency resulted in deeply embedded fragmented South African society which became even more prominent in the period 1948 until the new commencement of the new Constitution on May 10 1994.</li><br><li>South Africa is a racially divided society since the first European settlers arrived in 1652.</li><br></ol><p></p>",
       "a": "A. 2413",
       "b": "B. 4213",
       "c": "C. 3124",
@@ -1057,7 +1057,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.\n<p></p><ol class=\"En-Para-Formation\">\n<li>Now under liberated economy they are learning to complete domestically and globally.</li>\n<li>In India corporations until recently achieved success by avoiding competition, using protected and regulated domestic markets.</li>\n<li>The trend is irreversible.</li>\n<li>Business leaders are preparing themselves to meet competitive challenges and to avoid being swept away.</li>\n</ol><p></p>",
+      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.<br><p></p><ol class=\"En-Para-Formation\"><br><li>Now under liberated economy they are learning to complete domestically and globally.</li><br><li>In India corporations until recently achieved success by avoiding competition, using protected and regulated domestic markets.</li><br><li>The trend is irreversible.</li><br><li>Business leaders are preparing themselves to meet competitive challenges and to avoid being swept away.</li><br></ol><p></p>",
       "a": "A. 1243",
       "b": "B. 2431",
       "c": "C. 2413",
@@ -1069,7 +1069,7 @@
       "section": "(English)"
     },
     {
-      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.\n<p></p><ol class=\"En-Para-Formation\">\n<li>Learn a kind of tenderness towards the vanity of others.</li>\n<li>And indeed towards all their prejudices.</li>\n<li>Who make a cult of sincerity.</li>\n<li>Men accustomed to difficult negotiations.</li>\n<li>Which is infinitely shocking to these. </li>\n</ol><p></p>",
+      "qtext": "In each question rearrange the given sentences in proper sequence to form a meaningful paragraph; then, mark the correct sequence as answer.<br><p></p><ol class=\"En-Para-Formation\"><br><li>Learn a kind of tenderness towards the vanity of others.</li><br><li>And indeed towards all their prejudices.</li><br><li>Who make a cult of sincerity.</li><br><li>Men accustomed to difficult negotiations.</li><br><li>Which is infinitely shocking to these. </li><br></ol><p></p>",
       "a": "A. 43512",
       "b": "B. 34521",
       "c": "C. 41253",
