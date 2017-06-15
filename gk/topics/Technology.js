@@ -9,7 +9,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -21,7 +21,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -33,7 +33,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -45,7 +45,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -57,7 +57,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -69,7 +69,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -81,7 +81,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -93,7 +93,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -105,7 +105,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -117,7 +117,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -129,7 +129,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -141,7 +141,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -153,7 +153,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -165,7 +165,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -177,7 +177,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -189,7 +189,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -201,7 +201,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -213,7 +213,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -225,7 +225,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -237,7 +237,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -249,7 +249,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -261,7 +261,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -273,7 +273,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -285,7 +285,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -297,7 +297,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -309,7 +309,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -321,7 +321,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -333,7 +333,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -345,7 +345,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -357,7 +357,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -369,7 +369,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -381,7 +381,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -393,7 +393,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -405,7 +405,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -417,7 +417,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -429,7 +429,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -441,7 +441,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -453,7 +453,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -465,7 +465,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -477,7 +477,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -489,7 +489,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -501,7 +501,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -513,7 +513,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -525,7 +525,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -537,7 +537,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -549,7 +549,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -561,7 +561,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -573,7 +573,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -585,7 +585,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -597,7 +597,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -609,7 +609,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -621,7 +621,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -633,7 +633,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -645,7 +645,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -657,7 +657,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -669,7 +669,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -681,7 +681,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -693,7 +693,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -705,7 +705,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -717,7 +717,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -729,7 +729,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -741,7 +741,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -753,7 +753,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -765,7 +765,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -777,7 +777,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -789,7 +789,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -801,7 +801,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -813,7 +813,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -825,7 +825,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -837,7 +837,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -849,7 +849,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -861,7 +861,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -873,7 +873,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -885,7 +885,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -897,7 +897,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -909,7 +909,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -921,7 +921,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -933,7 +933,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -945,7 +945,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -957,7 +957,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -969,7 +969,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -981,7 +981,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -993,7 +993,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1005,7 +1005,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1017,7 +1017,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1029,7 +1029,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1041,7 +1041,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1053,7 +1053,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1065,7 +1065,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1077,7 +1077,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1089,7 +1089,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1101,7 +1101,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1113,7 +1113,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1125,7 +1125,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1137,7 +1137,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1149,7 +1149,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1161,7 +1161,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1173,7 +1173,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1185,7 +1185,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1197,7 +1197,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1209,7 +1209,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1221,7 +1221,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1233,7 +1233,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1245,7 +1245,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1257,7 +1257,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1269,7 +1269,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1281,7 +1281,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1293,7 +1293,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1305,7 +1305,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1317,7 +1317,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1329,7 +1329,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1341,7 +1341,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1353,7 +1353,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1365,7 +1365,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1377,7 +1377,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1389,7 +1389,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1401,7 +1401,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1413,7 +1413,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1425,7 +1425,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1437,7 +1437,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1449,7 +1449,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1461,7 +1461,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1473,7 +1473,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1485,7 +1485,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1497,7 +1497,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1509,7 +1509,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1521,7 +1521,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1533,7 +1533,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1545,7 +1545,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1557,7 +1557,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1569,7 +1569,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1581,7 +1581,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1593,7 +1593,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1605,7 +1605,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1617,7 +1617,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1629,7 +1629,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1641,7 +1641,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1653,7 +1653,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1665,7 +1665,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1677,7 +1677,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1689,7 +1689,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1701,7 +1701,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1713,7 +1713,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1725,7 +1725,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1737,7 +1737,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1749,7 +1749,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1761,7 +1761,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1773,7 +1773,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1785,7 +1785,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1797,7 +1797,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1809,7 +1809,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1821,7 +1821,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1833,7 +1833,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1845,7 +1845,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1857,7 +1857,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1869,7 +1869,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1881,7 +1881,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1893,7 +1893,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1905,7 +1905,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1917,7 +1917,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1929,7 +1929,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1941,7 +1941,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1953,7 +1953,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1965,7 +1965,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1977,7 +1977,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -1989,7 +1989,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2001,7 +2001,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2013,7 +2013,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2025,7 +2025,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2037,7 +2037,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2049,7 +2049,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2061,7 +2061,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2073,7 +2073,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2085,7 +2085,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2097,7 +2097,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2109,7 +2109,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2121,7 +2121,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2133,7 +2133,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2145,7 +2145,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2157,7 +2157,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2169,7 +2169,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2181,7 +2181,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2193,7 +2193,7 @@
       "e": "",
       "correct": "A",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2205,7 +2205,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2217,7 +2217,7 @@
       "e": "",
       "correct": "B",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2229,7 +2229,7 @@
       "e": "",
       "correct": "C",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     },
     {
@@ -2241,7 +2241,7 @@
       "e": "",
       "correct": "D",
       "img": "",
-      "topic": "#topic",
+      "topic": "Technology",
       "section": "(General Awareness)"
     }
   ]
