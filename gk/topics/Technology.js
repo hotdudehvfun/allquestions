@@ -2243,6 +2243,30 @@
       "img": "",
       "topic": "Technology",
       "section": "(General Awareness)"
-    }
+    },{
+"qtext":"What is the size of  Floppy Diskette which is used normally?",
+"a":"A. 3.5",
+"b":"B. 5.5",
+"c":"C. 5.3",
+"d":"D. 2",
+"correct":"1",
+"img":"",
+"topic":"Technology",
+"section":"(General Awareness)"
+},
+{
+"qtext":"A compact disc (CD) is a data storage system of the type",
+"a":" A. Magnetic",
+"b":" B. Optical",
+"c":" C. Electrical",
+"d":" D. Electromechanical",
+"correct":"2",
+"img":"",
+"topic":"Technology",
+"section":"(General Awareness)"
+}
+
+
+
   ]
 }
