@@ -1,7 +1,4 @@
-{
-"data":
-[
-  {
+[{
     "qtext": " Select the odd words/numbers/letters from the given alternatives.",
     "a": " Genuine",
     "b": " Legitimate",
@@ -2000,6 +1997,4 @@
     "correct": "4",
     "topic": "#topic",
     "section": "(English)"
-  }
-]
-}
+  }]
